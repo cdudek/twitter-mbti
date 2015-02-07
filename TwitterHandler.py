@@ -12,15 +12,8 @@ class TwitterHandler:
   def __init__(self):
     self.api = TwitterAuth().getApi()
 
-  def search(self, query, n=1):
+  def search(self, query):
     statuses = self.api.search(q=query, lang='en', count=100,result_type="")
-    # tweet_list = dict()
-    # count = 1
-    # for status in statuses:
-    #   print count
-    #   tweet = self.minimizeTweet(status._json)
-    #   tweet_list[tweet["screen_name"]] = tweet
-    #   count += 1
     return statuses
 
   def getUser(self, screen_name):
