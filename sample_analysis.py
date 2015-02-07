@@ -5,6 +5,10 @@ from pprint import pprint
 import csv
 path = "data"
 
+
+def process(data):
+    return [0]
+
 files = [ f for f in listdir(path) if isfile(join(path,f)) ]
 
 with open('samples.csv', 'w') as outfile:
@@ -18,6 +22,6 @@ with open('samples.csv', 'w') as outfile:
             features = []
             features.append(twitName)
             features.append(type)
-            features.append(0)
+            features.extend(process(data))
             outwriter = csv.writer(outfile, lineterminator= '\n')
             outwriter.writerow(features)
