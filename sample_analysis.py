@@ -7,7 +7,14 @@ path = "data"
 
 
 def process(data):
-    return [0]
+    n=[0,0,0,0,0];
+    #n={'symbols':0,'user_mentions':0,'hashtags':0,'urls':0,'media':0};
+    for tweet in data['tweets'].values():
+        for entity in enumerate(tweet['entities']):
+            n[entity[0]]=n[entity[0]]+len(tweet['entities'][entity[1]])
+    #print n , " " , len(data['tweets'])
+    usr_interactions_per_tweet = [round(x / float(len(data['tweets'])),4) for x in n]
+    return [usr_interactions_per_tweet]
 
 files = [ f for f in listdir(path) if isfile(join(path,f)) ]
 

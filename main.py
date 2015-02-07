@@ -5,17 +5,23 @@ from controller.UserController import UserController
 # from nlp.LogLinearClassifier import LinearClassifier
 
 def main():
-  mbti_types_list=['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ','ENFP','ENTJ','ENTP','ESFJ','ESFP','ESTJ','ESTP'];
+    mbti_types_list=['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ','ENFP','ENTJ','ENTP','ESFJ','ESFP','ESTJ','ESTP'];
+    print(mbti_types_list)
+    for mbti_type in mbti_types_list:
+        print("Getting Users for " + mbti_type)
+        uc = UserController()
+        user_ids = uc.getUsersBySearchTerm("mbti " + mbti_type)
+        n=1;
+        
+        for id in user_ids:
+            print n , " of 100 " , mbti_type, " Users"
+            user = User(id, mbti_type)
+            n=1+n
 
-  print(mbti_types_list)
-
-
-  for mbti_type in mbti_types_list:
-    uc = UserController()
-    user_ids = uc.getUsersBySearchTerm("mbti " + mbti_type)
-
-    for id in user_ids:
-      user = User(id, mbti_type)
+    #   Log Linear Model
+    #  LLC = LinearClassifier()
+    #  LLC.trainArguments(docs)
+    #  LLC.perceptron(docs, 10)
 
 if __name__ == '__main__':
   main()
