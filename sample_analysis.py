@@ -16,6 +16,28 @@ def process(data):
     usr_interactions_per_tweet = [round(x / float(len(data['tweets'])),4) for x in n]
     return [usr_interactions_per_tweet]
 
+def encode_type(type):
+    type = type.lower()
+    encoded = []
+    #features.append(twitName)
+    if(type[0]=='i'):
+        encoded.append(1)
+    else:
+        encoded.append(0)
+    if(type[1]=='s'):
+        encoded.append(1)
+    else:
+        encoded.append(0)
+    if(type[2]=='f'):
+        encoded.append(1)
+    else:
+        encoded.append(0)
+    if(type[3]=='p'):
+        encoded.append(1)
+    else:
+        encoded.append(0)
+    return encoded
+
 files = [ f for f in listdir(path) if isfile(join(path,f)) ]
 
 with open('samples.csv', 'w') as outfile:
@@ -27,8 +49,8 @@ with open('samples.csv', 'w') as outfile:
             data = json.load(json_data)
             json_data.close()
             features = []
-            features.append(twitName)
-            features.append(type)
+            #features.append(twitName)
+            features.extend(encode_type(type))
             features.extend(process(data))
             outwriter = csv.writer(outfile, lineterminator= '\n')
             outwriter.writerow(features)
