@@ -15,6 +15,17 @@ class UserController:
     # print users
     return users
 
+  def getFollowers(self, name):
+      users = []
+      follower_ids = self.twitter_handler.getFollowers(name)
+      print len(follower_ids)
+      for id in follower_ids:
+          print "hi"
+          name = self.twitter_handler.api.get_user(id).screen_name
+          print name
+          users.append(name)
+      return users
+
   def getUsersBySearchTermRules(self, query):
 
 
