@@ -1,7 +1,7 @@
 __author__ = 'calvindudek'
 
 
-import document
+# import document
 from FeatureHandler import FeatureHandler
 import operator
 import time
