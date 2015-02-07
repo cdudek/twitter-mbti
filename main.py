@@ -2,7 +2,7 @@ import json
 from models.User import User
 from controller.UserController import UserController
 #import this
-from nlp.LogLinearClassifier import LinearClassifier
+# from nlp.LogLinearClassifier import LinearClassifier
 
 def main():
   mbti_types_list=['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ','ENFP','ENTJ','ENTP','ESFJ','ESFP','ESTJ','ESTP'];
