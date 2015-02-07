@@ -7,7 +7,13 @@ path = "data"
 
 
 def process(data):
-    return [0]
+    n=0
+    for item in data['tweets'].values():
+        # print len(data['tweets'][item]['entities']['user_mentions'])
+        n=n + len(item["entities"]["user_mentions"])
+    #print n , " " , len(data['tweets'])
+    usr_mentions_per_tweet=round(n/float(len(data['tweets'])),4)
+    return [usr_mentions_per_tweet]
 
 files = [ f for f in listdir(path) if isfile(join(path,f)) ]
 
