@@ -1,7 +1,6 @@
 __author__ = 'calvindudek'
 
 from TextFeatures import NLP
-import time
 from os import listdir
 from os.path import isfile, join
 import json
@@ -19,6 +18,7 @@ def getFiles(path):
 
 def main():
   # start = time.gmtime()
+  nltk.download()
   users = getFiles("./data/")
 
   for user in users:

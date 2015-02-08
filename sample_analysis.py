@@ -15,17 +15,16 @@ def process(data):
         for entity in enumerate(tweet['entities']):
             n[entity[0]]=n[entity[0]]+len(tweet['entities'][entity[1]])
     #print n , " " , len(data['tweets'])
-    usr_interactions_per_tweet = [round(x / float(len(data['tweets'])),4) if len(data['tweets']) > 0 else 0 for x in n]
-    usr_data=usr_interactions_per_tweet
+    usr_analysis = [round(x / float(len(data['tweets'])),4) if len(data['tweets']) > 0 else 0 for x in n]
 
     nlp = NLP(data)
 
-    usr_data.extend(nlp.getPosTweetDist())
-    usr_data.extend(nlp.getPosDescriptionDist())
+    usr_analysis.extend(nlp.getPosTweetDist())
+    usr_analysis.extend(nlp.getPosDescriptionDist())
+    #print len(usr_analysis)
 
 
-
-    return usr_data
+    return usr_analysis
 
 def encode_type(type):
     type = type.lower()
