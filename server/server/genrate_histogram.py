@@ -9,16 +9,21 @@ mbti_types_list=['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ',
 type_counts = random.sample(range(101), 16)
 
 def getPLotFromTypeCounts(name):
-    results = pr.account_for_baseline(get_follower_types(name))
+    print "starting to generate image"
+    results = pr.account_for_baseline(pr.get_follower_types(name))
     # Plot histogram using matplotlib bar().
     mbti_types_list=results.keys()
     type_counts=results.values()
+    print "here: ",
+    print results
     indexes = np.arange(len(mbti_types_list))
     width = 0.8
     plt.figure(figsize=(14, 7))
     plt.bar(indexes, type_counts, width)
     plt.xticks(indexes + width * 0.5, mbti_types_list)
-    plt.savefig('foo.png')
+    print "almost there"
+    plt.savefig('./static/foo.png')
+    print "image saved :D"
+    return mbti_types_list
 
-
-
+getPLotFromTypeCounts("bmw")
