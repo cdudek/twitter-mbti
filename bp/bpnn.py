@@ -2,9 +2,11 @@ __author__ = 'AaronSun'
 # Back-Propagation Neural Networks
 
 import csv
+import json
 import math
 import random
 import string
+from numpy import genfromtxt
 from prepareData import PrepareData
 
 random.seed(0)
@@ -43,13 +45,22 @@ class NN:
         # create weights
         self.wi = makeMatrix(self.ni, self.nh)
         self.wo = makeMatrix(self.nh, self.no)
-        # set them to random vaules
-        for i in range(self.ni):
-            for j in range(self.nh):
-                self.wi[i][j] = rand(-0.2, 0.2)
-        for j in range(self.nh):
-            for k in range(self.no):
-                self.wo[j][k] = rand(-2.0, 2.0)
+
+        #read from file
+        self.readWeight(self.wi, self.ni, self.nh, 1)
+        self.readWeight(self.wo, self.nh, self.no, 2)
+
+        #print(self.wi)
+
+        #if read failed, then generate from random
+        # set them to random values
+        #change it to read from weights.csv
+        #for i in range(self.ni):
+            #for j in range(self.nh):
+             #   self.wi[i][j] = rand(-0.2, 0.2)
+        #for j in range(self.nh):
+         #   for k in range(self.no):
+          #      self.wo[j][k] = rand(-2.0, 2.0)
 
         # last change in weights for momentum
         self.ci = makeMatrix(self.ni, self.nh)
@@ -106,6 +117,7 @@ class NN:
                 self.wo[j][k] = self.wo[j][k] + N*change + M*self.co[j][k]
                 self.co[j][k] = change
                 #print N*change, M*self.co[j][k]
+        self.writeWeight(self.wo, self.nh, self.no, 2)
 
         # update input weights
         for i in range(self.ni):
@@ -113,6 +125,7 @@ class NN:
                 change = hidden_deltas[j]*self.ai[i]
                 self.wi[i][j] = self.wi[i][j] + N*change + M*self.ci[i][j]
                 self.ci[i][j] = change
+        self.writeWeight(self.wi, self.ni, self.nh, 1)
 
         # calculate error
         error = 0.0
@@ -130,20 +143,21 @@ class NN:
     #output the MBTI lables
     #make it a string list, not a array
     def label(self, result):
+        print(result)
         output = []
-        if result[0] < 0.1 :
+        if result[0] < 0.5 :
                 output=output+["E"]
         else :
                 output=output+["I"]
-        if result[1] < 0.1 :
+        if result[1] < 0.5 :
                 output=output+["N"]
         else :
                 output=output+["S"]
-        if result[2] < 0.1 :
+        if result[2] < 0.5 :
                 output=output+["T"]
         else :
                 output=output+["F"]
-        if result[3] < 0.1 :
+        if result[3] < 0.5 :
                 output=output+["J"]
         else :
                 output=output+["P"]
@@ -159,30 +173,98 @@ class NN:
         for j in range(self.nh):
             print(self.wo[j])
 
+    def readWeight(self, w, x, y, index): #index is the location of the weights in file
+
+        if index == 1:
+            file = open("InputLayer.csv", "r") # the weights
+            my_data = genfromtxt('InputLayer.csv', delimiter=',')
+            #print(my_data[index].size)
+            #print(x*y)
+        else:
+            file = open("HiddenLayer.csv", "r") # the weights
+            my_data = genfromtxt('HiddenLayer.csv', delimiter=',')
+
+        if my_data[0].size == x*y:
+            for i in range(x):
+                for j in range(y):
+                    count=0
+                    w[i][j] = my_data[1][count]
+                    count=count+1
+        else:
+            for i in range(x):
+                for j in range(y):
+                    w[i][j] = rand(-0.2, 0.2)
+
+    def writeWeight(self, weight, x, y, index):
+        if index == 1:
+            path = 'InputLayer.csv'
+        else:
+            path = 'HiddenLayer.csv'
+        weight_list=[]
+        with open(path, 'r') as b:
+            original = csv.reader(b)
+            weight_list.extend(original)
+            #print('weight', weight_list)
+
+        #update header row
+        header = []
+        for i in range(x*y):
+            header.append('1')
+        #header_to_write = {0:header}
+
+        serial_data = []
+        for i in range(x):
+            for j in range(y):
+                serial_data.append(weight[i][j])
+        #if index == 1:
+            #print(serial_data)
+
+        data_to_write={1:serial_data, 0:header}
+            #print('serial', serial_data)
+
+            #update header row
+            # #header=[]
+            #for i in range(x*y):
+            #    header.append('1')
+            #header_to_write = {0:header}
+
+
+        with open(path, 'w') as b:
+            writer = csv.writer(b)
+            for line, row in enumerate(weight_list):
+                data = data_to_write.get(line, row)
+                writer.writerow(data)
+                #print('write', data)
+
+
+
+
     def train(self, patterns, iterations=1000, N=0.5, M=0.1):
         # N: learning rate
         # M: momentum factor
-        for i in range(iterations):
+        while True :
             error = 0.0
             for p in patterns:
                 inputs = p[0]
                 targets = p[1]
                 self.update(inputs)
                 error = error + self.backPropagate(targets, N, M)
-            if i % 100 == 0:
                 print('error %-.5f' % error)
+            if error < 0.1:
+                break
 
 
 def demo():
     # assign patterns here.
     pat = [
-        [[0.6,0.7,0.4,1], [0,1,1,1]],
-        [[0,0.9,0.6,1], [1,1,1,1]],
-        [[1,0.7,1,1], [1,1,1,1]],
-        [[1,1,0.9,0.1], [0,1,1,1]]
+        [[0.7,0.4,1,1], [0,1,1,1]],
+        [[0.9,0.6,1,0.9], [1,1,0,1]],
+        [[0.7,1,1,0.5], [0,1,1,0]],
+        [[1,0.9,0.1,0.2], [0,1,1,1]]
     ]
-    x=PrepareData()
 
+    #import data from raw data
+    x=PrepareData()
     pat = x.sample
 
 
@@ -203,3 +285,5 @@ if __name__ == '__main__':
 #2. round the final data, to get absolutly 0 or 1.
 #3. a read csv file function.
 #4. manipulate the file into "pat" format.
+#5. save the weights for re-use
+

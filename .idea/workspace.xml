@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a250f4b3-86e9-4cca-8889-90606bd7214a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eval/Evaluation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bp/HiddenLayer.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bp/InputLayer.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eval/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accuracy_results.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evaluated/follower_types_bmw.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model_accuracy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/provide_results.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_DTOx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_adgrammer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_anWitTrilbyHat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_anaoira.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_anda_sayss.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_ansilg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_atamella.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_dgeCityTimes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_heladgrey.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_ongmin0pe.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFJ_ravisbhartwell.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_ESlTANTGEE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_EUN9HOON.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_ISHIKIKOUJl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_Sripom.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_adgrammer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_aichiAoi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_anda_sayss.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_andyElrod.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_ce_Trai.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_cotty_bowles.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_eenTouches.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_he_Sue_Parsons.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_hihayases.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_kjackson.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_layterrran.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_lignedsigns.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_mandaSims.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_oNiLRamos.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_opqu0tes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_orsepunk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_regoireSala.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_teventeaster.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_ueermargaery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_weetdeans.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENFP_xssigod.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_10bomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_4sunsets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_AmMissKarma.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ChiAwase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_NAvanMaurik.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ONBLVCK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_PPEducation.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_PPInc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_Ray2018.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_Robles1996.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_alancedPerfect.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_amasmallszfarm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_anqatr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_araiummm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ateabele.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_avoseaworth.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_bbeybartlets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ealizeyoucan.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_elparr1234.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_elstrick.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_erfectelle.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_gkamon.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_gungwjs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_hembti.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_idden2night.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ig_par.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_imberlyAndry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_inSpin.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_inaTormey.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_lleexaavr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_nahatPunia.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_nfjsforums.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ohn_Sloat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_orldof16minds.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_orsepunk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ose1318believe.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_rewmistak.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_tevenEnsor.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_uLuFlynn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_uthanr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTJ_ynameispetey.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_D_COT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_ISHIKIKOUJl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_Sripom.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_acs_JamesT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_adpresidents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_alivamachine.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_areertestsite.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_ayofetishist.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_daptowl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_dityaIchan.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_heBrookeHaney.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_idya_James.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_ivemoreleader.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_llarica.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_oNiLRamos.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_ohemiotx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_orsepunk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_teventeaster.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_uLuFlynn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_ucciRobot.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_utsidersblood.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_ynapchat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ENTP_youibitani.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFJ_etItAl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFJ_hihayases.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFJ_layterrran.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFJ_lignedsigns.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFJ_mirantieka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFJ_weetdeans.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFP_OAHcelebis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFP_aichiAoi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFP_ainfol.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFP_effKenneth3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESFP_vil_noodlesuk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_MRK_SGIUK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_aniaspeaks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_arahZink.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_arakRindani.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_awn_wink.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_aximizer_CRM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_ayeAbdulQader.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_ayloredWisdom.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_bti_estj.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_eatherStangMA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_elstrick.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_eraphStein.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_harleeHanna.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_hiny_penny.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_ichaelCortes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_igelthebuddha.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_indpeacemaster.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_izwerxGroup.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_layTheMoveMU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_ltrasoundangie.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_ndyfilmwis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_oNiLRamos.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_olee_shedd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_revoryoung.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_uv4Social.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_uy_viau.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_vernay.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTJ_wilaKaye.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTP_ISHIKIKOUJl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTP_OAHcelebis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTP_straevs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTP_weetdeans.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTP_youibitani.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ESTP_ypologyCentral.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_10bomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_DTOx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_EUN9HOON.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_Elleporidae.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_HCMarchesi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_IROTAKACHlHO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_PPEducation.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_adameAmbassK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_adgrammer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_adyLullabyASMR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_akaho_792.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_akako_343.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_anWitTrilbyHat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_anda_sayss.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_aneryes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ani_cocoon.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_anielleRitchot.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_anilexD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_arahGraceWelch.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_arcoFIORelly.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ariamemubarak.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_arwakhafagy1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_asmineVesque.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_asyrok.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_atroclvs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_avadew.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_awaka_12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ayano_21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_aynPaynedme.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_caredlonelyy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_cid__Witch.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_eathtouchh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_enee_beb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_gophagia.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_heBarracuda57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_heeridyos.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_hihTzuSnuggles.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_hloabelle.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_hristineTwitt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_iefferNickleo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ilver15jets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_imberlyAndry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_indyourownroad.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ionikiim.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_iraclePrayerMa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_issiejohanson.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_iu_852.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_iza_614.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_kjackson.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_lignedsigns.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_liviaaa_610.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_nfjsforums.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_nnabel_chan.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_nnnaspriggg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ofiam.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_oftiLaFleur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ongmin0pe.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ose1318believe.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ozomitoujo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_quariusPaige.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_rcher_ebooks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_riccioEriccini.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ristinaxabc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_rizkaTan.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_rlendAlv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_rs_rainey1970.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_teenaleen.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_tsCandi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_uP_Joe.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ucciRobot.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_urningIceINFJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ustmarienow.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_weetSamOfMine.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFJ_ylariaVG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_EUN9HOON.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_Elleporidae.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_IVElNPHOENIX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_Sripom.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_adgrammer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_adpresidents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_aekaiz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_ami_Therese.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_amonaVicente.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_anWitTrilbyHat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_anaoira.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_anda_sayss.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_argotrichie.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_asturbations.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_aytaydubs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_caredlonelyy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_cathaige.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_edliko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_eenagerazors.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_effKenneth3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_elissa_Loy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_emsheps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_endallgardt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_erseypunkers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_essThanVince.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_he_Sue_Parsons.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_imberlyAndry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_itochondrenee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_kasohma.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_lignedsigns.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_llinatl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_oNiLRamos.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_oachWilla.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_onnaDunning.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_onztre.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_ourtneyFloyd7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_ozomitoujo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_picadefenders.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_riccioEriccini.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_rivenByTatiana.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_rlendAlv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_teventeaster.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_uhllmetal.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_uit0pi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_ungyoungperson.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_xpertWhiner.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INFP_zupaeng.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_aeko_546.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_akaho_130.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_aoka_467.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_aoko_959.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_asue_936.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_atori_389.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_atuho87.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_atuho_261.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_atuko_522.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_awayo_302.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayami_265.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayano_487.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayano_881.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayu_688.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayu_778.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayui_937.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayuki_842.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ayumi_175.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eia_23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eia_827.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eiga_651.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eiga_768.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eiha_490.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eiho_692.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eiho_803.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eiki_215.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_emu_86.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_erena_958.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_eu_470.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_hekar0lina.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_hiou_840.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_hiyuho_39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_hiyuma_603.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_hiyuna_619.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_hiyunyou_332.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_hizuku_143.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ichio_355.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ifuyu_985.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_iharu_866.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_iino_299.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ijiyu_690.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_isawo_626.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_isuzu_829.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_itue_197.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ituko_618.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_iwako_774.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_iyo_754.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_iyuuka_890.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_iyuumi_463.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_izuho_984.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_oNiLRamos.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_oeko_766.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_oemi_611.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_omoa_890.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_omoki_718.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_omoo_251.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_omoyo_320.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_onka_617.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_onoka_119.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_onoka_783.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_orika_848.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_oshiri_530.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_oshiri_602.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_oshiri_711.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_oujiyu_407.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ritzanubis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_tae_184.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_teventeaster.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_toka_503.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_tona_197.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ua_317.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uara_786.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uchika_309.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ukisa_248.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ukise_545.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_ura_579.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uriha_988.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_urika_84.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_urningIceINFJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uto_251.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uto_402.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uto_607.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uuyu_197.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uzuho_718.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uzuho_921.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uzuki_216.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uzuki_46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uzumi_524.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uzune_60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_uzuru_661.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/INTP_yo_551.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_adgrammer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_amonaVicente.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_anWitTrilbyHat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_anda_sayss.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_araiummm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_aynPaynedme.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_erseypunkers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_heresalaura.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_ilestonelove.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_kjackson.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_lignedsigns.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_nimeElinTrash.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_umostartarus.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_weetHunnieLips.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_ypetrainer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFJ_ypologyCentral.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFP_arrygodzilla.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFP_eliaaa__.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFP_hrolIolucilfer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFP_n_my_bones.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFP_octisfucker.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISFP_ypologyCentral.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_ChiAwase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_HCMarchesi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_PPEducation.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_PPInc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_agneesi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_ainfol.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_anWitTrilbyHat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_awkebela.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_ealthType.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_eithanime.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_erynlallaboso.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_hembti.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_heneondex.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_ionaFlemington.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_ofiam.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_orsepunk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_revor_corpus.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_rofXv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_weetHunnieLips.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTJ_ylariaVG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_EUN9HOON.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_areertestsite.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_arentains.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_aynPaynedme.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_elebok.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_houlings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_hrolIolucilfer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_inoraslight.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_octisfucker.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_omwoohyun.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_ppress0r.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ISTP_umostartarus.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_10bomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_AMTHESeema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_AmMissKarma.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_Idolcraze.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_ONBLVCK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_alancedPerfect.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_amasmallszfarm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_anda_sayss.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_anqatr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_ateabele.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_avoseaworth.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_idden2night.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_inaTormey.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_izzyellaneous.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_nahatPunia.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_ollingintrash.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_orldof16minds.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_otharioAPS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_ressencia_.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_riccioEriccini.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_tevenEnsor.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_youibitani.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/intj_zupaeng.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlp/NLPMain.py" afterPath="$PROJECT_DIR$/nlp/NLPMain.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterAuth.py" afterPath="$PROJECT_DIR$/TwitterAuth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/User.py" afterPath="$PROJECT_DIR$/models/User.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/UserController.py" afterPath="$PROJECT_DIR$/controller/UserController.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bp/bpnn.py" afterPath="$PROJECT_DIR$/bp/bpnn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate.py" afterPath="$PROJECT_DIR$/evaluate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server/genrate_histogram.py" afterPath="$PROJECT_DIR$/server/server/genrate_histogram.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bp/prepareData.py" afterPath="$PROJECT_DIR$/bp/prepareData.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample_analysis.py" afterPath="$PROJECT_DIR$/sample_analysis.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/twitter-mbti.iml" afterPath="$PROJECT_DIR$/.idea/twitter-mbti.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="twitter-mbti.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/twitter-mbti$main.coverage" NAME="main Coverage Results" MODIFIED="1423337849973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="twitter-mbti" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="450">
+              <caret line="8" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prepareData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bp/prepareData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="615">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NLPMain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nlp/NLPMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.4" vertical-offset="0" max-vertical-offset="615">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <folding>
+                <element signature="e#28#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="genrate_histogram.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/server/genrate_histogram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41267943" vertical-offset="0" max-vertical-offset="836">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="provide_results.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provide_results.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="540">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#20#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_analysis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample_analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextFeatures.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nlp/TextFeatures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2400">
+              <caret line="31" column="52" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="52" />
+              <folding>
+                <element signature="e#28#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nlp/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/User.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="750">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nlp/LogLinearClassifier.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/bp/prepareData.py" />
+        <option value="$PROJECT_DIR$/nlp/TextFeatures.py" />
+        <option value="$PROJECT_DIR$/nlp/NLPMain.py" />
+        <option value="$PROJECT_DIR$/marc.pz.py" />
+        <option value="$PROJECT_DIR$/marc.py" />
+        <option value="$PROJECT_DIR$/samples.csv" />
+        <option value="$PROJECT_DIR$/sample_analysis.py" />
+        <option value="$PROJECT_DIR$/server/server/genrate_histogram.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="52" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter-mbti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter-mbti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter-mbti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter-mbti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter-mbti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter-mbti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter-mbti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="true" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nlp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.marc">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sample_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="marc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/marc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="twitter-mbti" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sample_analysis" />
+      <item index="2" class="java.lang.String" itemvalue="Python.marc" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.marc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sample_analysis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a250f4b3-86e9-4cca-8889-90606bd7214a" name="Default" comment="" />
+      <created>1423333008130</created>
+      <option name="number" value="Default" />
+      <updated>1423333008130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="52" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34334764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29083666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/UserController.py</url>
+          <line>4</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="420">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bp/prepareData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="975">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/UserController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1395">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="855">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterAuth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="420">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="975">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/UserController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1395">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="855">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterAuth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="480">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/UserController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="855">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="705">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterAuth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="810">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/UserController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="855">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="705">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterAuth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="810">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/UserController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="855">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="705">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterAuth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterAuth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/UserController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1395">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="450">
+          <caret line="8" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bp/prepareData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="615">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bp/bpnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/TextFeatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2400">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="52" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="750">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/NLPMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.4" vertical-offset="0" max-vertical-offset="615">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="e#28#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provide_results.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server/genrate_histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41267943" vertical-offset="0" max-vertical-offset="836">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -3,6 +3,9 @@ from TwitterHandler import TwitterHandler
 import re
 import os
 import json
+
+loaded_followers = 3
+
 class UserController:
   def __init__(self):
     self.users = []
@@ -20,21 +23,18 @@ class UserController:
       users = []
       follower_ids = self.twitter_handler.getFollowers(name)
       print len(follower_ids)
-      max_n = 5
       i = 0
       for id in follower_ids:
           name = self.twitter_handler.api.get_user(id).screen_name
           print name
           users.append(name)
-          if i < max_n:
+          if i < loaded_followers:
               i += 1
           else:
               break
       return users
 
   def getUsersBySearchTermRules(self, query):
-
-
     search_results = self.twitter_handler.search(query)
     users = list()
     for post in search_results:

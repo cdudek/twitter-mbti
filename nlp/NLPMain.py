@@ -18,8 +18,8 @@ def getFiles(path):
 
 def main():
   # start = time.gmtime()
-  nltk.download()
-  users = getFiles("./data/")
+  users = getFiles("../data/")
+
 
   for user in users:
     nlp = NLP(user)
