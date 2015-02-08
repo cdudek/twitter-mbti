@@ -2,31 +2,29 @@
 <html>
 <body>
 
-<p>Ta-daa:</p>
-
 {% load staticfiles %}
+
 <img src="/static/foo.png" width="1399" height="700" alt="Histogram" usemap="#histogram">
 
+
 <map name="histogram">
-{% for k,v in mydict.iteritems %}
-  <area shape="rect" coords="170,630,240,650" alt="Type1" title="{{ v }}">
-  <area shape="rect" coords="240,630,310,650" alt="Type2" title="Cat">
-  <area shape="rect" coords="310,630,380,650" alt="Type3" title="Princess">
-  <area shape="rect" coords="380,630,450,650" alt="Type4" title="Adi">
-  <area shape="rect" coords="450,630,520,650" alt="Type5" title="Dan">
-  <area shape="rect" coords="520,630,590,650" alt="Type6" title="Alex">
-  <area shape="rect" coords="590,630,660,650" alt="Type7" title="Cristi">
-  <area shape="rect" coords="660,630,730,650" alt="Type8" title="Ion">
-  <area shape="rect" coords="730,630,800,650" alt="Type9" title="Fritz">
-  <area shape="rect" coords="800,630,870,650" alt="Type10" title="Angus">
-  <area shape="rect" coords="870,630,940,650" alt="Type11" title="Johan">
-  <area shape="rect" coords="940,630,1010,650" alt="Type12" title="Klaus">
-  <area shape="rect" coords="1010,630,1080,650" alt="Type13" title="Marcel">
-  <area shape="rect" coords="1080,630,1150,650" alt="Type14" title="Mircea">
-  <area shape="rect" coords="1150,630,1220,650" alt="Type15" title="Carmen">
-  <area shape="rect" coords="1220,630,1290,650" alt="Type16" title="Simona">
+  <area shape="rect" coords="170,630,240,650" alt="Type1" title="{{ names.0 }}">
+  <area shape="rect" coords="240,630,310,650" alt="Type2" title="{{ names.1 }}">
+  <area shape="rect" coords="310,630,380,650" alt="Type3" title="{{ names.2 }}">
+  <area shape="rect" coords="380,630,450,650" alt="Type4" title="{{ names.3 }}">
+  <area shape="rect" coords="450,630,520,650" alt="Type5" title="{{ names.4 }}">
+  <area shape="rect" coords="520,630,590,650" alt="Type6" title="{{ names.5 }}">
+  <area shape="rect" coords="590,630,660,650" alt="Type7" title="{{ names.6 }}">
+  <area shape="rect" coords="660,630,730,650" alt="Type8" title="{{ names.7 }}">
+  <area shape="rect" coords="730,630,800,650" alt="Type9" title="{{ names.8 }}">
+  <area shape="rect" coords="800,630,870,650" alt="Type10" title="{{ names.9 }}">
+  <area shape="rect" coords="870,630,940,650" alt="Type11" title="{{ names.10 }}">
+  <area shape="rect" coords="940,630,1010,650" alt="Type12" title="{{ names.11 }}">
+  <area shape="rect" coords="1010,630,1080,650" alt="Type13" title="{{ names.12 }}">
+  <area shape="rect" coords="1080,630,1150,650" alt="Type14" title="{{ names.13 }}">
+  <area shape="rect" coords="1150,630,1220,650" alt="Type15" title="{{ names.14 }}">
+  <area shape="rect" coords="1220,630,1290,650" alt="Type16" title="{{ names.15 }}">
 <br>
-{% endfor %}
 </map>
 
 </body>
