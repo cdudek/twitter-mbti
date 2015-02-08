@@ -6,12 +6,19 @@ from os import listdir
 from os.path import isfile, join
 from Sample import Sample
 
+import random
+
+random.seed(32425)
+
 class Dummy:
     def __init__(self):
         pass
 
     def predict(self, data):
         type = [0, 0, 0, 0]
+        for i in range(4):
+            if random.random() > 0.5:
+                type[i] = 1
         return type
 
 def loadML():
