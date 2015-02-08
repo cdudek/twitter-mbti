@@ -1,0 +1,3159 @@
+{
+  "tweets": {
+    "564168737302249472": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "I need a Wii U meow.", 
+      "in_reply_to_status_id": null, 
+      "id": 564168737302249472, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "564168737302249472", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 21:08:03 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "563993579144871936": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "I've taken the MBTI test several times now and I keep getting either INTJ or ISTJ. I wish it was more of a solid result.", 
+      "in_reply_to_status_id": null, 
+      "id": 563993579144871936, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563993579144871936", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:32:02 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "558768224779522050": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon small/compact cars are good for gas mileage, but im 6'2\" so I generally like bigger cars. #tallpeopleproblems", 
+      "in_reply_to_status_id": 558705652097220608, 
+      "id": 558768224779522050, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              103, 
+              122
+            ], 
+            "text": "tallpeopleproblems"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "558768224779522050", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Fri Jan 23 23:28:20 +0000 2015", 
+      "in_reply_to_status_id_str": "558705652097220608", 
+      "place": null
+    }, 
+    "557008141578436611": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@tyleroakley Weird &amp; out of the box? Okay. If you were a cannibal, who would you eat first? #AskTylerAnything #ThisIsImportant", 
+      "in_reply_to_status_id": 556996697872531456, 
+      "id": 557008141578436611, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 14222536, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "14222536", 
+            "screen_name": "tyleroakley", 
+            "name": "Tyler Oakley"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              96, 
+              113
+            ], 
+            "text": "AskTylerAnything"
+          }, 
+          {
+            "indices": [
+              114, 
+              130
+            ], 
+            "text": "ThisIsImportant"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "tyleroakley", 
+      "id_str": "557008141578436611", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 14222536, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "14222536", 
+      "lang": "en", 
+      "created_at": "Mon Jan 19 02:54:24 +0000 2015", 
+      "in_reply_to_status_id_str": "556996697872531456", 
+      "place": null
+    }, 
+    "562060380290420736": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Wait, what's a super bowl?", 
+      "in_reply_to_status_id": null, 
+      "id": 562060380290420736, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562060380290420736", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Mon Feb 02 01:30:11 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560927579981746177": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon You should look up their covers of the Chrono Trigger main theme and Winter's White from Earthbound. They're beautiful haha.", 
+      "in_reply_to_status_id": 560927308899307520, 
+      "id": 560927579981746177, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "560927579981746177", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 22:28:51 +0000 2015", 
+      "in_reply_to_status_id_str": "560927308899307520", 
+      "place": null
+    }, 
+    "539666336767832066": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon what a coincidence! It's the same in my town only the Kmart closed this year. The target I mentioned is an hour away.", 
+      "in_reply_to_status_id": 539666051982581761, 
+      "id": 539666336767832066, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "539666336767832066", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Tue Dec 02 06:24:15 +0000 2014", 
+      "in_reply_to_status_id_str": "539666051982581761", 
+      "place": null
+    }, 
+    "527895533105315841": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon I agree. I don't think it's a career someone can pursue on a whim.", 
+      "in_reply_to_status_id": 527895244529229824, 
+      "id": 527895533105315841, 
+      "favorite_count": 0, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "527895533105315841", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Thu Oct 30 18:51:17 +0000 2014", 
+      "in_reply_to_status_id_str": "527895244529229824", 
+      "place": null
+    }, 
+    "560924677141712896": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon That is excellent! Haha.", 
+      "in_reply_to_status_id": 560918713197527040, 
+      "id": 560924677141712896, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "560924677141712896", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 22:17:19 +0000 2015", 
+      "in_reply_to_status_id_str": "560918713197527040", 
+      "place": null
+    }, 
+    "560609698152730624": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Only three and a half hours until my paycheck is deposited in my bank account. The anticipation kills me every week.", 
+      "in_reply_to_status_id": null, 
+      "id": 560609698152730624, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560609698152730624", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 01:25:42 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "530574478414471169": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon have you seen the \"redneck wineglass\"? It's an abomination.", 
+      "in_reply_to_status_id": 530573778729050112, 
+      "id": 530574478414471169, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "530574478414471169", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Fri Nov 07 04:16:27 +0000 2014", 
+      "in_reply_to_status_id_str": "530573778729050112", 
+      "place": null
+    }, 
+    "515757293796073472": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "So what's the general opinion of #ello ? Better than Facebook? Will it be as unsuccessful as Google Plus?", 
+      "in_reply_to_status_id": null, 
+      "id": 515757293796073472, 
+      "favorite_count": 0, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              33, 
+              38
+            ], 
+            "text": "ello"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "515757293796073472", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Sep 27 06:58:15 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "539678772510064640": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon that's outrageous! In Michigan it's 6% everywhere. I wish people listed prices including sales tax.", 
+      "in_reply_to_status_id": 539678100502487041, 
+      "id": 539678772510064640, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "539678772510064640", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Tue Dec 02 07:13:40 +0000 2014", 
+      "in_reply_to_status_id_str": "539678100502487041", 
+      "place": null
+    }, 
+    "553674309827563520": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "I need to get a WiiU so I can play #Earthbound #MOTHER4", 
+      "in_reply_to_status_id": null, 
+      "id": 553674309827563520, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              35, 
+              46
+            ], 
+            "text": "Earthbound"
+          }, 
+          {
+            "indices": [
+              47, 
+              55
+            ], 
+            "text": "MOTHER4"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "553674309827563520", 
+      "retweet_count": 1, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Fri Jan 09 22:06:56 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560682804225527809": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @FanSince09: The Girl With The Dale Earnhardt Tattoo #RedneckABook @midnight", 
+      "in_reply_to_status_id": null, 
+      "id": 560682804225527809, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 231504942, 
+            "indices": [
+              3, 
+              14
+            ], 
+            "id_str": "231504942", 
+            "screen_name": "FanSince09", 
+            "name": "FanSince09"
+          }, 
+          {
+            "id": 1418745782, 
+            "indices": [
+              70, 
+              79
+            ], 
+            "id_str": "1418745782", 
+            "screen_name": "midnight", 
+            "name": "@midnight"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              56, 
+              69
+            ], 
+            "text": "RedneckABook"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560682804225527809", 
+      "retweet_count": 23, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "The Girl With The Dale Earnhardt Tattoo #RedneckABook @midnight", 
+        "in_reply_to_status_id": null, 
+        "id": 560674730794303488, 
+        "favorite_count": 66, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [
+            {
+              "id": 1418745782, 
+              "indices": [
+                54, 
+                63
+              ], 
+              "id_str": "1418745782", 
+              "screen_name": "midnight", 
+              "name": "@midnight"
+            }
+          ], 
+          "hashtags": [
+            {
+              "indices": [
+                40, 
+                53
+              ], 
+              "text": "RedneckABook"
+            }
+          ], 
+          "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560674730794303488", 
+        "retweet_count": 23, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 231504942, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168178923/Vlu4-31e.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/446154690846158848/WVH9NynV_normal.jpeg", 
+          "profile_sidebar_fill_color": "DDFFCC", 
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 11747, 
+          "profile_sidebar_border_color": "FFFFFF", 
+          "id_str": "231504942", 
+          "profile_background_color": "9AE4E8", 
+          "listed_count": 247, 
+          "is_translation_enabled": false, 
+          "utc_offset": -18000, 
+          "statuses_count": 118032, 
+          "description": "@PenPencilClub award winner. 2014 Sports Illustrated Twitter 100. Hero to some, Villain to others.  Send all media requests to @EvanMathis69", 
+          "friends_count": 2082, 
+          "location": "South Jersey", 
+          "profile_link_color": "0084B4", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/446154690846158848/WVH9NynV_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": true, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/231504942/1408385027", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168178923/Vlu4-31e.png", 
+          "name": "FanSince09", 
+          "lang": "en", 
+          "profile_background_tile": true, 
+          "favourites_count": 518, 
+          "screen_name": "FanSince09", 
+          "notifications": false, 
+          "url": null, 
+          "created_at": "Tue Dec 28 18:23:11 +0000 2010", 
+          "contributors_enabled": false, 
+          "time_zone": "Eastern Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 29 05:44:07 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 06:16:12 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "563989063594942464": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Who needs sleep anyway?", 
+      "in_reply_to_status_id": null, 
+      "id": 563989063594942464, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563989063594942464", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:14:05 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "561453580599971840": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "My new spirit animal is a Tenda.", 
+      "in_reply_to_status_id": null, 
+      "id": 561453580599971840, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "561453580599971840", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Jan 31 09:18:59 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560915707433857024": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "I changed my alarm to the #Mii channel music. Mornings have instantly become better.", 
+      "in_reply_to_status_id": null, 
+      "id": 560915707433857024, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              26, 
+              30
+            ], 
+            "text": "Mii"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560915707433857024", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 21:41:40 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "539252335730757633": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon D: now I am very jealous! Sigur Ros would never come to Michigan so I'll probably never see them. :(", 
+      "in_reply_to_status_id": 539250976297738240, 
+      "id": 539252335730757633, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "539252335730757633", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Mon Dec 01 02:59:10 +0000 2014", 
+      "in_reply_to_status_id_str": "539250976297738240", 
+      "place": null
+    }, 
+    "560684110440841216": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "I'm here for the hashtags.", 
+      "in_reply_to_status_id": null, 
+      "id": 560684110440841216, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560684110440841216", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 06:21:23 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "563988945382690816": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "GY!BE or Sigur Ros. Decisions, decisions.", 
+      "in_reply_to_status_id": null, 
+      "id": 563988945382690816, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563988945382690816", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:13:37 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "527893884907425792": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "I wish I could speak #Icelandic", 
+      "in_reply_to_status_id": null, 
+      "id": 527893884907425792, 
+      "favorite_count": 1, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              21, 
+              31
+            ], 
+            "text": "Icelandic"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "527893884907425792", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Oct 30 18:44:44 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "555999195715600385": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @SmellyYomon: Thinking back to a dark time when texting wasn't in chat format and required you to remember what you last sent *shudder*", 
+      "in_reply_to_status_id": null, 
+      "id": 555999195715600385, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              3, 
+              15
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "555999195715600385", 
+      "retweet_count": 1, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Thinking back to a dark time when texting wasn't in chat format and required you to remember what you last sent *shudder*", 
+        "in_reply_to_status_id": null, 
+        "id": 555853487397810176, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [], 
+          "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "555853487397810176", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": false, 
+          "profile_text_color": "B0C1B5", 
+          "default_profile_image": false, 
+          "id": 15142207, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435880232285777921/Gpp8czLh.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/552315341452238848/lj_6jQ8w_normal.png", 
+          "profile_sidebar_fill_color": "C8DECC", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/0QaT5PEnrC", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://www.pinterest.com/smellyyomon/", 
+                  "display_url": "pinterest.com/smellyyomon/"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 282, 
+          "profile_sidebar_border_color": "FFFFFF", 
+          "id_str": "15142207", 
+          "profile_background_color": "424242", 
+          "listed_count": 11, 
+          "is_translation_enabled": false, 
+          "utc_offset": -28800, 
+          "statuses_count": 11847, 
+          "description": "Tweets ADD Mind Dumps. Graphic designer, artist, gamer, Smasher, fashionister, musician. Loves: EarthBound, Sigur Ros, and The Fifth Element.", 
+          "friends_count": 385, 
+          "location": "Grass Valley, CA", 
+          "profile_link_color": "999888", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/552315341452238848/lj_6jQ8w_normal.png", 
+          "following": false, 
+          "geo_enabled": true, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/15142207/1398358788", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435880232285777921/Gpp8czLh.png", 
+          "name": "Shawn Covington", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 5230, 
+          "screen_name": "SmellyYomon", 
+          "notifications": false, 
+          "url": "http://t.co/0QaT5PEnrC", 
+          "created_at": "Tue Jun 17 04:34:39 +0000 2008", 
+          "contributors_enabled": false, 
+          "time_zone": "Pacific Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 15 22:26:13 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Fri Jan 16 08:05:12 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "558623716679380992": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon kias are an excellent choice for a first car. They are very safe! The '07 Rio saved my life in a collision once.", 
+      "in_reply_to_status_id": 558374905779982339, 
+      "id": 558623716679380992, 
+      "favorite_count": 1, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "558623716679380992", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Fri Jan 23 13:54:07 +0000 2015", 
+      "in_reply_to_status_id_str": "558374905779982339", 
+      "place": null
+    }, 
+    "539667482114789377": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon these small town problems make me so grateful for online shopping.", 
+      "in_reply_to_status_id": 539666932681539584, 
+      "id": 539667482114789377, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "539667482114789377", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Tue Dec 02 06:28:48 +0000 2014", 
+      "in_reply_to_status_id_str": "539666932681539584", 
+      "place": null
+    }, 
+    "560683731032506368": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @genevieverice: The 7-11 Habits of Highly Ineffective People #RedneckABook @midnight", 
+      "in_reply_to_status_id": null, 
+      "id": 560683731032506368, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 29613464, 
+            "indices": [
+              3, 
+              17
+            ], 
+            "id_str": "29613464", 
+            "screen_name": "genevieverice", 
+            "name": "Genevieve Rice!"
+          }, 
+          {
+            "id": 1418745782, 
+            "indices": [
+              78, 
+              87
+            ], 
+            "id_str": "1418745782", 
+            "screen_name": "midnight", 
+            "name": "@midnight"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              64, 
+              77
+            ], 
+            "text": "RedneckABook"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560683731032506368", 
+      "retweet_count": 6, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "The 7-11 Habits of Highly Ineffective People #RedneckABook @midnight", 
+        "in_reply_to_status_id": null, 
+        "id": 560667117414936576, 
+        "favorite_count": 31, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [
+            {
+              "id": 1418745782, 
+              "indices": [
+                59, 
+                68
+              ], 
+              "id_str": "1418745782", 
+              "screen_name": "midnight", 
+              "name": "@midnight"
+            }
+          ], 
+          "hashtags": [
+            {
+              "indices": [
+                45, 
+                58
+              ], 
+              "text": "RedneckABook"
+            }
+          ], 
+          "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560667117414936576", 
+        "retweet_count": 6, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 29613464, 
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/550460879058120704/Gapoy7P3_normal.jpeg", 
+          "profile_sidebar_fill_color": "F6F6F6", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/4EH0NdYNCZ", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://favstar.fm/users/genevieverice", 
+                  "display_url": "favstar.fm/users/geneviev\u2026"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 2869, 
+          "profile_sidebar_border_color": "EEEEEE", 
+          "id_str": "29613464", 
+          "profile_background_color": "ACDED6", 
+          "listed_count": 137, 
+          "is_translation_enabled": false, 
+          "utc_offset": -28800, 
+          "statuses_count": 7732, 
+          "description": "Comedian, writer, podcaster (listen to @tyfbap), president of the United States of America, raccoon?", 
+          "friends_count": 1029, 
+          "location": "Phoenix", 
+          "profile_link_color": "28D8DB", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/550460879058120704/Gapoy7P3_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": true, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/29613464/1419564485", 
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+          "name": "Genevieve Rice!", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 26125, 
+          "screen_name": "genevieverice", 
+          "notifications": false, 
+          "url": "http://t.co/4EH0NdYNCZ", 
+          "created_at": "Wed Apr 08 02:13:51 +0000 2009", 
+          "contributors_enabled": false, 
+          "time_zone": "Pacific Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 29 05:13:52 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 06:19:53 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560925290508349440": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon Double dare!", 
+      "in_reply_to_status_id": 560925200275890176, 
+      "id": 560925290508349440, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "560925290508349440", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 22:19:45 +0000 2015", 
+      "in_reply_to_status_id_str": "560925200275890176", 
+      "place": null
+    }, 
+    "560682188342304769": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @ethicistforhire: Kierkegaard's Beer and Trembling #RedneckABook", 
+      "in_reply_to_status_id": null, 
+      "id": 560682188342304769, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 768679872, 
+            "indices": [
+              3, 
+              19
+            ], 
+            "id_str": "768679872", 
+            "screen_name": "ethicistforhire", 
+            "name": "Ethicist For Hire"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              54, 
+              67
+            ], 
+            "text": "RedneckABook"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560682188342304769", 
+      "retweet_count": 10, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Kierkegaard's Beer and Trembling #RedneckABook", 
+        "in_reply_to_status_id": null, 
+        "id": 560680481033682944, 
+        "favorite_count": 17, 
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [
+            {
+              "indices": [
+                33, 
+                46
+              ], 
+              "text": "RedneckABook"
+            }
+          ], 
+          "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560680481033682944", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 768679872, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000162696861/tqUS9EcN.jpeg", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/562012458471010305/jmXsDUoW_normal.jpeg", 
+          "profile_sidebar_fill_color": "DDEEF6", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/2ShNAodklN", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://patreon.com/ethicistforhire", 
+                  "display_url": "patreon.com/ethicistforhire"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 3426, 
+          "profile_sidebar_border_color": "000000", 
+          "id_str": "768679872", 
+          "profile_background_color": "C0DEED", 
+          "listed_count": 116, 
+          "is_translation_enabled": false, 
+          "utc_offset": -28800, 
+          "statuses_count": 14935, 
+          "description": "Continental philosopher trying to live in an analytic philosophy world... | Please Note: Tweets = Id; Retweets = Ego; Favorites = Super-Ego", 
+          "friends_count": 1991, 
+          "location": "Tacoma, WA", 
+          "profile_link_color": "0084B4", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/562012458471010305/jmXsDUoW_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/768679872/1411263360", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000162696861/tqUS9EcN.jpeg", 
+          "name": "Ethicist For Hire", 
+          "lang": "en", 
+          "profile_background_tile": true, 
+          "favourites_count": 11251, 
+          "screen_name": "ethicistforhire", 
+          "notifications": false, 
+          "url": "http://t.co/2ShNAodklN", 
+          "created_at": "Mon Aug 20 02:40:01 +0000 2012", 
+          "contributors_enabled": false, 
+          "time_zone": "Pacific Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 29 06:06:58 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 06:13:45 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "527295539772424192": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Skater punks in real life are about as scary as the shark gang in #Earthbound", 
+      "in_reply_to_status_id": null, 
+      "id": 527295539772424192, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              66, 
+              77
+            ], 
+            "text": "Earthbound"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "527295539772424192", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Wed Oct 29 03:07:08 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560684447331549184": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@midnight\n#RedneckABook \n\"Harry Potter and The Goblet of Bud Light\"", 
+      "in_reply_to_status_id": null, 
+      "id": 560684447331549184, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 1418745782, 
+            "indices": [
+              0, 
+              9
+            ], 
+            "id_str": "1418745782", 
+            "screen_name": "midnight", 
+            "name": "@midnight"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              10, 
+              23
+            ], 
+            "text": "RedneckABook"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "midnight", 
+      "id_str": "560684447331549184", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 1418745782, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "1418745782", 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 06:22:43 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560925077584490497": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon Have you heard of Super Guitar Bros? Their acoustic cover of the Mii channel music is what I use. It sounds delightful.", 
+      "in_reply_to_status_id": 560918713197527040, 
+      "id": 560925077584490497, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "560925077584490497", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 22:18:54 +0000 2015", 
+      "in_reply_to_status_id_str": "560918713197527040", 
+      "place": null
+    }, 
+    "557505097480282113": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Top- Spanakopita, Bottom- Banana/Nutella Fried wontons. #Munchies #LateNightCooking http://t.co/vAai4iPUWn", 
+      "in_reply_to_status_id": null, 
+      "id": 557505097480282113, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              56, 
+              65
+            ], 
+            "text": "Munchies"
+          }, 
+          {
+            "indices": [
+              66, 
+              83
+            ], 
+            "text": "LateNightCooking"
+          }
+        ], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/trevor_corpus/status/557505097480282113/photo/1", 
+            "display_url": "pic.twitter.com/vAai4iPUWn", 
+            "url": "http://t.co/vAai4iPUWn", 
+            "media_url_https": "https://pbs.twimg.com/media/B7yn7FrCQAA77uv.jpg", 
+            "id_str": "557505087463899136", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 1024, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 600, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              84, 
+              106
+            ], 
+            "type": "photo", 
+            "id": 557505087463899136, 
+            "media_url": "http://pbs.twimg.com/media/B7yn7FrCQAA77uv.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "557505097480282113", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "tl", 
+      "created_at": "Tue Jan 20 11:49:07 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/trevor_corpus/status/557505097480282113/photo/1", 
+            "display_url": "pic.twitter.com/vAai4iPUWn", 
+            "url": "http://t.co/vAai4iPUWn", 
+            "media_url_https": "https://pbs.twimg.com/media/B7yn7FrCQAA77uv.jpg", 
+            "id_str": "557505087463899136", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 1024, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 600, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              84, 
+              106
+            ], 
+            "type": "photo", 
+            "id": 557505087463899136, 
+            "media_url": "http://pbs.twimg.com/media/B7yn7FrCQAA77uv.jpg"
+          }
+        ]
+      }
+    }, 
+    "556736943288229888": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "#Vegan curry/black bean falafels on romaine lettuce with saut\u00e9ed onions and some wine! Starting to enjoy cooking. http://t.co/BnppjjdWly", 
+      "in_reply_to_status_id": null, 
+      "id": 556736943288229888, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              0, 
+              6
+            ], 
+            "text": "Vegan"
+          }
+        ], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/trevor_corpus/status/556736943288229888/photo/1", 
+            "display_url": "pic.twitter.com/BnppjjdWly", 
+            "url": "http://t.co/BnppjjdWly", 
+            "media_url_https": "https://pbs.twimg.com/media/B7ntSgGCEAIe8Od.jpg", 
+            "id_str": "556736931065630722", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 1024, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 600, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              114, 
+              136
+            ], 
+            "type": "photo", 
+            "id": 556736931065630722, 
+            "media_url": "http://pbs.twimg.com/media/B7ntSgGCEAIe8Od.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "556736943288229888", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sun Jan 18 08:56:45 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/trevor_corpus/status/556736943288229888/photo/1", 
+            "display_url": "pic.twitter.com/BnppjjdWly", 
+            "url": "http://t.co/BnppjjdWly", 
+            "media_url_https": "https://pbs.twimg.com/media/B7ntSgGCEAIe8Od.jpg", 
+            "id_str": "556736931065630722", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 1024, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 600, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              114, 
+              136
+            ], 
+            "type": "photo", 
+            "id": 556736931065630722, 
+            "media_url": "http://pbs.twimg.com/media/B7ntSgGCEAIe8Od.jpg"
+          }
+        ]
+      }
+    }, 
+    "530831721999384576": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @SlintOfficial: Finger hoodies and shirts now available online! http://t.co/Lx8oTJllsJ \n#Slint #Spiderland #merch #finger... http://t.co\u2026", 
+      "in_reply_to_status_id": null, 
+      "id": 530831721999384576, 
+      "favorite_count": 0, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2327656938, 
+            "indices": [
+              3, 
+              17
+            ], 
+            "id_str": "2327656938", 
+            "screen_name": "SlintOfficial", 
+            "name": "SLINT"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              91, 
+              97
+            ], 
+            "text": "Slint"
+          }, 
+          {
+            "indices": [
+              98, 
+              109
+            ], 
+            "text": "Spiderland"
+          }, 
+          {
+            "indices": [
+              110, 
+              116
+            ], 
+            "text": "merch"
+          }, 
+          {
+            "indices": [
+              117, 
+              124
+            ], 
+            "text": "finger"
+          }
+        ], 
+        "urls": [
+          {
+            "url": "http://t.co/Lx8oTJllsJ", 
+            "indices": [
+              67, 
+              89
+            ], 
+            "expanded_url": "http://www.shirtkiller.com/slint", 
+            "display_url": "shirtkiller.com/slint"
+          }, 
+          {
+            "url": "http://t.co/LDeasnBqmv", 
+            "indices": [
+              139, 
+              140
+            ], 
+            "expanded_url": "http://fb.me/3j9rUzdYN", 
+            "display_url": "fb.me/3j9rUzdYN"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "530831721999384576", 
+      "retweet_count": 3, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Finger hoodies and shirts now available online! http://t.co/Lx8oTJllsJ \n#Slint #Spiderland #merch #finger... http://t.co/LDeasnBqmv", 
+        "in_reply_to_status_id": null, 
+        "id": 530747127811833857, 
+        "favorite_count": 3, 
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [
+            {
+              "indices": [
+                72, 
+                78
+              ], 
+              "text": "Slint"
+            }, 
+            {
+              "indices": [
+                79, 
+                90
+              ], 
+              "text": "Spiderland"
+            }, 
+            {
+              "indices": [
+                91, 
+                97
+              ], 
+              "text": "merch"
+            }, 
+            {
+              "indices": [
+                98, 
+                105
+              ], 
+              "text": "finger"
+            }
+          ], 
+          "urls": [
+            {
+              "url": "http://t.co/Lx8oTJllsJ", 
+              "indices": [
+                48, 
+                70
+              ], 
+              "expanded_url": "http://www.shirtkiller.com/slint", 
+              "display_url": "shirtkiller.com/slint"
+            }, 
+            {
+              "url": "http://t.co/LDeasnBqmv", 
+              "indices": [
+                109, 
+                131
+              ], 
+              "expanded_url": "http://fb.me/3j9rUzdYN", 
+              "display_url": "fb.me/3j9rUzdYN"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "530747127811833857", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 2327656938, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181594355/c-AULyuW.jpeg", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/430800825137389568/ULnxP_gY_normal.jpeg", 
+          "profile_sidebar_fill_color": "DDEEF6", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/OyIWBZU9Po", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://www.slintmusic.com", 
+                  "display_url": "slintmusic.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 2220, 
+          "profile_sidebar_border_color": "FFFFFF", 
+          "id_str": "2327656938", 
+          "profile_background_color": "000000", 
+          "listed_count": 40, 
+          "is_translation_enabled": false, 
+          "utc_offset": null, 
+          "statuses_count": 196, 
+          "description": "Slint is an American rock band.", 
+          "friends_count": 73, 
+          "location": "", 
+          "profile_link_color": "ABABAB", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/430800825137389568/ULnxP_gY_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181594355/c-AULyuW.jpeg", 
+          "name": "SLINT", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 63, 
+          "screen_name": "SlintOfficial", 
+          "notifications": false, 
+          "url": "http://t.co/OyIWBZU9Po", 
+          "created_at": "Tue Feb 04 20:30:51 +0000 2014", 
+          "contributors_enabled": false, 
+          "time_zone": null, 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Nov 07 15:42:30 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Fri Nov 07 21:18:39 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "556921556518338560": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon yes to ZARA x1,000,000", 
+      "in_reply_to_status_id": 556237940922122240, 
+      "id": 556921556518338560, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "556921556518338560", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Sun Jan 18 21:10:20 +0000 2015", 
+      "in_reply_to_status_id_str": "556237940922122240", 
+      "place": null
+    }, 
+    "558695808716267521": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon I'm still driving a chevy malibu which I got when I turned 16 lol. I really want a Volkswagen Touareg though.", 
+      "in_reply_to_status_id": 558685224939180032, 
+      "id": 558695808716267521, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "558695808716267521", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Fri Jan 23 18:40:35 +0000 2015", 
+      "in_reply_to_status_id_str": "558685224939180032", 
+      "place": null
+    }, 
+    "531975665852379137": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @naoto_hattori: \"Baby Elephant\" http://t.co/HT4BzoWSNw", 
+      "in_reply_to_status_id": null, 
+      "id": 531975665852379137, 
+      "favorite_count": 0, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 458793413, 
+            "indices": [
+              3, 
+              17
+            ], 
+            "id_str": "458793413", 
+            "screen_name": "naoto_hattori", 
+            "name": "Naoto Hattori"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/HT4BzoWSNw", 
+            "indices": [
+              35, 
+              57
+            ], 
+            "expanded_url": "http://instagram.com/p/vPG-3GhX_x/", 
+            "display_url": "instagram.com/p/vPG-3GhX_x/"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "531975665852379137", 
+      "retweet_count": 3, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "\"Baby Elephant\" http://t.co/HT4BzoWSNw", 
+        "in_reply_to_status_id": null, 
+        "id": 531973248154877952, 
+        "favorite_count": 3, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [], 
+          "urls": [
+            {
+              "url": "http://t.co/HT4BzoWSNw", 
+              "indices": [
+                16, 
+                38
+              ], 
+              "expanded_url": "http://instagram.com/p/vPG-3GhX_x/", 
+              "display_url": "instagram.com/p/vPG-3GhX_x/"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "531973248154877952", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "666666", 
+          "default_profile_image": false, 
+          "id": 458793413, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/397202159/gasmask_mono2.gif", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1996117332/gasmask_normal.jpg", 
+          "profile_sidebar_fill_color": "252429", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/xMgiFrtQS5", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://naotohattori.com", 
+                  "display_url": "naotohattori.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 4256, 
+          "profile_sidebar_border_color": "181A1E", 
+          "id_str": "458793413", 
+          "profile_background_color": "1A1B1F", 
+          "listed_count": 63, 
+          "is_translation_enabled": false, 
+          "utc_offset": 32400, 
+          "statuses_count": 595, 
+          "description": "Artist", 
+          "friends_count": 4174, 
+          "location": "Etsy Store", 
+          "profile_link_color": "2FC2EF", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1996117332/gasmask_normal.jpg", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/458793413/1368059252", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/397202159/gasmask_mono2.gif", 
+          "name": "Naoto Hattori", 
+          "lang": "ja", 
+          "profile_background_tile": true, 
+          "favourites_count": 40, 
+          "screen_name": "naoto_hattori", 
+          "notifications": false, 
+          "url": "http://t.co/xMgiFrtQS5", 
+          "created_at": "Sun Jan 08 23:28:01 +0000 2012", 
+          "contributors_enabled": false, 
+          "time_zone": "Tokyo", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue Nov 11 00:54:40 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Tue Nov 11 01:04:17 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "561616044784361472": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Earthbound phone case for champions! http://t.co/q8oM9kqoqm", 
+      "in_reply_to_status_id": null, 
+      "id": 561616044784361472, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/q8oM9kqoqm", 
+            "indices": [
+              37, 
+              59
+            ], 
+            "expanded_url": "http://www.redbubble.com/people/toatsmagoats/works/12622597-earthbound-tenda?grid_pos=176&p=iphone-case", 
+            "display_url": "redbubble.com/people/toatsma\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "561616044784361472", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sat Jan 31 20:04:34 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "529396554634121216": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @vegan: Out BIGGEST #giveaway ever! Win a new professional @Blendtec blender: http://t.co/ebE2XK3gpr http://t.co/r1Gg9yWlTf", 
+      "in_reply_to_status_id": null, 
+      "id": 529396554634121216, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 33323849, 
+            "indices": [
+              3, 
+              9
+            ], 
+            "id_str": "33323849", 
+            "screen_name": "vegan", 
+            "name": "Vegan"
+          }, 
+          {
+            "id": 14615195, 
+            "indices": [
+              62, 
+              71
+            ], 
+            "id_str": "14615195", 
+            "screen_name": "Blendtec", 
+            "name": "Blendtec"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              23, 
+              32
+            ], 
+            "text": "giveaway"
+          }
+        ], 
+        "urls": [
+          {
+            "url": "http://t.co/ebE2XK3gpr", 
+            "indices": [
+              81, 
+              103
+            ], 
+            "expanded_url": "http://www.vegan.com/videos/blendtec-giveaway", 
+            "display_url": "vegan.com/videos/blendte\u2026"
+          }
+        ], 
+        "media": [
+          {
+            "source_user_id": 33323849, 
+            "source_status_id_str": "529298499754422272", 
+            "expanded_url": "http://twitter.com/vegan/status/529298499754422272/photo/1", 
+            "display_url": "pic.twitter.com/r1Gg9yWlTf", 
+            "url": "http://t.co/r1Gg9yWlTf", 
+            "media_url_https": "https://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg", 
+            "source_user_id_str": "33323849", 
+            "source_status_id": 529298499754422272, 
+            "id_str": "529298498898780162", 
+            "sizes": {
+              "large": {
+                "h": 379, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "small": {
+                "h": 125, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 222, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              104, 
+              126
+            ], 
+            "type": "photo", 
+            "id": 529298498898780162, 
+            "media_url": "http://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "529396554634121216", 
+      "retweet_count": 18, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Out BIGGEST #giveaway ever! Win a new professional @Blendtec blender: http://t.co/ebE2XK3gpr http://t.co/r1Gg9yWlTf", 
+        "in_reply_to_status_id": null, 
+        "id": 529298499754422272, 
+        "favorite_count": 13, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [
+            {
+              "id": 14615195, 
+              "indices": [
+                51, 
+                60
+              ], 
+              "id_str": "14615195", 
+              "screen_name": "Blendtec", 
+              "name": "Blendtec"
+            }
+          ], 
+          "hashtags": [
+            {
+              "indices": [
+                12, 
+                21
+              ], 
+              "text": "giveaway"
+            }
+          ], 
+          "urls": [
+            {
+              "url": "http://t.co/ebE2XK3gpr", 
+              "indices": [
+                70, 
+                92
+              ], 
+              "expanded_url": "http://www.vegan.com/videos/blendtec-giveaway", 
+              "display_url": "vegan.com/videos/blendte\u2026"
+            }
+          ], 
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/vegan/status/529298499754422272/photo/1", 
+              "display_url": "pic.twitter.com/r1Gg9yWlTf", 
+              "url": "http://t.co/r1Gg9yWlTf", 
+              "media_url_https": "https://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg", 
+              "id_str": "529298498898780162", 
+              "sizes": {
+                "large": {
+                  "h": 379, 
+                  "resize": "fit", 
+                  "w": 1024
+                }, 
+                "small": {
+                  "h": 125, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 222, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                93, 
+                115
+              ], 
+              "type": "photo", 
+              "id": 529298498898780162, 
+              "media_url": "http://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "529298499754422272", 
+        "retweet_count": 18, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 33323849, 
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/468574382055362560/xqHkMuLD_normal.png", 
+          "profile_sidebar_fill_color": "DDEEF6", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/3a3bHyE0Yd", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://www.vegan.com", 
+                  "display_url": "vegan.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/JzpET3fJWF", 
+                  "indices": [
+                    4, 
+                    26
+                  ], 
+                  "expanded_url": "http://Vegan.com", 
+                  "display_url": "Vegan.com"
+                }
+              ]
+            }
+          }, 
+          "followers_count": 93042, 
+          "profile_sidebar_border_color": "C0DEED", 
+          "id_str": "33323849", 
+          "profile_background_color": "C0DEED", 
+          "listed_count": 1393, 
+          "is_translation_enabled": false, 
+          "utc_offset": -28800, 
+          "statuses_count": 13102, 
+          "description": "The http://t.co/JzpET3fJWF Twitter Feed.", 
+          "friends_count": 256, 
+          "location": "", 
+          "profile_link_color": "0084B4", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/468574382055362560/xqHkMuLD_normal.png", 
+          "following": false, 
+          "geo_enabled": true, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/33323849/1418336392", 
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+          "name": "Vegan", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 2290, 
+          "screen_name": "vegan", 
+          "notifications": false, 
+          "url": "http://t.co/3a3bHyE0Yd", 
+          "created_at": "Sun Apr 19 22:02:46 +0000 2009", 
+          "contributors_enabled": false, 
+          "time_zone": "Pacific Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": true, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Nov 03 15:46:10 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/vegan/status/529298499754422272/photo/1", 
+              "display_url": "pic.twitter.com/r1Gg9yWlTf", 
+              "url": "http://t.co/r1Gg9yWlTf", 
+              "media_url_https": "https://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg", 
+              "id_str": "529298498898780162", 
+              "sizes": {
+                "large": {
+                  "h": 379, 
+                  "resize": "fit", 
+                  "w": 1024
+                }, 
+                "small": {
+                  "h": 125, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 222, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                93, 
+                115
+              ], 
+              "type": "photo", 
+              "id": 529298498898780162, 
+              "media_url": "http://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg"
+            }
+          ]
+        }
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Nov 03 22:15:49 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 33323849, 
+            "source_status_id_str": "529298499754422272", 
+            "expanded_url": "http://twitter.com/vegan/status/529298499754422272/photo/1", 
+            "display_url": "pic.twitter.com/r1Gg9yWlTf", 
+            "url": "http://t.co/r1Gg9yWlTf", 
+            "media_url_https": "https://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg", 
+            "source_user_id_str": "33323849", 
+            "source_status_id": 529298499754422272, 
+            "id_str": "529298498898780162", 
+            "sizes": {
+              "large": {
+                "h": 379, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "small": {
+                "h": 125, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 222, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              104, 
+              126
+            ], 
+            "type": "photo", 
+            "id": 529298498898780162, 
+            "media_url": "http://pbs.twimg.com/media/B1hyLi8CYAISyzO.jpg"
+          }
+        ]
+      }
+    }, 
+    "531666009527431169": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Why does everyone in Twoson look/act like they're on drugs?! #Earthbound", 
+      "in_reply_to_status_id": null, 
+      "id": 531666009527431169, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              61, 
+              72
+            ], 
+            "text": "Earthbound"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "531666009527431169", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Mon Nov 10 04:33:49 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "563988834564997120": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "I want GY!BE to collaborate with Bj\u00f6rk.", 
+      "in_reply_to_status_id": null, 
+      "id": 563988834564997120, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563988834564997120", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:13:11 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "527293844552187904": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon I used to work at a Kmart a while ago before it closed. It was so depressing. Although during final sales, a 3DS was only $65.", 
+      "in_reply_to_status_id": 527293172599107584, 
+      "id": 527293844552187904, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "527293844552187904", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "en", 
+      "created_at": "Wed Oct 29 03:00:23 +0000 2014", 
+      "in_reply_to_status_id_str": "527293172599107584", 
+      "place": null
+    }, 
+    "515290743217594368": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Why is it that people think they're saving the environment just because they choose paper over plastic? #whatevermakesyoufeelimportant", 
+      "in_reply_to_status_id": null, 
+      "id": 515290743217594368, 
+      "favorite_count": 1, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              104, 
+              134
+            ], 
+            "text": "whatevermakesyoufeelimportant"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "515290743217594368", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Fri Sep 26 00:04:21 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "563155751129329664": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@SmellyYomon D: jealous!", 
+      "in_reply_to_status_id": 562420907889532930, 
+      "id": 563155751129329664, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 15142207, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "15142207", 
+            "screen_name": "SmellyYomon", 
+            "name": "Shawn Covington"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "SmellyYomon", 
+      "id_str": "563155751129329664", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 15142207, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "15142207", 
+      "lang": "fr", 
+      "created_at": "Thu Feb 05 02:02:48 +0000 2015", 
+      "in_reply_to_status_id_str": "562420907889532930", 
+      "place": null
+    }, 
+    "550538460118134784": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Happy 2015?", 
+      "in_reply_to_status_id": null, 
+      "id": 550538460118134784, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "550538460118134784", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Jan 01 06:26:12 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "555973568371392512": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@superguitarbros Your videos are awesome! Do you have any plans to do more songs from Earthbound? If so, can you do the Onett theme? :)", 
+      "in_reply_to_status_id": null, 
+      "id": 555973568371392512, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2223685332, 
+            "indices": [
+              0, 
+              16
+            ], 
+            "id_str": "2223685332", 
+            "screen_name": "superguitarbros", 
+            "name": "Super Guitar Bros"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "superguitarbros", 
+      "id_str": "555973568371392512", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2223685332, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2223685332", 
+      "lang": "en", 
+      "created_at": "Fri Jan 16 06:23:22 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "557453586016509952": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "About to start making #spanakopita and fried #Nutella and bananas!", 
+      "in_reply_to_status_id": null, 
+      "id": 557453586016509952, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              22, 
+              34
+            ], 
+            "text": "spanakopita"
+          }, 
+          {
+            "indices": [
+              45, 
+              53
+            ], 
+            "text": "Nutella"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "557453586016509952", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Tue Jan 20 08:24:26 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "531280832515031040": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @vegan: Wondering if sales of The Vegan Stoner Cookbook are about to take off in Oregon and DC. http://t.co/EBFhwcjD1T", 
+      "in_reply_to_status_id": null, 
+      "id": 531280832515031040, 
+      "favorite_count": 0, 
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 33323849, 
+            "indices": [
+              3, 
+              9
+            ], 
+            "id_str": "33323849", 
+            "screen_name": "vegan", 
+            "name": "Vegan"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/EBFhwcjD1T", 
+            "indices": [
+              99, 
+              121
+            ], 
+            "expanded_url": "http://www.amazon.com/gp/product/1607744643?ie=UTF8&camp=213733&creative=393185&creativeASIN=1607744643&linkCode=shr&tag=vegancom&linkId=Q5JJ7DTWLOLALFMF&qid=1415500528&sr=8-1&keywords=vegan+stoner+cookbook", 
+            "display_url": "amazon.com/gp/product/160\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "531280832515031040", 
+      "retweet_count": 10, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Wondering if sales of The Vegan Stoner Cookbook are about to take off in Oregon and DC. http://t.co/EBFhwcjD1T", 
+        "in_reply_to_status_id": null, 
+        "id": 531274421021855744, 
+        "favorite_count": 19, 
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [], 
+          "urls": [
+            {
+              "url": "http://t.co/EBFhwcjD1T", 
+              "indices": [
+                88, 
+                110
+              ], 
+              "expanded_url": "http://www.amazon.com/gp/product/1607744643?ie=UTF8&camp=213733&creative=393185&creativeASIN=1607744643&linkCode=shr&tag=vegancom&linkId=Q5JJ7DTWLOLALFMF&qid=1415500528&sr=8-1&keywords=vegan+stoner+cookbook", 
+              "display_url": "amazon.com/gp/product/160\u2026"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "531274421021855744", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 33323849, 
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/468574382055362560/xqHkMuLD_normal.png", 
+          "profile_sidebar_fill_color": "DDEEF6", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/3a3bHyE0Yd", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://www.vegan.com", 
+                  "display_url": "vegan.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/JzpET3fJWF", 
+                  "indices": [
+                    4, 
+                    26
+                  ], 
+                  "expanded_url": "http://Vegan.com", 
+                  "display_url": "Vegan.com"
+                }
+              ]
+            }
+          }, 
+          "followers_count": 93042, 
+          "profile_sidebar_border_color": "C0DEED", 
+          "id_str": "33323849", 
+          "profile_background_color": "C0DEED", 
+          "listed_count": 1393, 
+          "is_translation_enabled": false, 
+          "utc_offset": -28800, 
+          "statuses_count": 13102, 
+          "description": "The http://t.co/JzpET3fJWF Twitter Feed.", 
+          "friends_count": 256, 
+          "location": "", 
+          "profile_link_color": "0084B4", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/468574382055362560/xqHkMuLD_normal.png", 
+          "following": false, 
+          "geo_enabled": true, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/33323849/1418336392", 
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+          "name": "Vegan", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 2290, 
+          "screen_name": "vegan", 
+          "notifications": false, 
+          "url": "http://t.co/3a3bHyE0Yd", 
+          "created_at": "Sun Apr 19 22:02:46 +0000 2009", 
+          "contributors_enabled": false, 
+          "time_zone": "Pacific Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": true, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Nov 09 02:37:47 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sun Nov 09 03:03:15 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }
+  }, 
+  "mbti type": "ISTJ", 
+  "user": {
+    "follow_request_sent": false, 
+    "profile_use_background_image": true, 
+    "profile_text_color": "333333", 
+    "default_profile_image": false, 
+    "id": 2569524198, 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "verified": false, 
+    "profile_location": null, 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/561455597233516544/Ohidsfpl_normal.jpeg", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    }, 
+    "followers_count": 9, 
+    "profile_sidebar_border_color": "C0DEED", 
+    "id_str": "2569524198", 
+    "profile_background_color": "C0DEED", 
+    "listed_count": 1, 
+    "is_translation_enabled": false, 
+    "utc_offset": null, 
+    "statuses_count": 48, 
+    "description": "What can I say?", 
+    "friends_count": 15, 
+    "location": "Moonside, Eagleland", 
+    "profile_link_color": "ABB8C2", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/561455597233516544/Ohidsfpl_normal.jpeg", 
+    "following": false, 
+    "geo_enabled": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2569524198/1422917829", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "name": "Trevor Corpus", 
+    "lang": "en", 
+    "profile_background_tile": false, 
+    "favourites_count": 103, 
+    "screen_name": "trevor_corpus", 
+    "notifications": false, 
+    "url": null, 
+    "created_at": "Sun Jun 15 19:35:43 +0000 2014", 
+    "contributors_enabled": false, 
+    "time_zone": null, 
+    "protected": false, 
+    "default_profile": false, 
+    "is_translator": false
+  }
+}

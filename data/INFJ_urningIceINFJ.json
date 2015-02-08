@@ -1,0 +1,1668 @@
+{
+  "tweets": {
+    "564111130600030208": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/o37W6WMKqg MBTI: What is an INTP?", 
+      "in_reply_to_status_id": null, 
+      "id": 564111130600030208, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/o37W6WMKqg", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/SejpbcOdNQ0?a", 
+            "display_url": "youtu.be/SejpbcOdNQ0?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "564111130600030208", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "it", 
+      "created_at": "Sat Feb 07 17:19:08 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "564135909050703873": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "MBTI: What is an INTP?: http://t.co/o37W6WMKqg tramite @YouTube", 
+      "in_reply_to_status_id": null, 
+      "id": 564135909050703873, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              55, 
+              63
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/o37W6WMKqg", 
+            "indices": [
+              24, 
+              46
+            ], 
+            "expanded_url": "http://youtu.be/SejpbcOdNQ0?a", 
+            "display_url": "youtu.be/SejpbcOdNQ0?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "564135909050703873", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 18:57:36 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "559355265791709186": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/OjCMICgABv Socionics: Fi Demonstrative (Take 2)", 
+      "in_reply_to_status_id": null, 
+      "id": 559355265791709186, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/OjCMICgABv", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/ktqnoOe7yoc?a", 
+            "display_url": "youtu.be/ktqnoOe7yoc?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "559355265791709186", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "it", 
+      "created_at": "Sun Jan 25 14:21:02 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "548837479231410176": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Self-Actualization: Controlling behavior - Se http://t.co/QT32ao0TcW", 
+      "in_reply_to_status_id": null, 
+      "id": 548837479231410176, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/QT32ao0TcW", 
+            "indices": [
+              46, 
+              68
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2F", 
+            "display_url": "wp.me/p4eJWC-2F"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "548837479231410176", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sat Dec 27 13:47:06 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "549513639258894336": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Self-Actualization: \"Who am I?\" http://t.co/o19VrONHnU", 
+      "in_reply_to_status_id": null, 
+      "id": 549513639258894336, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/o19VrONHnU", 
+            "indices": [
+              32, 
+              54
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2L", 
+            "display_url": "wp.me/p4eJWC-2L"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "549513639258894336", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Dec 29 10:33:55 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560619159227092993": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Enneagram 4w3 sx/so Kat version!!!: http://t.co/KJCUvBtgXC tramite @YouTube", 
+      "in_reply_to_status_id": null, 
+      "id": 560619159227092993, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              67, 
+              75
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/KJCUvBtgXC", 
+            "indices": [
+              36, 
+              58
+            ], 
+            "expanded_url": "http://youtu.be/UWVJmK1f6e0?a", 
+            "display_url": "youtu.be/UWVJmK1f6e0?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560619159227092993", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 02:03:18 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "541966479873171456": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Socionics: Fi vs Fe \u2013 Personal Ethics vs Group Ethics http://t.co/YCbgjjVyJo", 
+      "in_reply_to_status_id": null, 
+      "id": 541966479873171456, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/YCbgjjVyJo", 
+            "indices": [
+              54, 
+              76
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2s", 
+            "display_url": "wp.me/p4eJWC-2s"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "541966479873171456", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Dec 08 14:44:12 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "559331324452827138": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/D10mgh3QWH Socionics: Fi in IEIs", 
+      "in_reply_to_status_id": null, 
+      "id": 559331324452827138, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/D10mgh3QWH", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/GkO6tn34Y1c?a", 
+            "display_url": "youtu.be/GkO6tn34Y1c?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "559331324452827138", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "it", 
+      "created_at": "Sun Jan 25 12:45:54 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "561648708505198592": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Enneagram 6w5: http://t.co/qjt4ZZO0V8 tramite @YouTube", 
+      "in_reply_to_status_id": null, 
+      "id": 561648708505198592, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              46, 
+              54
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/qjt4ZZO0V8", 
+            "indices": [
+              15, 
+              37
+            ], 
+            "expanded_url": "http://youtu.be/PMLeNzg8kBE?a", 
+            "display_url": "youtu.be/PMLeNzg8kBE?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "561648708505198592", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "pl", 
+      "created_at": "Sat Jan 31 22:14:21 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "539376857938792448": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Hating functions means hating yourself http://t.co/PGUkN1L9Qc", 
+      "in_reply_to_status_id": null, 
+      "id": 539376857938792448, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/PGUkN1L9Qc", 
+            "indices": [
+              39, 
+              61
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2j", 
+            "display_url": "wp.me/p4eJWC-2j"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "539376857938792448", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Dec 01 11:13:58 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562724215263358977": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "MBTI: What is an INFJ?: http://t.co/nCpEwhAUqg tramite @YouTube", 
+      "in_reply_to_status_id": null, 
+      "id": 562724215263358977, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              55, 
+              63
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/nCpEwhAUqg", 
+            "indices": [
+              24, 
+              46
+            ], 
+            "expanded_url": "http://youtu.be/XtzGb7xqKgM?a", 
+            "display_url": "youtu.be/XtzGb7xqKgM?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562724215263358977", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Tue Feb 03 21:28:02 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "561079426616532992": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Some time ago I stumbled into this MBTI website, I find the descriptions of types understandable. \n\nhttp://t.co/ykeM1Gq3km", 
+      "in_reply_to_status_id": null, 
+      "id": 561079426616532992, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/ykeM1Gq3km", 
+            "indices": [
+              100, 
+              122
+            ], 
+            "expanded_url": "http://www.16personalities.com/infj-personality", 
+            "display_url": "16personalities.com/infj-personali\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "561079426616532992", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Fri Jan 30 08:32:14 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "545590067893252096": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Maslow's Hierarchy of Needs: Respect and Self-Respect http://t.co/OQv1DOJkly", 
+      "in_reply_to_status_id": null, 
+      "id": 545590067893252096, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/OQv1DOJkly", 
+            "indices": [
+              54, 
+              76
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2y", 
+            "display_url": "wp.me/p4eJWC-2y"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "545590067893252096", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Thu Dec 18 14:43:03 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560589227784548352": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/KJCUvBtgXC Enneagram 4w3 sx/so Kat version!!!", 
+      "in_reply_to_status_id": null, 
+      "id": 560589227784548352, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/KJCUvBtgXC", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/UWVJmK1f6e0?a", 
+            "display_url": "youtu.be/UWVJmK1f6e0?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560589227784548352", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "it", 
+      "created_at": "Thu Jan 29 00:04:21 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "559385844885123072": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Socionics: Fi Demonstrative (Take 2): http://t.co/OjCMICgABv tramite @YouTube", 
+      "in_reply_to_status_id": null, 
+      "id": 559385844885123072, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              69, 
+              77
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/OjCMICgABv", 
+            "indices": [
+              38, 
+              60
+            ], 
+            "expanded_url": "http://youtu.be/ktqnoOe7yoc?a", 
+            "display_url": "youtu.be/ktqnoOe7yoc?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "559385844885123072", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sun Jan 25 16:22:32 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "561626644184449024": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/qjt4ZZO0V8 Enneagram 6w5", 
+      "in_reply_to_status_id": null, 
+      "id": 561626644184449024, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/qjt4ZZO0V8", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/PMLeNzg8kBE?a", 
+            "display_url": "youtu.be/PMLeNzg8kBE?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "561626644184449024", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "it", 
+      "created_at": "Sat Jan 31 20:46:41 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562708392821936128": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/nCpEwhAUqg MBTI: What is an INFJ?", 
+      "in_reply_to_status_id": null, 
+      "id": 562708392821936128, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/nCpEwhAUqg", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/XtzGb7xqKgM?a", 
+            "display_url": "youtu.be/XtzGb7xqKgM?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562708392821936128", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "it", 
+      "created_at": "Tue Feb 03 20:25:10 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "539220218157862912": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Practical Application of the Model\u00a0A http://t.co/Ob0x5PeqjM", 
+      "in_reply_to_status_id": null, 
+      "id": 539220218157862912, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/Ob0x5PeqjM", 
+            "indices": [
+              37, 
+              59
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2f", 
+            "display_url": "wp.me/p4eJWC-2f"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "539220218157862912", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Dec 01 00:51:32 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "547046478951116800": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Self-Actualization: Ignoring Function \u2013 Fi http://t.co/f99pmIsv6s", 
+      "in_reply_to_status_id": null, 
+      "id": 547046478951116800, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/f99pmIsv6s", 
+            "indices": [
+              43, 
+              65
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2B", 
+            "display_url": "wp.me/p4eJWC-2B"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "547046478951116800", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Dec 22 15:10:18 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "557931776840982528": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "http://t.co/UqvVADSbVW", 
+      "in_reply_to_status_id": null, 
+      "id": 557931776840982528, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/BurningIceINFJ/status/557931776840982528/photo/1", 
+            "display_url": "pic.twitter.com/UqvVADSbVW", 
+            "url": "http://t.co/UqvVADSbVW", 
+            "media_url_https": "https://pbs.twimg.com/media/B74r_nuCQAAWAn6.png", 
+            "id_str": "557931775834341376", 
+            "sizes": {
+              "large": {
+                "h": 500, 
+                "resize": "fit", 
+                "w": 800
+              }, 
+              "small": {
+                "h": 212, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 375, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              0, 
+              22
+            ], 
+            "type": "photo", 
+            "id": 557931775834341376, 
+            "media_url": "http://pbs.twimg.com/media/B74r_nuCQAAWAn6.png"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "557931776840982528", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "und", 
+      "created_at": "Wed Jan 21 16:04:36 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/BurningIceINFJ/status/557931776840982528/photo/1", 
+            "display_url": "pic.twitter.com/UqvVADSbVW", 
+            "url": "http://t.co/UqvVADSbVW", 
+            "media_url_https": "https://pbs.twimg.com/media/B74r_nuCQAAWAn6.png", 
+            "id_str": "557931775834341376", 
+            "sizes": {
+              "large": {
+                "h": 500, 
+                "resize": "fit", 
+                "w": 800
+              }, 
+              "small": {
+                "h": 212, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 375, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              0, 
+              22
+            ], 
+            "type": "photo", 
+            "id": 557931775834341376, 
+            "media_url": "http://pbs.twimg.com/media/B74r_nuCQAAWAn6.png"
+          }
+        ]
+      }
+    }, 
+    "558038043488448512": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/R45UjqLcLL Severn Cullis-Suzuki at Rio Summit 1992", 
+      "in_reply_to_status_id": null, 
+      "id": 558038043488448512, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/R45UjqLcLL", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/oJJGuIZVfLM?a", 
+            "display_url": "youtu.be/oJJGuIZVfLM?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "558038043488448512", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "it", 
+      "created_at": "Wed Jan 21 23:06:52 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "548859240702414849": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Love is a choice http://t.co/NwNmpsW2dL", 
+      "in_reply_to_status_id": null, 
+      "id": 548859240702414849, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/NwNmpsW2dL", 
+            "indices": [
+              17, 
+              39
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2I", 
+            "display_url": "wp.me/p4eJWC-2I"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "548859240702414849", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sat Dec 27 15:13:34 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "547327641431207936": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Self-Actualization: Inferiority Complex \u2013 Fe http://t.co/RtCQ6HD139", 
+      "in_reply_to_status_id": null, 
+      "id": 547327641431207936, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/RtCQ6HD139", 
+            "indices": [
+              45, 
+              67
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2D", 
+            "display_url": "wp.me/p4eJWC-2D"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "547327641431207936", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Tue Dec 23 09:47:33 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "540075123336683521": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Socionics Quadras http://t.co/lsgQEfsl7I", 
+      "in_reply_to_status_id": null, 
+      "id": 540075123336683521, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/lsgQEfsl7I", 
+            "indices": [
+              18, 
+              40
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2m", 
+            "display_url": "wp.me/p4eJWC-2m"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "540075123336683521", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "es", 
+      "created_at": "Wed Dec 03 09:28:38 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "540826602888626178": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Socionics Romance Styles \u2013\u00a0Intro http://t.co/4s0sBZ5Lfs", 
+      "in_reply_to_status_id": null, 
+      "id": 540826602888626178, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/4s0sBZ5Lfs", 
+            "indices": [
+              33, 
+              55
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2q", 
+            "display_url": "wp.me/p4eJWC-2q"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "540826602888626178", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Fri Dec 05 11:14:44 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "540444496312283136": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "How to see your Shadow (#Jung) via Socionics Functions: Vulnerable http://t.co/w8vrgtyz8W", 
+      "in_reply_to_status_id": null, 
+      "id": 540444496312283136, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              24, 
+              29
+            ], 
+            "text": "Jung"
+          }
+        ], 
+        "urls": [
+          {
+            "url": "http://t.co/w8vrgtyz8W", 
+            "indices": [
+              67, 
+              89
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2o", 
+            "display_url": "wp.me/p4eJWC-2o"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "540444496312283136", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Thu Dec 04 09:56:23 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "561175007011692544": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "One of my dreams is to show the integration of enneagram 4. \nStay tuned! Odd things are about to happen! *grin* http://t.co/CtT7ElNEW0", 
+      "in_reply_to_status_id": null, 
+      "id": 561175007011692544, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/BurningIceINFJ/status/561175007011692544/photo/1", 
+            "display_url": "pic.twitter.com/CtT7ElNEW0", 
+            "url": "http://t.co/CtT7ElNEW0", 
+            "media_url_https": "https://pbs.twimg.com/media/B8mxshBCUAAdukk.jpg", 
+            "id_str": "561175006919413760", 
+            "sizes": {
+              "small": {
+                "h": 85, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 256, 
+                "resize": "fit", 
+                "w": 1023
+              }, 
+              "medium": {
+                "h": 150, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              112, 
+              134
+            ], 
+            "type": "photo", 
+            "id": 561175006919413760, 
+            "media_url": "http://pbs.twimg.com/media/B8mxshBCUAAdukk.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "561175007011692544", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Fri Jan 30 14:52:02 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/BurningIceINFJ/status/561175007011692544/photo/1", 
+            "display_url": "pic.twitter.com/CtT7ElNEW0", 
+            "url": "http://t.co/CtT7ElNEW0", 
+            "media_url_https": "https://pbs.twimg.com/media/B8mxshBCUAAdukk.jpg", 
+            "id_str": "561175006919413760", 
+            "sizes": {
+              "small": {
+                "h": 85, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 256, 
+                "resize": "fit", 
+                "w": 1023
+              }, 
+              "medium": {
+                "h": 150, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              112, 
+              134
+            ], 
+            "type": "photo", 
+            "id": 561175006919413760, 
+            "media_url": "http://pbs.twimg.com/media/B8mxshBCUAAdukk.jpg"
+          }
+        ]
+      }
+    }, 
+    "550569648660295680": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Self-Actualization: The Return To Innocence http://t.co/Sm1p9RIT0l", 
+      "in_reply_to_status_id": null, 
+      "id": 550569648660295680, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/Sm1p9RIT0l", 
+            "indices": [
+              44, 
+              66
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2N", 
+            "display_url": "wp.me/p4eJWC-2N"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "550569648660295680", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Thu Jan 01 08:30:07 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "544782969466937344": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Goodbye, farewell, loss and grief \u2013 Enneagram 9 but not only http://t.co/VoqbaaVyAe", 
+      "in_reply_to_status_id": null, 
+      "id": 544782969466937344, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/VoqbaaVyAe", 
+            "indices": [
+              61, 
+              83
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2w", 
+            "display_url": "wp.me/p4eJWC-2w"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "544782969466937344", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Tue Dec 16 09:15:56 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "543004238071083008": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Socionics: the physical nature of emotions - Fi and Si http://t.co/cRMKDfjcq3", 
+      "in_reply_to_status_id": null, 
+      "id": 543004238071083008, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/cRMKDfjcq3", 
+            "indices": [
+              55, 
+              77
+            ], 
+            "expanded_url": "http://wp.me/p4eJWC-2u", 
+            "display_url": "wp.me/p4eJWC-2u"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "543004238071083008", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Thu Dec 11 11:27:53 +0000 2014", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "560604523517853696": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ho aggiunto un video a una playlist di @YouTube: http://t.co/v2Wdz5zdRh The Other Side of the Coin: The Dark Shadow", 
+      "in_reply_to_status_id": null, 
+      "id": 560604523517853696, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 10228272, 
+            "indices": [
+              39, 
+              47
+            ], 
+            "id_str": "10228272", 
+            "screen_name": "YouTube", 
+            "name": "YouTube"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [
+          {
+            "url": "http://t.co/v2Wdz5zdRh", 
+            "indices": [
+              49, 
+              71
+            ], 
+            "expanded_url": "http://youtu.be/yBBJBa5O3Z0?a", 
+            "display_url": "youtu.be/yBBJBa5O3Z0?a"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "560604523517853696", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Thu Jan 29 01:05:08 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "557197405829873664": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "http://t.co/h4YsRunC9n", 
+      "in_reply_to_status_id": null, 
+      "id": 557197405829873664, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/BurningIceINFJ/status/557197405829873664/photo/1", 
+            "display_url": "pic.twitter.com/h4YsRunC9n", 
+            "url": "http://t.co/h4YsRunC9n", 
+            "media_url_https": "https://pbs.twimg.com/media/B7uQFqBCEAAvEyY.jpg", 
+            "id_str": "557197405762752512", 
+            "sizes": {
+              "large": {
+                "h": 498, 
+                "resize": "fit", 
+                "w": 799
+              }, 
+              "small": {
+                "h": 211, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 373, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              0, 
+              22
+            ], 
+            "type": "photo", 
+            "id": 557197405762752512, 
+            "media_url": "http://pbs.twimg.com/media/B7uQFqBCEAAvEyY.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "557197405829873664", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "und", 
+      "created_at": "Mon Jan 19 15:26:28 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/BurningIceINFJ/status/557197405829873664/photo/1", 
+            "display_url": "pic.twitter.com/h4YsRunC9n", 
+            "url": "http://t.co/h4YsRunC9n", 
+            "media_url_https": "https://pbs.twimg.com/media/B7uQFqBCEAAvEyY.jpg", 
+            "id_str": "557197405762752512", 
+            "sizes": {
+              "large": {
+                "h": 498, 
+                "resize": "fit", 
+                "w": 799
+              }, 
+              "small": {
+                "h": 211, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 373, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              0, 
+              22
+            ], 
+            "type": "photo", 
+            "id": 557197405762752512, 
+            "media_url": "http://pbs.twimg.com/media/B7uQFqBCEAAvEyY.jpg"
+          }
+        ]
+      }
+    }
+  }, 
+  "mbti type": "INFJ", 
+  "user": {
+    "follow_request_sent": false, 
+    "profile_use_background_image": true, 
+    "profile_text_color": "333333", 
+    "default_profile_image": false, 
+    "id": 633945683, 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/602707088/sfq0uf425t955xxavmay.jpeg", 
+    "verified": false, 
+    "profile_location": null, 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/562654751276294146/DjxFI-9l_normal.jpeg", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/DIH1Qaf3zJ", 
+            "indices": [
+              0, 
+              23
+            ], 
+            "expanded_url": "https://www.youtube.com/user/LilithKore", 
+            "display_url": "youtube.com/user/LilithKore"
+          }
+        ]
+      }, 
+      "description": {
+        "urls": []
+      }
+    }, 
+    "followers_count": 20, 
+    "profile_sidebar_border_color": "C0DEED", 
+    "id_str": "633945683", 
+    "profile_background_color": "C0DEED", 
+    "listed_count": 1, 
+    "is_translation_enabled": true, 
+    "utc_offset": 3600, 
+    "statuses_count": 32, 
+    "description": "When we find the good within ourselves, sharing that good and our experience is the best way to teach others good things.", 
+    "friends_count": 7, 
+    "location": "Golden Wheat", 
+    "profile_link_color": "0084B4", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/562654751276294146/DjxFI-9l_normal.jpeg", 
+    "following": false, 
+    "geo_enabled": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/633945683/1422796943", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/602707088/sfq0uf425t955xxavmay.jpeg", 
+    "name": "BurningIce", 
+    "lang": "it", 
+    "profile_background_tile": false, 
+    "favourites_count": 21, 
+    "screen_name": "BurningIceINFJ", 
+    "notifications": false, 
+    "url": "https://t.co/DIH1Qaf3zJ", 
+    "created_at": "Thu Jul 12 18:34:02 +0000 2012", 
+    "contributors_enabled": false, 
+    "time_zone": "Amsterdam", 
+    "protected": false, 
+    "default_profile": false, 
+    "is_translator": false
+  }
+}

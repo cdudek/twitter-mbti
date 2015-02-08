@@ -1,5 +1,33 @@
 {
   "tweets": {
+    "564168028674613248": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "\ud83c\udfb5HERE I GO AGAIN ON MY PHOOOONE\ud83c\udfb5", 
+      "in_reply_to_status_id": null, 
+      "id": 564168028674613248, 
+      "favorite_count": 4, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "564168028674613248", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 21:05:14 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
     "564092547589750784": {
       "contributors": null, 
       "truncated": false, 
@@ -38,299 +66,6 @@
       "created_at": "Sat Feb 07 16:05:18 +0000 2015", 
       "in_reply_to_status_id_str": "563844461139361795", 
       "place": null
-    }, 
-    "563920536493756416": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "RT @mallelis: hi when i was seven i thought this was Prince for some reason ok bye http://t.co/uBepFgFV2V", 
-      "in_reply_to_status_id": null, 
-      "id": 563920536493756416, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 20951512, 
-            "indices": [
-              3, 
-              12
-            ], 
-            "id_str": "20951512", 
-            "screen_name": "mallelis", 
-            "name": "Mallory Ortberg"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": [], 
-        "media": [
-          {
-            "source_user_id": 20951512, 
-            "source_status_id_str": "563868307690762240", 
-            "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
-            "display_url": "pic.twitter.com/uBepFgFV2V", 
-            "url": "http://t.co/uBepFgFV2V", 
-            "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
-            "source_user_id_str": "20951512", 
-            "source_status_id": 563868307690762240, 
-            "id_str": "563868307053232128", 
-            "sizes": {
-              "large": {
-                "h": 476, 
-                "resize": "fit", 
-                "w": 434
-              }, 
-              "small": {
-                "h": 372, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "medium": {
-                "h": 476, 
-                "resize": "fit", 
-                "w": 434
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              83, 
-              105
-            ], 
-            "type": "photo", 
-            "id": 563868307053232128, 
-            "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
-          }
-        ]
-      }, 
-      "in_reply_to_screen_name": null, 
-      "id_str": "563920536493756416", 
-      "retweet_count": 9, 
-      "in_reply_to_user_id": null, 
-      "favorited": false, 
-      "retweeted_status": {
-        "contributors": null, 
-        "truncated": false, 
-        "text": "hi when i was seven i thought this was Prince for some reason ok bye http://t.co/uBepFgFV2V", 
-        "in_reply_to_status_id": null, 
-        "id": 563868307690762240, 
-        "favorite_count": 62, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "retweeted": false, 
-        "coordinates": null, 
-        "entities": {
-          "symbols": [], 
-          "user_mentions": [], 
-          "hashtags": [], 
-          "urls": [], 
-          "media": [
-            {
-              "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
-              "display_url": "pic.twitter.com/uBepFgFV2V", 
-              "url": "http://t.co/uBepFgFV2V", 
-              "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
-              "id_str": "563868307053232128", 
-              "sizes": {
-                "large": {
-                  "h": 476, 
-                  "resize": "fit", 
-                  "w": 434
-                }, 
-                "small": {
-                  "h": 372, 
-                  "resize": "fit", 
-                  "w": 340
-                }, 
-                "medium": {
-                  "h": 476, 
-                  "resize": "fit", 
-                  "w": 434
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "indices": [
-                69, 
-                91
-              ], 
-              "type": "photo", 
-              "id": 563868307053232128, 
-              "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
-            }
-          ]
-        }, 
-        "in_reply_to_screen_name": null, 
-        "id_str": "563868307690762240", 
-        "retweet_count": 9, 
-        "in_reply_to_user_id": null, 
-        "favorited": false, 
-        "user": {
-          "follow_request_sent": false, 
-          "profile_use_background_image": true, 
-          "profile_text_color": "666666", 
-          "default_profile_image": false, 
-          "id": 20951512, 
-          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493977699870728194/gqpPJfQh.png", 
-          "verified": false, 
-          "profile_location": null, 
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3614751386/3ed1b43f6551ec051cd258df6fcdef8c_normal.jpeg", 
-          "profile_sidebar_fill_color": "252429", 
-          "entities": {
-            "url": {
-              "urls": [
-                {
-                  "url": "http://t.co/7PPORc79Fw", 
-                  "indices": [
-                    0, 
-                    22
-                  ], 
-                  "expanded_url": "http://the-toast.net", 
-                  "display_url": "the-toast.net"
-                }
-              ]
-            }, 
-            "description": {
-              "urls": []
-            }
-          }, 
-          "followers_count": 43167, 
-          "profile_sidebar_border_color": "000000", 
-          "id_str": "20951512", 
-          "profile_background_color": "1A1B1F", 
-          "listed_count": 828, 
-          "is_translation_enabled": false, 
-          "utc_offset": -28800, 
-          "statuses_count": 46185, 
-          "description": "That son of a bitch bought a CAT scan machine.", 
-          "friends_count": 353, 
-          "location": "California", 
-          "profile_link_color": "2FC2EF", 
-          "profile_image_url": "http://pbs.twimg.com/profile_images/3614751386/3ed1b43f6551ec051cd258df6fcdef8c_normal.jpeg", 
-          "following": false, 
-          "geo_enabled": true, 
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20951512/1421372803", 
-          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493977699870728194/gqpPJfQh.png", 
-          "name": "Mallory Ortberg", 
-          "lang": "en", 
-          "profile_background_tile": true, 
-          "favourites_count": 58058, 
-          "screen_name": "mallelis", 
-          "notifications": false, 
-          "url": "http://t.co/7PPORc79Fw", 
-          "created_at": "Mon Feb 16 00:50:52 +0000 2009", 
-          "contributors_enabled": false, 
-          "time_zone": "Pacific Time (US & Canada)", 
-          "protected": false, 
-          "default_profile": false, 
-          "is_translator": false
-        }, 
-        "geo": null, 
-        "in_reply_to_user_id_str": null, 
-        "possibly_sensitive": false, 
-        "lang": "en", 
-        "created_at": "Sat Feb 07 01:14:15 +0000 2015", 
-        "in_reply_to_status_id_str": null, 
-        "place": null, 
-        "extended_entities": {
-          "media": [
-            {
-              "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
-              "display_url": "pic.twitter.com/uBepFgFV2V", 
-              "url": "http://t.co/uBepFgFV2V", 
-              "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
-              "id_str": "563868307053232128", 
-              "sizes": {
-                "large": {
-                  "h": 476, 
-                  "resize": "fit", 
-                  "w": 434
-                }, 
-                "small": {
-                  "h": 372, 
-                  "resize": "fit", 
-                  "w": 340
-                }, 
-                "medium": {
-                  "h": 476, 
-                  "resize": "fit", 
-                  "w": 434
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "indices": [
-                69, 
-                91
-              ], 
-              "type": "photo", 
-              "id": 563868307053232128, 
-              "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
-            }
-          ]
-        }
-      }, 
-      "geo": null, 
-      "in_reply_to_user_id_str": null, 
-      "possibly_sensitive": false, 
-      "lang": "en", 
-      "created_at": "Sat Feb 07 04:41:47 +0000 2015", 
-      "in_reply_to_status_id_str": null, 
-      "place": null, 
-      "extended_entities": {
-        "media": [
-          {
-            "source_user_id": 20951512, 
-            "source_status_id_str": "563868307690762240", 
-            "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
-            "display_url": "pic.twitter.com/uBepFgFV2V", 
-            "url": "http://t.co/uBepFgFV2V", 
-            "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
-            "source_user_id_str": "20951512", 
-            "source_status_id": 563868307690762240, 
-            "id_str": "563868307053232128", 
-            "sizes": {
-              "large": {
-                "h": 476, 
-                "resize": "fit", 
-                "w": 434
-              }, 
-              "small": {
-                "h": 372, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "medium": {
-                "h": 476, 
-                "resize": "fit", 
-                "w": 434
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              83, 
-              105
-            ], 
-            "type": "photo", 
-            "id": 563868307053232128, 
-            "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
-          }
-        ]
-      }
     }, 
     "563065752228749314": {
       "contributors": null, 
@@ -1132,7 +867,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 2940, 
+          "followers_count": 2942, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "2931833274", 
           "profile_background_color": "C0DEED", 
@@ -1345,16 +1080,16 @@
               "urls": []
             }
           }, 
-          "followers_count": 337, 
+          "followers_count": 339, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "1498976455", 
           "profile_background_color": "C0DEED", 
           "listed_count": 7, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 8362, 
+          "statuses_count": 8366, 
           "description": "Film cricket for @FanboyNation. FOT. #BillyJoelSucks", 
-          "friends_count": 602, 
+          "friends_count": 604, 
           "location": "Orange County, CA", 
           "profile_link_color": "0084B4", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/562297784561192960/jwThyIpe_normal.jpeg", 
@@ -1365,7 +1100,7 @@
           "name": "\u262d Sean Mulvihill \u262d", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 4506, 
+          "favourites_count": 4507, 
           "screen_name": "MessEnScene", 
           "notifications": false, 
           "url": "http://t.co/8Wmj2iMDmo", 
@@ -1802,7 +1537,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 99642, 
+          "followers_count": 99645, 
           "profile_sidebar_border_color": "BDDCAD", 
           "id_str": "17769258", 
           "profile_background_color": "9AE4E8", 
@@ -2029,7 +1764,7 @@
           "name": "requiem for a tween", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 10380, 
+          "favourites_count": 10381, 
           "screen_name": "p_splashartist", 
           "notifications": false, 
           "url": "http://t.co/ghuxDAHBOg", 
@@ -2364,7 +2099,7 @@
         "text": "I tracked down my meanest troll ever and interviewed him for This American Life. Please listen! http://t.co/hsmNIk9owG", 
         "in_reply_to_status_id": null, 
         "id": 562446915283845120, 
-        "favorite_count": 740, 
+        "favorite_count": 743, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -2418,14 +2153,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 53355, 
+          "followers_count": 53365, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "73244642", 
           "profile_background_color": "1A1B1F", 
-          "listed_count": 1259, 
+          "listed_count": 1261, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 13509, 
+          "statuses_count": 13517, 
           "description": "WHY FAT LADY SO MEAN TO BABY MEN", 
           "friends_count": 985, 
           "location": "Seattle", 
@@ -2438,7 +2173,7 @@
           "name": "Lindy West", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 5364, 
+          "favourites_count": 5366, 
           "screen_name": "thelindywest", 
           "notifications": false, 
           "url": "http://t.co/y1eJlB0yZF", 
@@ -2724,6 +2459,60 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 03:14:34 +0000 2015", 
       "in_reply_to_status_id_str": "562811062614241280", 
+      "place": null
+    }, 
+    "563908577962627072": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "FRIDAY NIGHT!  #vintagesnl #SIMON https://t.co/4HosyvnUvn", 
+      "in_reply_to_status_id": null, 
+      "id": 563908577962627072, 
+      "favorite_count": 2, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              15, 
+              26
+            ], 
+            "text": "vintagesnl"
+          }, 
+          {
+            "indices": [
+              27, 
+              33
+            ], 
+            "text": "SIMON"
+          }
+        ], 
+        "urls": [
+          {
+            "url": "https://t.co/4HosyvnUvn", 
+            "indices": [
+              34, 
+              57
+            ], 
+            "expanded_url": "https://screen.yahoo.com/simon-little-english-boy-000000445.html?soc_src=unv-sh&soc_trk=tw", 
+            "display_url": "screen.yahoo.com/simon-little-e\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563908577962627072", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 03:54:16 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
       "place": null
     }, 
     "562783078134083584": {
@@ -3103,7 +2892,7 @@
           "listed_count": 374, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 15743, 
+          "statuses_count": 15744, 
           "description": "Gay for Moleman", 
           "friends_count": 530, 
           "location": "", 
@@ -3116,7 +2905,7 @@
           "name": "grahamclark", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 7944, 
+          "favourites_count": 7945, 
           "screen_name": "grahamclark", 
           "notifications": false, 
           "url": null, 
@@ -3731,14 +3520,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 440, 
+          "followers_count": 439, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "273246550", 
           "profile_background_color": "022330", 
           "listed_count": 13, 
           "is_translation_enabled": false, 
           "utc_offset": -21600, 
-          "statuses_count": 804, 
+          "statuses_count": 805, 
           "description": "Liz from Chicago. Drummer, engineer, technical writer, music lover, FOT, and original player hater.", 
           "friends_count": 400, 
           "location": "Chicago", 
@@ -3751,7 +3540,7 @@
           "name": "Liz Bustamante", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 827, 
+          "favourites_count": 828, 
           "screen_name": "noiseandlight", 
           "notifications": false, 
           "url": "http://t.co/3zbhPK5ZRz", 
@@ -4013,14 +3802,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 536, 
+          "followers_count": 538, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "21019939", 
           "profile_background_color": "0A090A", 
           "listed_count": 11, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 13292, 
+          "statuses_count": 13293, 
           "description": "Current banner image borrowed from @BadGuyZero #BestShow2014", 
           "friends_count": 1456, 
           "location": "Oakland, CA, Newbridge", 
@@ -4033,7 +3822,7 @@
           "name": "daveB 3015", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 19524, 
+          "favourites_count": 19526, 
           "screen_name": "DaveBurian", 
           "notifications": false, 
           "url": "https://t.co/fsoJxiHe89", 
@@ -4240,14 +4029,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 201589, 
+          "followers_count": 201597, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "24216951", 
           "profile_background_color": "1F638A", 
-          "listed_count": 5499, 
+          "listed_count": 5500, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 53590, 
+          "statuses_count": 53594, 
           "description": "Devouring culture. An @NYMag site.", 
           "friends_count": 2643, 
           "location": "New York City", 
@@ -4936,7 +4725,7 @@
               ]
             }
           }, 
-          "followers_count": 466912, 
+          "followers_count": 466919, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "24773177", 
           "profile_background_color": "1A1B1F", 
@@ -5010,7 +4799,7 @@
       }, 
       "in_reply_to_screen_name": null, 
       "id_str": "562982554278830082", 
-      "retweet_count": 359, 
+      "retweet_count": 383, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
       "retweeted_status": {
@@ -5019,7 +4808,7 @@
         "text": "BABY COW: [points at human] What's that?\nOLDER COW: That is a milk dracula", 
         "in_reply_to_status_id": null, 
         "id": 562360906454425600, 
-        "favorite_count": 684, 
+        "favorite_count": 729, 
         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -5031,7 +4820,7 @@
         }, 
         "in_reply_to_screen_name": null, 
         "id_str": "562360906454425600", 
-        "retweet_count": 359, 
+        "retweet_count": 383, 
         "in_reply_to_user_id": null, 
         "favorited": false, 
         "user": {
@@ -5073,14 +4862,14 @@
               ]
             }
           }, 
-          "followers_count": 5616, 
+          "followers_count": 5618, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "38627114", 
           "profile_background_color": "8B542B", 
           "listed_count": 101, 
           "is_translation_enabled": false, 
           "utc_offset": 0, 
-          "statuses_count": 18481, 
+          "statuses_count": 18482, 
           "description": "Film Editor @Whosjacklondon. Joke tweeter. Email joe@whosjack.org http://t.co/5bxCNENkJO", 
           "friends_count": 470, 
           "location": "Stratford", 
@@ -5300,11 +5089,11 @@
               "urls": []
             }
           }, 
-          "followers_count": 17571, 
+          "followers_count": 17570, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "15161984", 
           "profile_background_color": "1A1B1F", 
-          "listed_count": 763, 
+          "listed_count": 762, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
           "statuses_count": 38012, 
@@ -5600,7 +5389,7 @@
           "listed_count": 1015, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 14605, 
+          "statuses_count": 14606, 
           "description": "''As a Jew, I'm very judgmental. \r\nAs a street Jew, doubly so.'' \r\n  --Sidney Lumet", 
           "friends_count": 900, 
           "location": "the holy goddam New York Times", 
@@ -5731,7 +5520,7 @@
           "utc_offset": -21600, 
           "statuses_count": 6440, 
           "description": "TV/VCR Repair", 
-          "friends_count": 807, 
+          "friends_count": 806, 
           "location": "", 
           "profile_link_color": "4A913C", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/2391519674/czbn2bl6tx9072pyaceb_normal.jpeg", 
@@ -5742,7 +5531,7 @@
           "name": "Karen Kilgariff", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 21104, 
+          "favourites_count": 21107, 
           "screen_name": "KarenKilgariff", 
           "notifications": false, 
           "url": "http://t.co/J6eNIkmfJG", 
@@ -5966,7 +5755,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 99642, 
+          "followers_count": 99645, 
           "profile_sidebar_border_color": "BDDCAD", 
           "id_str": "17769258", 
           "profile_background_color": "9AE4E8", 
@@ -6199,7 +5988,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 646, 
+          "followers_count": 647, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "7115632", 
           "profile_background_color": "131516", 
@@ -6329,7 +6118,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 616, 
+          "followers_count": 615, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "1488511759", 
           "profile_background_color": "C0DEED", 
@@ -6868,14 +6657,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 536, 
+          "followers_count": 538, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "21019939", 
           "profile_background_color": "0A090A", 
           "listed_count": 11, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 13292, 
+          "statuses_count": 13293, 
           "description": "Current banner image borrowed from @BadGuyZero #BestShow2014", 
           "friends_count": 1456, 
           "location": "Oakland, CA, Newbridge", 
@@ -6888,7 +6677,7 @@
           "name": "daveB 3015", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 19524, 
+          "favourites_count": 19526, 
           "screen_name": "DaveBurian", 
           "notifications": false, 
           "url": "https://t.co/fsoJxiHe89", 
@@ -7612,7 +7401,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 99642, 
+          "followers_count": 99645, 
           "profile_sidebar_border_color": "BDDCAD", 
           "id_str": "17769258", 
           "profile_background_color": "9AE4E8", 
@@ -7939,14 +7728,14 @@
               ]
             }
           }, 
-          "followers_count": 202572, 
+          "followers_count": 202560, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "5971922", 
           "profile_background_color": "000000", 
           "listed_count": 12593, 
           "is_translation_enabled": false, 
           "utc_offset": -14400, 
-          "statuses_count": 89022, 
+          "statuses_count": 89027, 
           "description": "Official http://t.co/mnvpclsFsL feed. Links to our blog posts, videos, podcasts, comix, and features, plus RTs and stuff from our editors. We like to have fun.", 
           "friends_count": 178, 
           "location": "Directory of Wonderful Things", 
@@ -8242,14 +8031,14 @@
               ]
             }
           }, 
-          "followers_count": 586564, 
+          "followers_count": 586677, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "1041346340", 
           "profile_background_color": "C0DEED", 
-          "listed_count": 2856, 
+          "listed_count": 2852, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 22741, 
+          "statuses_count": 22744, 
           "description": "For when you need a kitten (or other type of cat) to cheer you up! Buy your official Cat socks here! http://t.co/ZJipju9UXY", 
           "friends_count": 14, 
           "location": "", 
@@ -8450,7 +8239,7 @@
       }, 
       "in_reply_to_screen_name": null, 
       "id_str": "562808872956858368", 
-      "retweet_count": 116, 
+      "retweet_count": 117, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
       "retweeted_status": {
@@ -8459,7 +8248,7 @@
         "text": "It is every child's right to go viral.", 
         "in_reply_to_status_id": null, 
         "id": 562807492909232128, 
-        "favorite_count": 181, 
+        "favorite_count": 182, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -8471,7 +8260,7 @@
         }, 
         "in_reply_to_screen_name": null, 
         "id_str": "562807492909232128", 
-        "retweet_count": 116, 
+        "retweet_count": 117, 
         "in_reply_to_user_id": null, 
         "favorited": false, 
         "user": {
@@ -8490,7 +8279,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 48744, 
+          "followers_count": 48749, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "1111063441", 
           "profile_background_color": "C0DEED", 
@@ -8637,7 +8426,7 @@
           "name": "Tavie rhymes w/gravy", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 28734, 
+          "favourites_count": 28733, 
           "screen_name": "TheRealTavie", 
           "notifications": false, 
           "url": "http://t.co/Tg6TWEWW5p", 
@@ -8819,7 +8608,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 646, 
+          "followers_count": 647, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "7115632", 
           "profile_background_color": "131516", 
@@ -9052,14 +8841,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 6417, 
+          "followers_count": 6416, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "2328421", 
           "profile_background_color": "F3ABC2", 
           "listed_count": 166, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 50748, 
+          "statuses_count": 50758, 
           "description": "A funky, devotional musical experience", 
           "friends_count": 569, 
           "location": "Nude Dork City", 
@@ -9072,7 +8861,7 @@
           "name": "patrick", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 80929, 
+          "favourites_count": 80960, 
           "screen_name": "pattymo", 
           "notifications": false, 
           "url": null, 
@@ -9348,7 +9137,7 @@
         "text": "*1 year later*\nBrian Williams: today's podcast is brought to you by Adam and Eve dot com.", 
         "in_reply_to_status_id": null, 
         "id": 563853042001657856, 
-        "favorite_count": 12, 
+        "favorite_count": 13, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -9399,7 +9188,7 @@
           "listed_count": 29, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 45744, 
+          "statuses_count": 45748, 
           "description": "Canadian, FOT For Life, Host of .....Something", 
           "friends_count": 973, 
           "location": "Toronto I guess?", 
@@ -9757,14 +9546,14 @@
               ]
             }
           }, 
-          "followers_count": 2421, 
+          "followers_count": 2423, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "143200037", 
           "profile_background_color": "FFFFFF", 
           "listed_count": 83, 
           "is_translation_enabled": false, 
           "utc_offset": 0, 
-          "statuses_count": 74630, 
+          "statuses_count": 74645, 
           "description": "Extremely Good and Polite Boy | Pop Punk Princess at Punktastic samarth@punktastic.com | Journalism at Stirling University | http://t.co/PaFDnMxhtg", 
           "friends_count": 355, 
           "location": "Stirling/London", 
@@ -9777,7 +9566,7 @@
           "name": "Samarth", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 127709, 
+          "favourites_count": 127749, 
           "screen_name": "SamarthKanal", 
           "notifications": false, 
           "url": "https://t.co/jSzE3RcSsb", 
@@ -9980,7 +9769,7 @@
           "listed_count": 15, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 9737, 
+          "statuses_count": 9746, 
           "description": "_ light blue dragon persona _ bass . freeform hardcore . grime . hard trance . schranz ..mi . oh congoers ..drgns ..chiptuners ..friends of tom .", 
           "friends_count": 346, 
           "location": "New York, New York", 
@@ -9993,7 +9782,7 @@
           "name": "Talkshow Host @MAG", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 2089, 
+          "favourites_count": 2092, 
           "screen_name": "fumu_jp", 
           "notifications": false, 
           "url": null, 
@@ -10434,7 +10223,7 @@
           "name": "Brian Wall", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 8980, 
+          "favourites_count": 8982, 
           "screen_name": "bwall05", 
           "notifications": false, 
           "url": "http://t.co/PdVJT8actQ", 
@@ -11090,7 +10879,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 57, 
+          "followers_count": 56, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "2999068290", 
           "profile_background_color": "C0DEED", 
@@ -11099,7 +10888,7 @@
           "utc_offset": null, 
           "statuses_count": 231, 
           "description": "", 
-          "friends_count": 195, 
+          "friends_count": 196, 
           "location": "", 
           "profile_link_color": "0084B4", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/563229551010914304/McEBAXNK_normal.jpeg", 
@@ -11110,7 +10899,7 @@
           "name": "Nathan Fisher", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 45, 
+          "favourites_count": 46, 
           "screen_name": "nathan__solo", 
           "notifications": false, 
           "url": null, 
@@ -11383,7 +11172,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 1460, 
+          "followers_count": 1459, 
           "profile_sidebar_border_color": "BDDCAD", 
           "id_str": "18598961", 
           "profile_background_color": "9AE4E8", 
@@ -11653,7 +11442,7 @@
           "name": "Tom Costello", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 8578, 
+          "favourites_count": 8579, 
           "screen_name": "tcostello", 
           "notifications": false, 
           "url": "http://t.co/QW7KN90Ywj", 
@@ -11944,14 +11733,14 @@
               ]
             }
           }, 
-          "followers_count": 347, 
+          "followers_count": 348, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "1130716122", 
           "profile_background_color": "131516", 
           "listed_count": 6, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 9772, 
+          "statuses_count": 9773, 
           "description": "Cartooneologist,\nProfessional Procrastinator, Clean Up Artist  http://t.co/BmJK71HW2W", 
           "friends_count": 1780, 
           "location": "Mars, Milky Way", 
@@ -11964,7 +11753,7 @@
           "name": "Cartoon Los ", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 16126, 
+          "favourites_count": 16127, 
           "screen_name": "xCarlosEMendez", 
           "notifications": false, 
           "url": "https://t.co/wS7vMLgR2k", 
@@ -12253,14 +12042,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 53355, 
+          "followers_count": 53365, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "73244642", 
           "profile_background_color": "1A1B1F", 
-          "listed_count": 1259, 
+          "listed_count": 1261, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 13509, 
+          "statuses_count": 13517, 
           "description": "WHY FAT LADY SO MEAN TO BABY MEN", 
           "friends_count": 985, 
           "location": "Seattle", 
@@ -12273,7 +12062,7 @@
           "name": "Lindy West", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 5364, 
+          "favourites_count": 5366, 
           "screen_name": "thelindywest", 
           "notifications": false, 
           "url": "http://t.co/y1eJlB0yZF", 
@@ -12400,7 +12189,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 2940, 
+          "followers_count": 2942, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "2931833274", 
           "profile_background_color": "C0DEED", 
@@ -12945,7 +12734,7 @@
           "listed_count": 22, 
           "is_translation_enabled": false, 
           "utc_offset": -21600, 
-          "statuses_count": 41522, 
+          "statuses_count": 41524, 
           "description": "The Entertainment World Champion \u2022 Podcast Host, Vocalist in @TwentyEleven & Co-Host of Reality of Wrestling airing weekly on @kube57 & @soul_south.", 
           "friends_count": 1178, 
           "location": "Houston, Texas", 
@@ -13437,16 +13226,16 @@
               "urls": []
             }
           }, 
-          "followers_count": 16296, 
+          "followers_count": 16294, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "1090026433", 
           "profile_background_color": "ED2024", 
           "listed_count": 245, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 5389, 
+          "statuses_count": 5390, 
           "description": "The one and only fake women's news magazine.", 
-          "friends_count": 4772, 
+          "friends_count": 4292, 
           "location": "New York", 
           "profile_link_color": "ED2024", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/413509753185128448/gvk-A4qp_normal.jpeg", 
@@ -14410,14 +14199,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 3710, 
+          "followers_count": 3711, 
           "profile_sidebar_border_color": "EEEEEE", 
           "id_str": "25960755", 
           "profile_background_color": "131516", 
           "listed_count": 115, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 29835, 
+          "statuses_count": 29837, 
           "description": "", 
           "friends_count": 565, 
           "location": "", 
@@ -14656,7 +14445,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 25007, 
+          "followers_count": 25008, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "94839848", 
           "profile_background_color": "C0DEED", 
@@ -15053,11 +14842,11 @@
               ]
             }
           }, 
-          "followers_count": 75987, 
+          "followers_count": 75988, 
           "profile_sidebar_border_color": "65B0DA", 
           "id_str": "17369528", 
           "profile_background_color": "642D8B", 
-          "listed_count": 2547, 
+          "listed_count": 2550, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
           "statuses_count": 17585, 
@@ -15188,59 +14977,298 @@
         ]
       }
     }, 
-    "563908577962627072": {
+    "563920536493756416": {
       "contributors": null, 
       "truncated": false, 
-      "text": "FRIDAY NIGHT!  #vintagesnl #SIMON https://t.co/4HosyvnUvn", 
+      "text": "RT @mallelis: hi when i was seven i thought this was Prince for some reason ok bye http://t.co/uBepFgFV2V", 
       "in_reply_to_status_id": null, 
-      "id": 563908577962627072, 
-      "favorite_count": 2, 
+      "id": 563920536493756416, 
+      "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
-        "user_mentions": [], 
-        "hashtags": [
+        "user_mentions": [
           {
+            "id": 20951512, 
             "indices": [
-              15, 
-              26
+              3, 
+              12
             ], 
-            "text": "vintagesnl"
-          }, 
-          {
-            "indices": [
-              27, 
-              33
-            ], 
-            "text": "SIMON"
+            "id_str": "20951512", 
+            "screen_name": "mallelis", 
+            "name": "Mallory Ortberg"
           }
         ], 
-        "urls": [
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
           {
-            "url": "https://t.co/4HosyvnUvn", 
+            "source_user_id": 20951512, 
+            "source_status_id_str": "563868307690762240", 
+            "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
+            "display_url": "pic.twitter.com/uBepFgFV2V", 
+            "url": "http://t.co/uBepFgFV2V", 
+            "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
+            "source_user_id_str": "20951512", 
+            "source_status_id": 563868307690762240, 
+            "id_str": "563868307053232128", 
+            "sizes": {
+              "large": {
+                "h": 476, 
+                "resize": "fit", 
+                "w": 434
+              }, 
+              "small": {
+                "h": 372, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 476, 
+                "resize": "fit", 
+                "w": 434
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
             "indices": [
-              34, 
-              57
+              83, 
+              105
             ], 
-            "expanded_url": "https://screen.yahoo.com/simon-little-english-boy-000000445.html?soc_src=unv-sh&soc_trk=tw", 
-            "display_url": "screen.yahoo.com/simon-little-e\u2026"
+            "type": "photo", 
+            "id": 563868307053232128, 
+            "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
           }
         ]
       }, 
       "in_reply_to_screen_name": null, 
-      "id_str": "563908577962627072", 
-      "retweet_count": 0, 
+      "id_str": "563920536493756416", 
+      "retweet_count": 9, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "hi when i was seven i thought this was Prince for some reason ok bye http://t.co/uBepFgFV2V", 
+        "in_reply_to_status_id": null, 
+        "id": 563868307690762240, 
+        "favorite_count": 62, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [], 
+          "urls": [], 
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
+              "display_url": "pic.twitter.com/uBepFgFV2V", 
+              "url": "http://t.co/uBepFgFV2V", 
+              "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
+              "id_str": "563868307053232128", 
+              "sizes": {
+                "large": {
+                  "h": 476, 
+                  "resize": "fit", 
+                  "w": 434
+                }, 
+                "small": {
+                  "h": 372, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 476, 
+                  "resize": "fit", 
+                  "w": 434
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                69, 
+                91
+              ], 
+              "type": "photo", 
+              "id": 563868307053232128, 
+              "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "563868307690762240", 
+        "retweet_count": 9, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "666666", 
+          "default_profile_image": false, 
+          "id": 20951512, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493977699870728194/gqpPJfQh.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3614751386/3ed1b43f6551ec051cd258df6fcdef8c_normal.jpeg", 
+          "profile_sidebar_fill_color": "252429", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/7PPORc79Fw", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://the-toast.net", 
+                  "display_url": "the-toast.net"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 43166, 
+          "profile_sidebar_border_color": "000000", 
+          "id_str": "20951512", 
+          "profile_background_color": "1A1B1F", 
+          "listed_count": 828, 
+          "is_translation_enabled": false, 
+          "utc_offset": -28800, 
+          "statuses_count": 46185, 
+          "description": "That son of a bitch bought a CAT scan machine.", 
+          "friends_count": 353, 
+          "location": "California", 
+          "profile_link_color": "2FC2EF", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3614751386/3ed1b43f6551ec051cd258df6fcdef8c_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": true, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20951512/1421372803", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493977699870728194/gqpPJfQh.png", 
+          "name": "Mallory Ortberg", 
+          "lang": "en", 
+          "profile_background_tile": true, 
+          "favourites_count": 58055, 
+          "screen_name": "mallelis", 
+          "notifications": false, 
+          "url": "http://t.co/7PPORc79Fw", 
+          "created_at": "Mon Feb 16 00:50:52 +0000 2009", 
+          "contributors_enabled": false, 
+          "time_zone": "Pacific Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sat Feb 07 01:14:15 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
+              "display_url": "pic.twitter.com/uBepFgFV2V", 
+              "url": "http://t.co/uBepFgFV2V", 
+              "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
+              "id_str": "563868307053232128", 
+              "sizes": {
+                "large": {
+                  "h": 476, 
+                  "resize": "fit", 
+                  "w": 434
+                }, 
+                "small": {
+                  "h": 372, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 476, 
+                  "resize": "fit", 
+                  "w": 434
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                69, 
+                91
+              ], 
+              "type": "photo", 
+              "id": 563868307053232128, 
+              "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
+            }
+          ]
+        }
+      }, 
       "geo": null, 
       "in_reply_to_user_id_str": null, 
       "possibly_sensitive": false, 
       "lang": "en", 
-      "created_at": "Sat Feb 07 03:54:16 +0000 2015", 
+      "created_at": "Sat Feb 07 04:41:47 +0000 2015", 
       "in_reply_to_status_id_str": null, 
-      "place": null
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 20951512, 
+            "source_status_id_str": "563868307690762240", 
+            "expanded_url": "http://twitter.com/mallelis/status/563868307690762240/photo/1", 
+            "display_url": "pic.twitter.com/uBepFgFV2V", 
+            "url": "http://t.co/uBepFgFV2V", 
+            "media_url_https": "https://pbs.twimg.com/media/B9NDPN4CQAApgZT.png", 
+            "source_user_id_str": "20951512", 
+            "source_status_id": 563868307690762240, 
+            "id_str": "563868307053232128", 
+            "sizes": {
+              "large": {
+                "h": 476, 
+                "resize": "fit", 
+                "w": 434
+              }, 
+              "small": {
+                "h": 372, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 476, 
+                "resize": "fit", 
+                "w": 434
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              83, 
+              105
+            ], 
+            "type": "photo", 
+            "id": 563868307053232128, 
+            "media_url": "http://pbs.twimg.com/media/B9NDPN4CQAApgZT.png"
+          }
+        ]
+      }
     }, 
     "563011656314544129": {
       "contributors": null, 
@@ -15318,75 +15346,6 @@
       "lang": "en", 
       "created_at": "Sat Feb 07 03:54:49 +0000 2015", 
       "in_reply_to_status_id_str": "563908577962627072", 
-      "place": null
-    }, 
-    "562055528462188546": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@slocker @efd @TheEricaSweeney @rhadaway Request for Benny &amp; Dustygrams plz! \ud83d\ude4b", 
-      "in_reply_to_status_id": 562044619194908672, 
-      "id": 562055528462188546, 
-      "favorite_count": 3, 
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 15110038, 
-            "indices": [
-              0, 
-              8
-            ], 
-            "id_str": "15110038", 
-            "screen_name": "slocker", 
-            "name": "slocker"
-          }, 
-          {
-            "id": 14617227, 
-            "indices": [
-              9, 
-              13
-            ], 
-            "id_str": "14617227", 
-            "screen_name": "efd", 
-            "name": "Evan 'Funk' Davies"
-          }, 
-          {
-            "id": 256813305, 
-            "indices": [
-              14, 
-              30
-            ], 
-            "id_str": "256813305", 
-            "screen_name": "TheEricaSweeney", 
-            "name": "Erica Sweeney"
-          }, 
-          {
-            "id": 658763, 
-            "indices": [
-              31, 
-              40
-            ], 
-            "id_str": "658763", 
-            "screen_name": "rhadaway", 
-            "name": "Rachel Relishtray"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "slocker", 
-      "id_str": "562055528462188546", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 15110038, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "15110038", 
-      "lang": "en", 
-      "created_at": "Mon Feb 02 01:10:55 +0000 2015", 
-      "in_reply_to_status_id_str": "562044619194908672", 
       "place": null
     }, 
     "562056031103369216": {
@@ -15506,14 +15465,14 @@
               ]
             }
           }, 
-          "followers_count": 9922, 
+          "followers_count": 9924, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "22419345", 
           "profile_background_color": "7A7171", 
           "listed_count": 283, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 42490, 
+          "statuses_count": 42491, 
           "description": "Writer, comedian, @RookieMag music editor. My cat's name is Barry Gibb. http://t.co/Bz4cLXj4PV Newsletter: http://t.co/osNn3gQ7iO", 
           "friends_count": 1013, 
           "location": "Cambridge/Toronto, Canada", 
@@ -15640,7 +15599,7 @@
           "listed_count": 100, 
           "is_translation_enabled": false, 
           "utc_offset": -21600, 
-          "statuses_count": 13942, 
+          "statuses_count": 13943, 
           "description": "writer for @rookiemag + other corners of the internet // hazelcills@gmail.com // just a steel town girl on a Saturday night, lookin' for the fight of her life", 
           "friends_count": 862, 
           "location": "NYC / Philly", 
@@ -15653,7 +15612,7 @@
           "name": "Hazel Cills", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 20166, 
+          "favourites_count": 20168, 
           "screen_name": "hazelcills", 
           "notifications": false, 
           "url": "http://t.co/yzLuzsVAht", 
@@ -16022,14 +15981,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 7792, 
+          "followers_count": 7791, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "15765431", 
           "profile_background_color": "4E4E9A", 
           "listed_count": 310, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 6984, 
+          "statuses_count": 6985, 
           "description": "Executive Producer of 'Nephew Swap'", 
           "friends_count": 787, 
           "location": "Philly", 
@@ -16042,7 +16001,7 @@
           "name": "Jeff Lyons", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 42080, 
+          "favourites_count": 42084, 
           "screen_name": "usedwigs", 
           "notifications": false, 
           "url": "http://t.co/QgYEy9fMwt", 
@@ -16325,14 +16284,14 @@
               ]
             }
           }, 
-          "followers_count": 347, 
+          "followers_count": 348, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "1130716122", 
           "profile_background_color": "131516", 
           "listed_count": 6, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 9772, 
+          "statuses_count": 9773, 
           "description": "Cartooneologist,\nProfessional Procrastinator, Clean Up Artist  http://t.co/BmJK71HW2W", 
           "friends_count": 1780, 
           "location": "Mars, Milky Way", 
@@ -16345,7 +16304,7 @@
           "name": "Cartoon Los ", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 16126, 
+          "favourites_count": 16127, 
           "screen_name": "xCarlosEMendez", 
           "notifications": false, 
           "url": "https://t.co/wS7vMLgR2k", 
@@ -16594,7 +16553,7 @@
           "listed_count": 29, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 45744, 
+          "statuses_count": 45748, 
           "description": "Canadian, FOT For Life, Host of .....Something", 
           "friends_count": 973, 
           "location": "Toronto I guess?", 
@@ -16826,11 +16785,11 @@
               ]
             }
           }, 
-          "followers_count": 59529, 
+          "followers_count": 59537, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "37868953", 
           "profile_background_color": "000000", 
-          "listed_count": 1128, 
+          "listed_count": 1129, 
           "is_translation_enabled": false, 
           "utc_offset": -32400, 
           "statuses_count": 998, 
@@ -16969,7 +16928,7 @@
         "text": "\"barber offers old man haircuts for misbehaving kids\"\nthe \"benjamin button special\"\n#Blessed\n\nhttp://t.co/GrWOUqERsP http://t.co/1Gd2EVYy4e", 
         "in_reply_to_status_id": null, 
         "id": 563092604615524352, 
-        "favorite_count": 158, 
+        "favorite_count": 159, 
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -17066,7 +17025,7 @@
               ]
             }
           }, 
-          "followers_count": 72981, 
+          "followers_count": 72985, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "83998973", 
           "profile_background_color": "131516", 
@@ -17496,7 +17455,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 8953, 
+          "followers_count": 8954, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "102807848", 
           "profile_background_color": "C0DEED", 
@@ -17516,7 +17475,7 @@
           "name": "Maris Kreizman", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 17915, 
+          "favourites_count": 17916, 
           "screen_name": "mariskreizman", 
           "notifications": false, 
           "url": "http://t.co/ulP9xXZGhL", 
@@ -17751,16 +17710,16 @@
               "urls": []
             }
           }, 
-          "followers_count": 7305, 
+          "followers_count": 7304, 
           "profile_sidebar_border_color": "EEEEEE", 
           "id_str": "281839525", 
           "profile_background_color": "131516", 
           "listed_count": 179, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 41241, 
+          "statuses_count": 41243, 
           "description": "another blind wad of meat locked in a skull jail", 
-          "friends_count": 2085, 
+          "friends_count": 2086, 
           "location": "Los Angeles", 
           "profile_link_color": "009999", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/543119521507078144/5I8JNBO7_normal.jpeg", 
@@ -17771,7 +17730,7 @@
           "name": "Christopher Cooper", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 35302, 
+          "favourites_count": 35308, 
           "screen_name": "ARTofCOOP", 
           "notifications": false, 
           "url": "http://t.co/1Tbwdjcbs8", 
@@ -17934,14 +17893,14 @@
               ]
             }
           }, 
-          "followers_count": 1962, 
+          "followers_count": 1964, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "29092660", 
           "profile_background_color": "BADFCD", 
           "listed_count": 101, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 18256, 
+          "statuses_count": 18260, 
           "description": "Hallelujah The Hills (the band) + Writer + Music Vidz - http://t.co/WBb3p6IJ6K ** http://t.co/w2UXX6Sph0", 
           "friends_count": 1696, 
           "location": "Boston, MA", 
@@ -17954,7 +17913,7 @@
           "name": "Ryan Hamilton Walsh", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 5810, 
+          "favourites_count": 5814, 
           "screen_name": "JahHills", 
           "notifications": false, 
           "url": "http://t.co/TlDgp5s4VZ", 
@@ -18336,7 +18295,7 @@
           "listed_count": 1015, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 14605, 
+          "statuses_count": 14606, 
           "description": "''As a Jew, I'm very judgmental. \r\nAs a street Jew, doubly so.'' \r\n  --Sidney Lumet", 
           "friends_count": 900, 
           "location": "the holy goddam New York Times", 
@@ -18542,7 +18501,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 646, 
+          "followers_count": 647, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "7115632", 
           "profile_background_color": "131516", 
@@ -18749,7 +18708,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 2940, 
+          "followers_count": 2942, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "2931833274", 
           "profile_background_color": "C0DEED", 
@@ -19134,14 +19093,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 145, 
+          "followers_count": 146, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "67692002", 
           "profile_background_color": "C0DEED", 
           "listed_count": 3, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 10858, 
+          "statuses_count": 10861, 
           "description": "Overly fond of margaritas. Bleat.", 
           "friends_count": 450, 
           "location": "The snack aisle", 
@@ -19502,7 +19461,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 1823, 
+          "followers_count": 1822, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "15501945", 
           "profile_background_color": "4E608C", 
@@ -19731,14 +19690,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 855174, 
+          "followers_count": 855249, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "23027237", 
           "profile_background_color": "C0DEED", 
           "listed_count": 6468, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 5399, 
+          "statuses_count": 5404, 
           "description": "#KROLLSHOW on Comedy Central, Ruxin on THE LEAGUE on FXX, nickkroll on instagram", 
           "friends_count": 809, 
           "location": "", 
@@ -19751,7 +19710,7 @@
           "name": "nick kroll", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 17782, 
+          "favourites_count": 17805, 
           "screen_name": "nickkroll", 
           "notifications": false, 
           "url": "http://t.co/mvx4PacPvc", 
@@ -20082,11 +20041,11 @@
               "urls": []
             }
           }, 
-          "followers_count": 2377, 
+          "followers_count": 2376, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "309206415", 
           "profile_background_color": "C0DEED", 
-          "listed_count": 59, 
+          "listed_count": 58, 
           "is_translation_enabled": false, 
           "utc_offset": -21600, 
           "statuses_count": 10100, 
@@ -20102,7 +20061,7 @@
           "name": "jes skolnik", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 33730, 
+          "favourites_count": 33731, 
           "screen_name": "modernistwitch", 
           "notifications": false, 
           "url": "http://t.co/L7B0vF4Bq8", 
@@ -20248,9 +20207,9 @@
           "listed_count": 191, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 8482, 
+          "statuses_count": 8485, 
           "description": "Associate Producer of The Best Show. \nI'm a serious person.", 
-          "friends_count": 7978, 
+          "friends_count": 7981, 
           "location": "Bayonne, NJ", 
           "profile_link_color": "0084B4", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/486689785344299008/OFcMThhX_normal.jpeg", 
@@ -20952,7 +20911,7 @@
           "utc_offset": 32400, 
           "statuses_count": 3844, 
           "description": "\u5c45\u9152\u5c4b\u3092\u7d4c\u55b6\u3057\u3066\u307e\u3059\u3002\u90e8\u4e0b\u306e\u4f50\u85e4\u516c\u4eae\u306f\u3001\u5343\u8449\u306e\u516b\u5343\u4ee3\u5e02\u306e\u675c\u306e\u90f7\u970a\u5712\u3067\u304a\u5893\u306e\u55b6\u696d\u3057\u3066\u307e\u3059\u3002\u30d6\u30ed\u30b0\u306f\u300c\u5ddd\u8fba\u77f3\u6750 \u4f50\u85e4\u300d\u3067\u691c\u7d22\u3057\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u3068\u767a\u898b\u3067\u304d\u307e\u3059\u3002\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3044\u305f\u3057\u307e\u3059(*\u00b4\u2207\uff40*)", 
-          "friends_count": 25632, 
+          "friends_count": 25634, 
           "location": "\u5343\u8449\u770c\u516b\u5343\u4ee3\u5e02", 
           "profile_link_color": "0084B4", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/557909562448039936/ecWqCLnA_normal.jpeg", 
@@ -21309,7 +21268,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 57, 
+          "followers_count": 56, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "2999068290", 
           "profile_background_color": "C0DEED", 
@@ -21318,7 +21277,7 @@
           "utc_offset": null, 
           "statuses_count": 231, 
           "description": "", 
-          "friends_count": 195, 
+          "friends_count": 196, 
           "location": "", 
           "profile_link_color": "0084B4", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/563229551010914304/McEBAXNK_normal.jpeg", 
@@ -21329,7 +21288,7 @@
           "name": "Nathan Fisher", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 45, 
+          "favourites_count": 46, 
           "screen_name": "nathan__solo", 
           "notifications": false, 
           "url": null, 
@@ -21550,7 +21509,7 @@
           "listed_count": 82, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 16009, 
+          "statuses_count": 16010, 
           "description": "Jon in Lawrenceville: WPRB DJ, Comedy Minus One label head, precious knowledge fountain.", 
           "friends_count": 1487, 
           "location": "Mercer County, NJ", 
@@ -21563,7 +21522,7 @@
           "name": "Jon Solomon", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 3015, 
+          "favourites_count": 3016, 
           "screen_name": "comedyminusone", 
           "notifications": false, 
           "url": "http://t.co/OZoKoGwimR", 
@@ -21670,7 +21629,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 646, 
+          "followers_count": 647, 
           "profile_sidebar_border_color": "000000", 
           "id_str": "7115632", 
           "profile_background_color": "131516", 
@@ -22027,14 +21986,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 63223, 
+          "followers_count": 63227, 
           "profile_sidebar_border_color": "697F8A", 
           "id_str": "14437161", 
           "profile_background_color": "FFFFFF", 
           "listed_count": 2478, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 27215, 
+          "statuses_count": 27216, 
           "description": "Washington City Paper: Your source for news on D.C. arts, culture, politics, food, entertainment, real estate, and living.", 
           "friends_count": 2019, 
           "location": "Washington, D.C.", 
@@ -22268,7 +22227,7 @@
       }, 
       "in_reply_to_screen_name": null, 
       "id_str": "563850956421738496", 
-      "retweet_count": 4719, 
+      "retweet_count": 4745, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
       "retweeted_status": {
@@ -22277,7 +22236,7 @@
         "text": "The best mayor. http://t.co/CfqYpMW2Jf", 
         "in_reply_to_status_id": null, 
         "id": 563849983695532032, 
-        "favorite_count": 6988, 
+        "favorite_count": 7032, 
         "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -22327,7 +22286,7 @@
         }, 
         "in_reply_to_screen_name": null, 
         "id_str": "563849983695532032", 
-        "retweet_count": 4719, 
+        "retweet_count": 4745, 
         "in_reply_to_user_id": null, 
         "favorited": false, 
         "user": {
@@ -22369,14 +22328,14 @@
               ]
             }
           }, 
-          "followers_count": 586564, 
+          "followers_count": 586677, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "1041346340", 
           "profile_background_color": "C0DEED", 
-          "listed_count": 2856, 
+          "listed_count": 2852, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 22741, 
+          "statuses_count": 22744, 
           "description": "For when you need a kitten (or other type of cat) to cheer you up! Buy your official Cat socks here! http://t.co/ZJipju9UXY", 
           "friends_count": 14, 
           "location": "", 
@@ -22671,7 +22630,7 @@
               ]
             }
           }, 
-          "followers_count": 14383, 
+          "followers_count": 14385, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "287333780", 
           "profile_background_color": "131516", 
@@ -22691,7 +22650,7 @@
           "name": "Lane Moore ", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 8318, 
+          "favourites_count": 8321, 
           "screen_name": "hellolanemoore", 
           "notifications": false, 
           "url": "http://t.co/9PiZ8PERtu", 
@@ -23078,7 +23037,7 @@
           "listed_count": 1, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 372, 
+          "statuses_count": 373, 
           "description": "Friend of P\u00e9pito", 
           "friends_count": 2, 
           "location": "", 
@@ -23514,7 +23473,7 @@
           "listed_count": 27, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 12509, 
+          "statuses_count": 12510, 
           "description": "The computerized man of the 1990's. Official Twitter thing of The Atomic Elbow Professional Wrestling Fanzine. (Non-wrestling junk posted at @secondperiod.)", 
           "friends_count": 343, 
           "location": "The Omni, Atlanta, GA", 
@@ -23908,7 +23867,7 @@
           "name": "Brian Wall", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 8980, 
+          "favourites_count": 8982, 
           "screen_name": "bwall05", 
           "notifications": false, 
           "url": "http://t.co/PdVJT8actQ", 
@@ -24414,7 +24373,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 5327, 
+          "followers_count": 5326, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "317394465", 
           "profile_background_color": "C0DEED", 
@@ -24823,14 +24782,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 83307, 
+          "followers_count": 83314, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "16548119", 
           "profile_background_color": "FFFFFF", 
-          "listed_count": 2749, 
+          "listed_count": 2752, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 11993, 
+          "statuses_count": 11996, 
           "description": "BAM (Brooklyn Academy of Music) is the home for adventurous artists, audiences, and ideas. Film, Theater, Dance, Opera, Art, Literature, Talks, and more.", 
           "friends_count": 9293, 
           "location": "Brooklyn", 
@@ -24843,7 +24802,7 @@
           "name": "BAM", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 5322, 
+          "favourites_count": 5330, 
           "screen_name": "BAM_Brooklyn", 
           "notifications": false, 
           "url": "http://t.co/TyML6s53nx", 
@@ -24988,7 +24947,7 @@
           "name": "Tom Costello", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 8578, 
+          "favourites_count": 8579, 
           "screen_name": "tcostello", 
           "notifications": false, 
           "url": "http://t.co/QW7KN90Ywj", 
@@ -25289,14 +25248,14 @@
               ]
             }
           }, 
-          "followers_count": 9922, 
+          "followers_count": 9924, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "22419345", 
           "profile_background_color": "7A7171", 
           "listed_count": 283, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 42490, 
+          "statuses_count": 42491, 
           "description": "Writer, comedian, @RookieMag music editor. My cat's name is Barry Gibb. http://t.co/Bz4cLXj4PV Newsletter: http://t.co/osNn3gQ7iO", 
           "friends_count": 1013, 
           "location": "Cambridge/Toronto, Canada", 
@@ -26011,7 +25970,7 @@
           "name": "John Masters", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 1156, 
+          "favourites_count": 1157, 
           "screen_name": "johnnymetro", 
           "notifications": false, 
           "url": "http://t.co/qgRHegakZi", 
@@ -26220,7 +26179,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 478, 
+          "followers_count": 477, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "19115968", 
           "profile_background_color": "C0DEED", 
@@ -26461,7 +26420,7 @@
       "place": null
     }
   }, 
-  "mbti type": "intj", 
+  "mbti type": "INTJ", 
   "user": {
     "follow_request_sent": false, 
     "profile_use_background_image": true, 
@@ -26485,7 +26444,7 @@
     "listed_count": 42, 
     "is_translation_enabled": false, 
     "utc_offset": -21600, 
-    "statuses_count": 16079, 
+    "statuses_count": 16080, 
     "description": "The Nonsensical Ravings of a Loudmouth Malcontent.", 
     "friends_count": 867, 
     "location": "Exile", 

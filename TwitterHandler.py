@@ -21,7 +21,9 @@ class TwitterHandler:
     return user
 
   def getUserTimeline(self, screen_name):
-    return self.api.user_timeline(screen_name, count=200)
+    result = self.api.user_timeline(screen_name, count=200)
+    # print result
+    return result
 
 
 

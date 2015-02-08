@@ -204,14 +204,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 107813, 
+          "followers_count": 107859, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "2490206785", 
           "profile_background_color": "C0DEED", 
           "listed_count": 331, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 14128, 
+          "statuses_count": 14132, 
           "description": "", 
           "friends_count": 100, 
           "location": "", 
@@ -426,7 +426,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 38, 
+          "followers_count": 37, 
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "3021513425", 
           "profile_background_color": "C0DEED", 
@@ -724,7 +724,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 189010, 
+          "followers_count": 189059, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "47667972", 
           "profile_background_color": "000000", 
@@ -1198,10 +1198,10 @@
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "2596914176", 
           "profile_background_color": "FFFFFF", 
-          "listed_count": 73, 
+          "listed_count": 74, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 8485, 
+          "statuses_count": 8486, 
           "description": "Big and beefy comics about gamedev, gaming, and stuffs!", 
           "friends_count": 1013, 
           "location": "", 
@@ -1214,7 +1214,7 @@
           "name": "theMeatly", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 9584, 
+          "favourites_count": 9585, 
           "screen_name": "themeatly", 
           "notifications": false, 
           "url": "http://t.co/aLScVJjILF", 
@@ -2785,16 +2785,16 @@
               ]
             }
           }, 
-          "followers_count": 160209, 
+          "followers_count": 160246, 
           "profile_sidebar_border_color": "5ED4DC", 
           "id_str": "200583835", 
           "profile_background_color": "0099B9", 
           "listed_count": 1885, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 184845, 
+          "statuses_count": 184880, 
           "description": "Tim Fargo - Entrepreneur, speaker, author, and unstoppable traveler. Quotes, content and interaction here.\r\n You can buy my book here: http://t.co/wf27n2F4fr", 
-          "friends_count": 118798, 
+          "friends_count": 119346, 
           "location": "2x Inc. 500 winner", 
           "profile_link_color": "0099B9", 
           "profile_image_url": "http://pbs.twimg.com/profile_images/1141054939/Twitter_Image_normal.jpg", 
@@ -2805,7 +2805,7 @@
           "name": "Tim Fargo", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 95953, 
+          "favourites_count": 95954, 
           "screen_name": "alphabetsuccess", 
           "notifications": false, 
           "url": "http://t.co/sZJbiQXZpZ", 
@@ -3135,7 +3135,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 451490, 
+          "followers_count": 451500, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "611986351", 
           "profile_background_color": "131516", 
@@ -4060,7 +4060,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 451490, 
+          "followers_count": 451500, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "611986351", 
           "profile_background_color": "131516", 
@@ -4574,7 +4574,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 451490, 
+          "followers_count": 451500, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "611986351", 
           "profile_background_color": "131516", 
@@ -4901,7 +4901,7 @@
       "place": null
     }
   }, 
-  "mbti type": "intj", 
+  "mbti type": "INTJ", 
   "user": {
     "follow_request_sent": false, 
     "profile_use_background_image": false, 
@@ -4931,7 +4931,7 @@
         "urls": []
       }
     }, 
-    "followers_count": 84, 
+    "followers_count": 82, 
     "profile_sidebar_border_color": "000000", 
     "id_str": "66899183", 
     "profile_background_color": "000000", 

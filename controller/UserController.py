@@ -1,7 +1,8 @@
 __author__ = 'calvindudek'
 from TwitterHandler import TwitterHandler
 import re
-
+import os
+import json
 class UserController:
   def __init__(self):
     self.users = []
@@ -30,7 +31,6 @@ class UserController:
 
       if num_type_words == 1 and num_pronouns > 0:
         users.append(post._json["user"]["screen_name"])
-    # print users
     return users
 
   def getNumberOfTypeWords(self, tokens):
@@ -51,3 +51,25 @@ class UserController:
 
   def getUser(self, screen_name):
     pass
+
+  def getUserFilesFromFolder(self, path):
+    for f in os.walk(path):
+
+  def getFiles(filepath):
+    files = list()
+    for f in os.walk(filepath):
+      for file in f[2]:
+        if(file.endswith(".json")):
+          fn = filepath + file
+          json_file = json.load(fn.read)
+          files.append(fn.read())
+    return files
+
+  def getJsonDocuments(path):
+    json_files = list()
+    # files = getFiles(path)
+    # for file in files:
+    #   with open(file) as json_file:
+    #     jsonfile = json.loads(json_file.read())
+    #     json_files.append(jsonfile)
+    return json_files

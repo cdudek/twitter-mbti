@@ -12,7 +12,7 @@ def main():
 
   for mbti_type in mbti_types_list:
     uc = UserController()
-    user_ids = uc.getUsersBySearchTerm("mbti " + mbti_type)
+    user_ids = uc.getUsersBySearchTerm("mbti " + mbti_type.lower())
 
     for id in user_ids:
       user = User(id, mbti_type)

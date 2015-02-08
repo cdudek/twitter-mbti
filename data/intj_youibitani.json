@@ -1,12 +1,90 @@
 {
   "tweets": {
-    "564002955607953408": {
+    "564174986450337792": {
       "contributors": null, 
       "truncated": false, 
-      "text": "six paragraphs on why water is important. thanks tumblr i had no idea i couldn't survive without it", 
+      "text": "@Komouru so it makes zero sense", 
+      "in_reply_to_status_id": 564172838685650944, 
+      "id": 564174986450337792, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 600538396, 
+            "indices": [
+              0, 
+              8
+            ], 
+            "id_str": "600538396", 
+            "screen_name": "Komouru", 
+            "name": "Komo \u273f"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "Komouru", 
+      "id_str": "564174986450337792", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 600538396, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "600538396", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 21:32:53 +0000 2015", 
+      "in_reply_to_status_id_str": "564172838685650944", 
+      "place": null
+    }, 
+    "564174925121204225": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@Komouru but going out of your way to piss on others who do enjoy them is ??? like, if you really didn't care you'd just leave it be", 
+      "in_reply_to_status_id": 564172838685650944, 
+      "id": 564174925121204225, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 600538396, 
+            "indices": [
+              0, 
+              8
+            ], 
+            "id_str": "600538396", 
+            "screen_name": "Komouru", 
+            "name": "Komo \u273f"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "Komouru", 
+      "id_str": "564174925121204225", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 600538396, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "600538396", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 21:32:38 +0000 2015", 
+      "in_reply_to_status_id_str": "564172838685650944", 
+      "place": null
+    }, 
+    "564175505919062018": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "this person went from intj to infj to considering entp to intj again and now they're an estp and i think that sumps up tumblr mbti p well", 
       "in_reply_to_status_id": null, 
-      "id": 564002955607953408, 
-      "favorite_count": 5, 
+      "id": 564175505919062018, 
+      "favorite_count": 6, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -17,93 +95,15 @@
         "urls": []
       }, 
       "in_reply_to_screen_name": null, 
-      "id_str": "564002955607953408", 
+      "id_str": "564175505919062018", 
       "retweet_count": 0, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
       "geo": null, 
       "in_reply_to_user_id_str": null, 
       "lang": "en", 
-      "created_at": "Sat Feb 07 10:09:17 +0000 2015", 
+      "created_at": "Sat Feb 07 21:34:57 +0000 2015", 
       "in_reply_to_status_id_str": null, 
-      "place": null
-    }, 
-    "563999197335412736": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@niinajunpei IT'LL BE WORTH IT IN THE END..........", 
-      "in_reply_to_status_id": 563999050551525376, 
-      "id": 563999197335412736, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 1548993056, 
-            "indices": [
-              0, 
-              12
-            ], 
-            "id_str": "1548993056", 
-            "screen_name": "niinajunpei", 
-            "name": "hannigram season 3"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "niinajunpei", 
-      "id_str": "563999197335412736", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 1548993056, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "1548993056", 
-      "lang": "en", 
-      "created_at": "Sat Feb 07 09:54:21 +0000 2015", 
-      "in_reply_to_status_id_str": "563999050551525376", 
-      "place": null
-    }, 
-    "563465148053331970": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@sadpresidents it wasn't worth a fake laugh even", 
-      "in_reply_to_status_id": 563464336870371328, 
-      "id": 563465148053331970, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2453295300, 
-            "indices": [
-              0, 
-              14
-            ], 
-            "id_str": "2453295300", 
-            "screen_name": "sadpresidents", 
-            "name": "yes im bishreksual"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "sadpresidents", 
-      "id_str": "563465148053331970", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2453295300, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2453295300", 
-      "lang": "en", 
-      "created_at": "Thu Feb 05 22:32:14 +0000 2015", 
-      "in_reply_to_status_id_str": "563464336870371328", 
       "place": null
     }, 
     "563464433822085123": {
@@ -244,12 +244,12 @@
       "in_reply_to_status_id_str": "563435674616221696", 
       "place": null
     }, 
-    "563998940874682369": {
+    "563769583145082881": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@niinajunpei \"the earliest to expect it would be September 2015 [...], and probably at the latest March of 2016.\" THE?", 
-      "in_reply_to_status_id": 563998746481270784, 
-      "id": 563998940874682369, 
+      "text": "RT @nekomeuzu: \u4e00\u5e74\u65b0\u958b http://t.co/oREdBX4JkU", 
+      "in_reply_to_status_id": null, 
+      "id": 563769583145082881, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -258,30 +258,281 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 1548993056, 
+            "id": 159046636, 
             "indices": [
-              0, 
-              12
+              3, 
+              13
             ], 
-            "id_str": "1548993056", 
-            "screen_name": "niinajunpei", 
-            "name": "hannigram season 3"
+            "id_str": "159046636", 
+            "screen_name": "nekomeuzu", 
+            "name": "\u732b\u76ee"
           }
         ], 
         "hashtags": [], 
-        "urls": []
+        "urls": [], 
+        "media": [
+          {
+            "source_user_id": 159046636, 
+            "source_status_id_str": "527511257960570880", 
+            "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
+            "display_url": "pic.twitter.com/oREdBX4JkU", 
+            "url": "http://t.co/oREdBX4JkU", 
+            "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
+            "source_user_id_str": "159046636", 
+            "source_status_id": 527511257960570880, 
+            "id_str": "527511256740003840", 
+            "sizes": {
+              "small": {
+                "h": 408, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 720, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "medium": {
+                "h": 720, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              20, 
+              42
+            ], 
+            "type": "photo", 
+            "id": 527511256740003840, 
+            "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
+          }
+        ]
       }, 
-      "in_reply_to_screen_name": "niinajunpei", 
-      "id_str": "563998940874682369", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 1548993056, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563769583145082881", 
+      "retweet_count": 8, 
+      "in_reply_to_user_id": null, 
       "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "\u4e00\u5e74\u65b0\u958b http://t.co/oREdBX4JkU", 
+        "in_reply_to_status_id": null, 
+        "id": 527511257960570880, 
+        "favorite_count": 66, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [], 
+          "urls": [], 
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
+              "display_url": "pic.twitter.com/oREdBX4JkU", 
+              "url": "http://t.co/oREdBX4JkU", 
+              "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
+              "id_str": "527511256740003840", 
+              "sizes": {
+                "small": {
+                  "h": 408, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 720, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "medium": {
+                  "h": 720, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                5, 
+                27
+              ], 
+              "type": "photo", 
+              "id": 527511256740003840, 
+              "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "527511257960570880", 
+        "retweet_count": 8, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "D6186D", 
+          "default_profile_image": false, 
+          "id": 159046636, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000012042142/aec9c929e12d29342db1214f5e0981e2.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/562029134126141440/iHhJjANR_normal.jpeg", 
+          "profile_sidebar_fill_color": "FCFBD3", 
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/ZxJ1MI6xdH", 
+                  "indices": [
+                    35, 
+                    57
+                  ], 
+                  "expanded_url": "http://www.pixiv.net/member.php?id=1697147", 
+                  "display_url": "pixiv.net/member.php?id=\u2026"
+                }
+              ]
+            }
+          }, 
+          "followers_count": 2865, 
+          "profile_sidebar_border_color": "FFFFFF", 
+          "id_str": "159046636", 
+          "profile_background_color": "0E8C8F", 
+          "listed_count": 100, 
+          "is_translation_enabled": false, 
+          "utc_offset": 32400, 
+          "statuses_count": 67978, 
+          "description": "\u9b3c\u5fb9\uff08\u9b3c\u767d\u9b3c\uff09\u30fb\u5f31\u30da\u30c0\uff08\u8352\u6771\u4e2d\u5fc3\u306b\u96d1\u98df\uff09\u25a0\u30b8\u30e3\u30f3\u30eb\u96d1\u591a\u3001\u6642\u3005\u30b3\u30b9\n\u25a0 http://t.co/ZxJ1MI6xdH", 
+          "friends_count": 342, 
+          "location": "", 
+          "profile_link_color": "9266CC", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/562029134126141440/iHhJjANR_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/159046636/1423162555", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000012042142/aec9c929e12d29342db1214f5e0981e2.png", 
+          "name": "\u732b\u76ee", 
+          "lang": "ja", 
+          "profile_background_tile": true, 
+          "favourites_count": 3107, 
+          "screen_name": "nekomeuzu", 
+          "notifications": false, 
+          "url": null, 
+          "created_at": "Thu Jun 24 09:06:09 +0000 2010", 
+          "contributors_enabled": false, 
+          "time_zone": "Tokyo", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "ja", 
+        "created_at": "Wed Oct 29 17:24:19 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
+              "display_url": "pic.twitter.com/oREdBX4JkU", 
+              "url": "http://t.co/oREdBX4JkU", 
+              "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
+              "id_str": "527511256740003840", 
+              "sizes": {
+                "small": {
+                  "h": 408, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 720, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "medium": {
+                  "h": 720, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                5, 
+                27
+              ], 
+              "type": "photo", 
+              "id": 527511256740003840, 
+              "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
+            }
+          ]
+        }
+      }, 
       "geo": null, 
-      "in_reply_to_user_id_str": "1548993056", 
-      "lang": "en", 
-      "created_at": "Sat Feb 07 09:53:20 +0000 2015", 
-      "in_reply_to_status_id_str": "563998746481270784", 
-      "place": null
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "ja", 
+      "created_at": "Fri Feb 06 18:41:57 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 159046636, 
+            "source_status_id_str": "527511257960570880", 
+            "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
+            "display_url": "pic.twitter.com/oREdBX4JkU", 
+            "url": "http://t.co/oREdBX4JkU", 
+            "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
+            "source_user_id_str": "159046636", 
+            "source_status_id": 527511257960570880, 
+            "id_str": "527511256740003840", 
+            "sizes": {
+              "small": {
+                "h": 408, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 720, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "medium": {
+                "h": 720, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              20, 
+              42
+            ], 
+            "type": "photo", 
+            "id": 527511256740003840, 
+            "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
+          }
+        ]
+      }
     }, 
     "562813351525625856": {
       "contributors": null, 
@@ -462,7 +713,7 @@
           "name": "\ud558\ub9ac", 
           "lang": "ko", 
           "profile_background_tile": true, 
-          "favourites_count": 2261, 
+          "favourites_count": 2260, 
           "screen_name": "hari_pedal", 
           "notifications": false, 
           "url": null, 
@@ -612,130 +863,12 @@
       "in_reply_to_status_id_str": "563420541881950209", 
       "place": null
     }, 
-    "563437003233320962": {
+    "564170748714303490": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@NISHIKIKOUJl http://t.co/ifr1oxEGOX", 
-      "in_reply_to_status_id": 563436819652837376, 
-      "id": 563437003233320962, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2889400906, 
-            "indices": [
-              0, 
-              13
-            ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": [], 
-        "media": [
-          {
-            "expanded_url": "http://twitter.com/ryouibitani/status/563437003233320962/photo/1", 
-            "display_url": "pic.twitter.com/ifr1oxEGOX", 
-            "url": "http://t.co/ifr1oxEGOX", 
-            "media_url_https": "https://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg", 
-            "id_str": "563437001761120256", 
-            "sizes": {
-              "small": {
-                "h": 191, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "large": {
-                "h": 576, 
-                "resize": "fit", 
-                "w": 1024
-              }, 
-              "medium": {
-                "h": 337, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              14, 
-              36
-            ], 
-            "type": "photo", 
-            "id": 563437001761120256, 
-            "media_url": "http://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg"
-          }
-        ]
-      }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563437003233320962", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
-      "possibly_sensitive": false, 
-      "lang": "und", 
-      "created_at": "Thu Feb 05 20:40:24 +0000 2015", 
-      "in_reply_to_status_id_str": "563436819652837376", 
-      "place": null, 
-      "extended_entities": {
-        "media": [
-          {
-            "expanded_url": "http://twitter.com/ryouibitani/status/563437003233320962/photo/1", 
-            "display_url": "pic.twitter.com/ifr1oxEGOX", 
-            "url": "http://t.co/ifr1oxEGOX", 
-            "media_url_https": "https://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg", 
-            "id_str": "563437001761120256", 
-            "sizes": {
-              "small": {
-                "h": 191, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "large": {
-                "h": 576, 
-                "resize": "fit", 
-                "w": 1024
-              }, 
-              "medium": {
-                "h": 337, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              14, 
-              36
-            ], 
-            "type": "photo", 
-            "id": 563437001761120256, 
-            "media_url": "http://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg"
-          }
-        ]
-      }
-    }, 
-    "563420879074643968": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@nanakisensei HAKOGAKU IS LITERALLY TWITCREW THOUGH", 
-      "in_reply_to_status_id": 563420273895292930, 
-      "id": 563420879074643968, 
+      "text": "@nanakisensei YOU'RE SUCH A BABY", 
+      "in_reply_to_status_id": 564170327887204352, 
+      "id": 564170748714303490, 
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -758,15 +891,64 @@
         "urls": []
       }, 
       "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "563420879074643968", 
+      "id_str": "564170748714303490", 
       "retweet_count": 0, 
       "in_reply_to_user_id": 336321630, 
       "favorited": false, 
       "geo": null, 
       "in_reply_to_user_id_str": "336321630", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 19:36:20 +0000 2015", 
-      "in_reply_to_status_id_str": "563420273895292930", 
+      "created_at": "Sat Feb 07 21:16:02 +0000 2015", 
+      "in_reply_to_status_id_str": "564170327887204352", 
+      "place": null
+    }, 
+    "563464088358244352": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@istaval @nanakisensei if miracles happen when both of us are around then god must be real", 
+      "in_reply_to_status_id": 563463969906499584, 
+      "id": 563464088358244352, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2582351552, 
+            "indices": [
+              0, 
+              8
+            ], 
+            "id_str": "2582351552", 
+            "screen_name": "istaval", 
+            "name": "\u2605"
+          }, 
+          {
+            "id": 336321630, 
+            "indices": [
+              9, 
+              22
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "istaval", 
+      "id_str": "563464088358244352", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2582351552, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2582351552", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 22:28:01 +0000 2015", 
+      "in_reply_to_status_id_str": "563463969906499584", 
       "place": null
     }, 
     "563091734830538753": {
@@ -1013,13 +1195,13 @@
       "in_reply_to_status_id_str": "563095304233578496", 
       "place": null
     }, 
-    "563444992086376448": {
+    "563439250008702976": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@nanakisensei NYOOMS", 
-      "in_reply_to_status_id": 563444862868291584, 
-      "id": 563444992086376448, 
-      "favorite_count": 1, 
+      "text": "@NISHIKIKOUJl ARE UPSET, ZUCCHINI?", 
+      "in_reply_to_status_id": 563439025361780736, 
+      "id": 563439250008702976, 
+      "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -1027,68 +1209,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 336321630, 
+            "id": 2889400906, 
             "indices": [
               0, 
               13
             ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "563444992086376448", 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563439250008702976", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 336321630, 
+      "in_reply_to_user_id": 2889400906, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "336321630", 
-      "lang": "in", 
-      "created_at": "Thu Feb 05 21:12:09 +0000 2015", 
-      "in_reply_to_status_id_str": "563444862868291584", 
-      "place": null
-    }, 
-    "563448182584377344": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@nanakisensei ME AF", 
-      "in_reply_to_status_id": 563447985770856449, 
-      "id": 563448182584377344, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 336321630, 
-            "indices": [
-              0, 
-              13
-            ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "563448182584377344", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 336321630, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "336321630", 
+      "in_reply_to_user_id_str": "2889400906", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 21:24:49 +0000 2015", 
-      "in_reply_to_status_id_str": "563447985770856449", 
+      "created_at": "Thu Feb 05 20:49:20 +0000 2015", 
+      "in_reply_to_status_id_str": "563439025361780736", 
       "place": null
     }, 
     "563523351079944193": {
@@ -1218,6 +1361,45 @@
           }
         ]
       }
+    }, 
+    "563439587046223873": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@NISHIKIKOUJl are you going to now? you have an excuse", 
+      "in_reply_to_status_id": 563439492405940224, 
+      "id": 563439587046223873, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2889400906, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563439587046223873", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2889400906, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2889400906", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 20:50:40 +0000 2015", 
+      "in_reply_to_status_id_str": "563439492405940224", 
+      "place": null
     }, 
     "563125015026360321": {
       "contributors": null, 
@@ -1476,7 +1658,7 @@
           "listed_count": 0, 
           "is_translation_enabled": false, 
           "utc_offset": -14400, 
-          "statuses_count": 20114, 
+          "statuses_count": 20139, 
           "description": "[19 \u2022 INFP \u2022 CAN \u2022 fr/en] im miche and i said id never bike but here i am [icon 30 @ pixiv]", 
           "friends_count": 109, 
           "location": "canada", 
@@ -1489,7 +1671,7 @@
           "name": "[SNAPS POWER BAR]", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 23806, 
+          "favourites_count": 23798, 
           "screen_name": "nanakisensei", 
           "notifications": false, 
           "url": "http://t.co/eEaJx7AW57", 
@@ -1600,6 +1782,45 @@
         ]
       }
     }, 
+    "563444992086376448": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@nanakisensei NYOOMS", 
+      "in_reply_to_status_id": 563444862868291584, 
+      "id": 563444992086376448, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 336321630, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "563444992086376448", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 336321630, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "336321630", 
+      "lang": "in", 
+      "created_at": "Thu Feb 05 21:12:09 +0000 2015", 
+      "in_reply_to_status_id_str": "563444862868291584", 
+      "place": null
+    }, 
     "562790038271176704": {
       "contributors": null, 
       "truncated": false, 
@@ -1705,6 +1926,134 @@
       "created_at": "Sat Feb 07 08:33:22 +0000 2015", 
       "in_reply_to_status_id_str": "563977745693409280", 
       "place": null
+    }, 
+    "562845110380294144": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@memesicalPigeon @nanakisensei http://t.co/as8RcH4P5q", 
+      "in_reply_to_status_id": 562844750689341440, 
+      "id": 562845110380294144, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 406478942, 
+            "indices": [
+              0, 
+              16
+            ], 
+            "id_str": "406478942", 
+            "screen_name": "memesicalPigeon", 
+            "name": "machimichangas"
+          }, 
+          {
+            "id": 336321630, 
+            "indices": [
+              17, 
+              30
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/ryouibitani/status/562845110380294144/photo/1", 
+            "display_url": "pic.twitter.com/as8RcH4P5q", 
+            "url": "http://t.co/as8RcH4P5q", 
+            "media_url_https": "https://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png", 
+            "id_str": "562845109285560320", 
+            "sizes": {
+              "large": {
+                "h": 220, 
+                "resize": "fit", 
+                "w": 650
+              }, 
+              "small": {
+                "h": 115, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 203, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              31, 
+              53
+            ], 
+            "type": "photo", 
+            "id": 562845109285560320, 
+            "media_url": "http://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": "memesicalPigeon", 
+      "id_str": "562845110380294144", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 406478942, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "406478942", 
+      "possibly_sensitive": false, 
+      "lang": "und", 
+      "created_at": "Wed Feb 04 05:28:26 +0000 2015", 
+      "in_reply_to_status_id_str": "562844750689341440", 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/ryouibitani/status/562845110380294144/photo/1", 
+            "display_url": "pic.twitter.com/as8RcH4P5q", 
+            "url": "http://t.co/as8RcH4P5q", 
+            "media_url_https": "https://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png", 
+            "id_str": "562845109285560320", 
+            "sizes": {
+              "large": {
+                "h": 220, 
+                "resize": "fit", 
+                "w": 650
+              }, 
+              "small": {
+                "h": 115, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 203, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              31, 
+              53
+            ], 
+            "type": "photo", 
+            "id": 562845109285560320, 
+            "media_url": "http://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png"
+          }
+        ]
+      }
     }, 
     "563993139116273664": {
       "contributors": null, 
@@ -2074,13 +2423,13 @@
         ]
       }
     }, 
-    "563440151406608384": {
+    "563449605153914880": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@NISHIKIKOUJl SEE YOU IN TEN YEARS ZUCCHINI SAN...............", 
-      "in_reply_to_status_id": 563440038068101122, 
-      "id": 563440151406608384, 
-      "favorite_count": 1, 
+      "text": "@nanakisensei breaking news tumblr your message won't come across if you show counterproductive behaviour in something as simple as a TAG", 
+      "in_reply_to_status_id": 563448942558724098, 
+      "id": 563449605153914880, 
+      "favorite_count": 2, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -2088,37 +2437,37 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2889400906, 
+            "id": 336321630, 
             "indices": [
               0, 
               13
             ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563440151406608384", 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "563449605153914880", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
+      "in_reply_to_user_id": 336321630, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
+      "in_reply_to_user_id_str": "336321630", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 20:52:54 +0000 2015", 
-      "in_reply_to_status_id_str": "563440038068101122", 
+      "created_at": "Thu Feb 05 21:30:28 +0000 2015", 
+      "in_reply_to_status_id_str": "563448942558724098", 
       "place": null
     }, 
-    "563880081630957568": {
+    "563879946540814336": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@maIaysia32 and depression mess up with all the functions that aren't tangible or empirical (sensing, extroverted functions), besides all", 
+      "text": "@maIaysia32 what did i tell you about tumblr posts regarding mbti, they're not trustworthy because most people there can't tell the", 
       "in_reply_to_status_id": 563820194028482562, 
-      "id": 563880081630957568, 
+      "id": 563879946540814336, 
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -2141,23 +2490,23 @@
         "urls": []
       }, 
       "in_reply_to_screen_name": "maIaysia32", 
-      "id_str": "563880081630957568", 
+      "id_str": "563879946540814336", 
       "retweet_count": 0, 
       "in_reply_to_user_id": 2374268090, 
       "favorited": false, 
       "geo": null, 
       "in_reply_to_user_id_str": "2374268090", 
       "lang": "en", 
-      "created_at": "Sat Feb 07 02:01:02 +0000 2015", 
+      "created_at": "Sat Feb 07 02:00:30 +0000 2015", 
       "in_reply_to_status_id_str": "563820194028482562", 
       "place": null
     }, 
-    "563463893021110273": {
+    "563998940874682369": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@xila0 COME BACK, MIDOUSUJI!!!!!", 
-      "in_reply_to_status_id": 563463764050079744, 
-      "id": 563463893021110273, 
+      "text": "@niinajunpei \"the earliest to expect it would be September 2015 [...], and probably at the latest March of 2016.\" THE?", 
+      "in_reply_to_status_id": 563998746481270784, 
+      "id": 563998940874682369, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -2166,29 +2515,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 1519573460, 
+            "id": 1548993056, 
             "indices": [
               0, 
-              6
+              12
             ], 
-            "id_str": "1519573460", 
-            "screen_name": "xila0", 
-            "name": "\u5927\u86c7\uff20\u96e2\u8131\u30fb michael"
+            "id_str": "1548993056", 
+            "screen_name": "niinajunpei", 
+            "name": "hannigram season 3"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "xila0", 
-      "id_str": "563463893021110273", 
+      "in_reply_to_screen_name": "niinajunpei", 
+      "id_str": "563998940874682369", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 1519573460, 
+      "in_reply_to_user_id": 1548993056, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "1519573460", 
-      "lang": "es", 
-      "created_at": "Thu Feb 05 22:27:15 +0000 2015", 
-      "in_reply_to_status_id_str": "563463764050079744", 
+      "in_reply_to_user_id_str": "1548993056", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:53:20 +0000 2015", 
+      "in_reply_to_status_id_str": "563998746481270784", 
       "place": null
     }, 
     "563169642068582401": {
@@ -2230,12 +2579,79 @@
       "in_reply_to_status_id_str": "563128102252212225", 
       "place": null
     }, 
-    "563509323049869312": {
+    "563507680744972288": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@sadpresidents @NISHIKIKOUJl TAG YOUR TRIGGER WARNINGS!!!!!", 
-      "in_reply_to_status_id": 563509177339768833, 
-      "id": 563509323049869312, 
+      "text": "gonna make a don't follow me if page and the only thing listed will be \"you have a shitty theme\" to instantly get rid of like 94% of tumblr", 
+      "in_reply_to_status_id": null, 
+      "id": 563507680744972288, 
+      "favorite_count": 9, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563507680744972288", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Fri Feb 06 01:21:15 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "564174838940856321": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@Komouru i actually do this because i have repetition issues (i can't stand seeing things too often to the point it might makes me anxious)", 
+      "in_reply_to_status_id": 564172838685650944, 
+      "id": 564174838940856321, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 600538396, 
+            "indices": [
+              0, 
+              8
+            ], 
+            "id_str": "600538396", 
+            "screen_name": "Komouru", 
+            "name": "Komo \u273f"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "Komouru", 
+      "id_str": "564174838940856321", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 600538396, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "600538396", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 21:32:18 +0000 2015", 
+      "in_reply_to_status_id_str": "564172838685650944", 
+      "place": null
+    }, 
+    "563465148053331970": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@sadpresidents it wasn't worth a fake laugh even", 
+      "in_reply_to_status_id": 563464336870371328, 
+      "id": 563465148053331970, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -2252,39 +2668,29 @@
             "id_str": "2453295300", 
             "screen_name": "sadpresidents", 
             "name": "yes im bishreksual"
-          }, 
-          {
-            "id": 2889400906, 
-            "indices": [
-              15, 
-              28
-            ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
       "in_reply_to_screen_name": "sadpresidents", 
-      "id_str": "563509323049869312", 
+      "id_str": "563465148053331970", 
       "retweet_count": 0, 
       "in_reply_to_user_id": 2453295300, 
       "favorited": false, 
       "geo": null, 
       "in_reply_to_user_id_str": "2453295300", 
       "lang": "en", 
-      "created_at": "Fri Feb 06 01:27:46 +0000 2015", 
-      "in_reply_to_status_id_str": "563509177339768833", 
+      "created_at": "Thu Feb 05 22:32:14 +0000 2015", 
+      "in_reply_to_status_id_str": "563464336870371328", 
       "place": null
     }, 
-    "562783557371039745": {
+    "563989748734500864": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@coxytown ONLY SLIGHTLY?", 
-      "in_reply_to_status_id": 562783341481828353, 
-      "id": 562783557371039745, 
+      "text": "@niinajunpei @NISHIKIKOUJl hah", 
+      "in_reply_to_status_id": 563989568870170624, 
+      "id": 563989748734500864, 
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -2293,216 +2699,20 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2441313791, 
+            "id": 1548993056, 
             "indices": [
               0, 
-              9
+              12
             ], 
-            "id_str": "2441313791", 
-            "screen_name": "coxytown", 
-            "name": "liv liver"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "coxytown", 
-      "id_str": "562783557371039745", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2441313791, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2441313791", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 01:23:50 +0000 2015", 
-      "in_reply_to_status_id_str": "562783341481828353", 
-      "place": null
-    }, 
-    "562852577432596481": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@memesicalPigeon i feel bad):", 
-      "in_reply_to_status_id": 562852471060824064, 
-      "id": 562852577432596481, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 406478942, 
-            "indices": [
-              0, 
-              16
-            ], 
-            "id_str": "406478942", 
-            "screen_name": "memesicalPigeon", 
-            "name": "machimichangas"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "memesicalPigeon", 
-      "id_str": "562852577432596481", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 406478942, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "406478942", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 05:58:06 +0000 2015", 
-      "in_reply_to_status_id_str": "562852471060824064", 
-      "place": null
-    }, 
-    "562845110380294144": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@memesicalPigeon @nanakisensei http://t.co/as8RcH4P5q", 
-      "in_reply_to_status_id": 562844750689341440, 
-      "id": 562845110380294144, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 406478942, 
-            "indices": [
-              0, 
-              16
-            ], 
-            "id_str": "406478942", 
-            "screen_name": "memesicalPigeon", 
-            "name": "machimichangas"
+            "id_str": "1548993056", 
+            "screen_name": "niinajunpei", 
+            "name": "hannigram season 3"
           }, 
-          {
-            "id": 336321630, 
-            "indices": [
-              17, 
-              30
-            ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": [], 
-        "media": [
-          {
-            "expanded_url": "http://twitter.com/ryouibitani/status/562845110380294144/photo/1", 
-            "display_url": "pic.twitter.com/as8RcH4P5q", 
-            "url": "http://t.co/as8RcH4P5q", 
-            "media_url_https": "https://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png", 
-            "id_str": "562845109285560320", 
-            "sizes": {
-              "large": {
-                "h": 220, 
-                "resize": "fit", 
-                "w": 650
-              }, 
-              "small": {
-                "h": 115, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "medium": {
-                "h": 203, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              31, 
-              53
-            ], 
-            "type": "photo", 
-            "id": 562845109285560320, 
-            "media_url": "http://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png"
-          }
-        ]
-      }, 
-      "in_reply_to_screen_name": "memesicalPigeon", 
-      "id_str": "562845110380294144", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 406478942, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "406478942", 
-      "possibly_sensitive": false, 
-      "lang": "und", 
-      "created_at": "Wed Feb 04 05:28:26 +0000 2015", 
-      "in_reply_to_status_id_str": "562844750689341440", 
-      "place": null, 
-      "extended_entities": {
-        "media": [
-          {
-            "expanded_url": "http://twitter.com/ryouibitani/status/562845110380294144/photo/1", 
-            "display_url": "pic.twitter.com/as8RcH4P5q", 
-            "url": "http://t.co/as8RcH4P5q", 
-            "media_url_https": "https://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png", 
-            "id_str": "562845109285560320", 
-            "sizes": {
-              "large": {
-                "h": 220, 
-                "resize": "fit", 
-                "w": 650
-              }, 
-              "small": {
-                "h": 115, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "medium": {
-                "h": 203, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              31, 
-              53
-            ], 
-            "type": "photo", 
-            "id": 562845109285560320, 
-            "media_url": "http://pbs.twimg.com/media/B8-gpRKIIAAVM4g.png"
-          }
-        ]
-      }
-    }, 
-    "563436511715401728": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@NISHIKIKOUJl manami: *breathes*\nkat: manami relatabl", 
-      "in_reply_to_status_id": 563436326092296193, 
-      "id": 563436511715401728, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
           {
             "id": 2889400906, 
             "indices": [
-              0, 
-              13
+              13, 
+              26
             ], 
             "id_str": "2889400906", 
             "screen_name": "NISHIKIKOUJl", 
@@ -2512,16 +2722,16 @@
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563436511715401728", 
+      "in_reply_to_screen_name": "niinajunpei", 
+      "id_str": "563989748734500864", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
+      "in_reply_to_user_id": 1548993056, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
-      "lang": "tl", 
-      "created_at": "Thu Feb 05 20:38:27 +0000 2015", 
-      "in_reply_to_status_id_str": "563436326092296193", 
+      "in_reply_to_user_id_str": "1548993056", 
+      "lang": "und", 
+      "created_at": "Sat Feb 07 09:16:49 +0000 2015", 
+      "in_reply_to_status_id_str": "563989568870170624", 
       "place": null
     }, 
     "562854526009745408": {
@@ -2602,45 +2812,6 @@
       "in_reply_to_status_id_str": "563122542144417793", 
       "place": null
     }, 
-    "562783236611661825": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@coxytown that was absolutely terrible", 
-      "in_reply_to_status_id": 562782751217430532, 
-      "id": 562783236611661825, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2441313791, 
-            "indices": [
-              0, 
-              9
-            ], 
-            "id_str": "2441313791", 
-            "screen_name": "coxytown", 
-            "name": "liv liver"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "coxytown", 
-      "id_str": "562783236611661825", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2441313791, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2441313791", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 01:22:34 +0000 2015", 
-      "in_reply_to_status_id_str": "562782751217430532", 
-      "place": null
-    }, 
     "562822655712444417": {
       "contributors": null, 
       "truncated": false, 
@@ -2706,6 +2877,45 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 03:30:27 +0000 2015", 
       "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "563999197335412736": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@niinajunpei IT'LL BE WORTH IT IN THE END..........", 
+      "in_reply_to_status_id": 563999050551525376, 
+      "id": 563999197335412736, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 1548993056, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "1548993056", 
+            "screen_name": "niinajunpei", 
+            "name": "hannigram season 3"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "niinajunpei", 
+      "id_str": "563999197335412736", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 1548993056, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "1548993056", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:54:21 +0000 2015", 
+      "in_reply_to_status_id_str": "563999050551525376", 
       "place": null
     }, 
     "563439796677533698": {
@@ -2797,7 +3007,7 @@
           "listed_count": 0, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 34608, 
+          "statuses_count": 34653, 
           "description": "[ Leo | 20 | enfp ]", 
           "friends_count": 73, 
           "location": "", 
@@ -2810,7 +3020,7 @@
           "name": "\u2605", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 11811, 
+          "favourites_count": 11834, 
           "screen_name": "istaval", 
           "notifications": false, 
           "url": "http://t.co/EMdFajxmab", 
@@ -3068,13 +3278,13 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
-    "563090796837363712": {
+    "562843758572892160": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@fIannery i am a simple bully living a simple life. let me bully", 
-      "in_reply_to_status_id": 563089944600928257, 
-      "id": 563090796837363712, 
-      "favorite_count": 1, 
+      "text": "@nanakisensei @NISHIKIKOUJl (puts a hand on your shoulder) then don't feel", 
+      "in_reply_to_status_id": 562843658660372481, 
+      "id": 562843758572892160, 
+      "favorite_count": 2, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -3082,29 +3292,39 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2912875834, 
+            "id": 336321630, 
             "indices": [
               0, 
-              9
+              13
             ], 
-            "id_str": "2912875834", 
-            "screen_name": "fIannery", 
-            "name": "\u0667\u200e"
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "\u0430\u043f\u0435\u043b\u044c\u0441\u0438\u043d\u043e\u0432\u044b\u0439 \u0441\u043e\u043a"
+          }, 
+          {
+            "id": 2889400906, 
+            "indices": [
+              14, 
+              27
+            ], 
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "fIannery", 
-      "id_str": "563090796837363712", 
-      "retweet_count": 1, 
-      "in_reply_to_user_id": 2912875834, 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "562843758572892160", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 336321630, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2912875834", 
+      "in_reply_to_user_id_str": "336321630", 
       "lang": "en", 
-      "created_at": "Wed Feb 04 21:44:42 +0000 2015", 
-      "in_reply_to_status_id_str": "563089944600928257", 
+      "created_at": "Wed Feb 04 05:23:03 +0000 2015", 
+      "in_reply_to_status_id_str": "562843658660372481", 
       "place": null
     }, 
     "563069511717617668": {
@@ -3330,7 +3550,7 @@
               "urls": []
             }
           }, 
-          "followers_count": 1983, 
+          "followers_count": 1985, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "2464397916", 
           "profile_background_color": "022330", 
@@ -3350,7 +3570,7 @@
           "name": "[\ud558\ucf54\uc628/\ucf548] \uba38\ud53c", 
           "lang": "ko", 
           "profile_background_tile": true, 
-          "favourites_count": 2317, 
+          "favourites_count": 2315, 
           "screen_name": "mup_pedal", 
           "notifications": false, 
           "url": "http://t.co/O0zafD3jgt", 
@@ -3510,13 +3730,13 @@
       "in_reply_to_status_id_str": "562842439275511809", 
       "place": null
     }, 
-    "563100718920650753": {
+    "563421695579815936": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@fIannery all knowing being that can decide if someone\u2019s rice is shit or not. fucking chill and i know that\u2019s what you wanted and you\u2019re", 
-      "in_reply_to_status_id": 563100002218962945, 
-      "id": 563100718920650753, 
-      "favorite_count": 1, 
+      "text": "@nanakisensei I WANT FRANCIS TO MANAMI", 
+      "in_reply_to_status_id": 563421149259124737, 
+      "id": 563421695579815936, 
+      "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -3524,29 +3744,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2912875834, 
+            "id": 336321630, 
             "indices": [
               0, 
-              9
+              13
             ], 
-            "id_str": "2912875834", 
-            "screen_name": "fIannery", 
-            "name": "\u0667\u200e"
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "fIannery", 
-      "id_str": "563100718920650753", 
-      "retweet_count": 1, 
-      "in_reply_to_user_id": 2912875834, 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "563421695579815936", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 336321630, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2912875834", 
+      "in_reply_to_user_id_str": "336321630", 
       "lang": "en", 
-      "created_at": "Wed Feb 04 22:24:07 +0000 2015", 
-      "in_reply_to_status_id_str": "563100002218962945", 
+      "created_at": "Thu Feb 05 19:39:34 +0000 2015", 
+      "in_reply_to_status_id_str": "563421149259124737", 
       "place": null
     }, 
     "563058519197634561": {
@@ -3664,6 +3884,55 @@
       "lang": "und", 
       "created_at": "Wed Feb 04 21:44:00 +0000 2015", 
       "in_reply_to_status_id_str": "563090066986512385", 
+      "place": null
+    }, 
+    "563445263810179072": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@NISHIKIKOUJl @nanakisensei \u25d4_\u25d4", 
+      "in_reply_to_status_id": 563445133887434752, 
+      "id": 563445263810179072, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2889400906, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
+          }, 
+          {
+            "id": 336321630, 
+            "indices": [
+              14, 
+              27
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563445263810179072", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2889400906, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2889400906", 
+      "lang": "und", 
+      "created_at": "Thu Feb 05 21:13:13 +0000 2015", 
+      "in_reply_to_status_id_str": "563445133887434752", 
       "place": null
     }, 
     "563521574393761792": {
@@ -3889,6 +4158,45 @@
       "in_reply_to_status_id_str": "563437867041824769", 
       "place": null
     }, 
+    "563422174175059968": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@nanakisensei BUT INSTEAD OF FEELING THE WAY IN WHICH THE WIND IS BLOWING IT'S \"I JUST HAVE TO TRACK THE FLYING BIRDS\" BUT THERE'S NO BIRDS", 
+      "in_reply_to_status_id": 563421695579815936, 
+      "id": 563422174175059968, 
+      "favorite_count": 2, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 336321630, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "ryouibitani", 
+      "id_str": "563422174175059968", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 1673006876, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "1673006876", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 19:41:28 +0000 2015", 
+      "in_reply_to_status_id_str": "563421695579815936", 
+      "place": null
+    }, 
     "563101310124556289": {
       "contributors": null, 
       "truncated": false, 
@@ -3928,51 +4236,40 @@
       "in_reply_to_status_id_str": "563101133074628608", 
       "place": null
     }, 
-    "563124242011926528": {
+    "563126919060000768": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@sadpresidents SODOM AND GOMORRAH FOR INSTANCE", 
-      "in_reply_to_status_id": 563123895713021952, 
-      "id": 563124242011926528, 
-      "favorite_count": 1, 
+      "text": "mm being dragged out by an estp i met like 30 min ago........ goodbye twitworld see you in 2 hours or something\ud83d\udc4d", 
+      "in_reply_to_status_id": null, 
+      "id": 563126919060000768, 
+      "favorite_count": 4, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2453295300, 
-            "indices": [
-              0, 
-              14
-            ], 
-            "id_str": "2453295300", 
-            "screen_name": "sadpresidents", 
-            "name": "yes im bishreksual"
-          }
-        ], 
+        "user_mentions": [], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "sadpresidents", 
-      "id_str": "563124242011926528", 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563126919060000768", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2453295300, 
+      "in_reply_to_user_id": null, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2453295300", 
+      "in_reply_to_user_id_str": null, 
       "lang": "en", 
-      "created_at": "Wed Feb 04 23:57:36 +0000 2015", 
-      "in_reply_to_status_id_str": "563123895713021952", 
+      "created_at": "Thu Feb 05 00:08:14 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
       "place": null
     }, 
-    "563976793464770560": {
+    "563463504225898496": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@NISHIKIKOUJl who is", 
-      "in_reply_to_status_id": 563975035401289729, 
-      "id": 563976793464770560, 
+      "text": "@xila0 blows a kiss", 
+      "in_reply_to_status_id": 563463378060836864, 
+      "id": 563463504225898496, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -3981,29 +4278,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2889400906, 
+            "id": 1519573460, 
             "indices": [
               0, 
-              13
+              6
             ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
+            "id_str": "1519573460", 
+            "screen_name": "xila0", 
+            "name": "\u5927\u86c7\uff20\u96e2\u8131\u30fb michael"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563976793464770560", 
+      "in_reply_to_screen_name": "xila0", 
+      "id_str": "563463504225898496", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
+      "in_reply_to_user_id": 1519573460, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
+      "in_reply_to_user_id_str": "1519573460", 
       "lang": "en", 
-      "created_at": "Sat Feb 07 08:25:20 +0000 2015", 
-      "in_reply_to_status_id_str": "563975035401289729", 
+      "created_at": "Thu Feb 05 22:25:42 +0000 2015", 
+      "in_reply_to_status_id_str": "563463378060836864", 
       "place": null
     }, 
     "563436723053793281": {
@@ -4407,13 +4704,13 @@
       "in_reply_to_status_id_str": "562838770723336193", 
       "place": null
     }, 
-    "563464088358244352": {
+    "564169903364919296": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@istaval @nanakisensei if miracles happen when both of us are around then god must be real", 
-      "in_reply_to_status_id": 563463969906499584, 
-      "id": 563464088358244352, 
-      "favorite_count": 0, 
+      "text": "@nanakisensei MICHELLE...", 
+      "in_reply_to_status_id": 564169475084541952, 
+      "id": 564169903364919296, 
+      "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -4421,20 +4718,10 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2582351552, 
-            "indices": [
-              0, 
-              8
-            ], 
-            "id_str": "2582351552", 
-            "screen_name": "istaval", 
-            "name": "\u2605"
-          }, 
-          {
             "id": 336321630, 
             "indices": [
-              9, 
-              22
+              0, 
+              13
             ], 
             "id_str": "336321630", 
             "screen_name": "nanakisensei", 
@@ -4444,16 +4731,16 @@
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "istaval", 
-      "id_str": "563464088358244352", 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "564169903364919296", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2582351552, 
+      "in_reply_to_user_id": 336321630, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2582351552", 
-      "lang": "en", 
-      "created_at": "Thu Feb 05 22:28:01 +0000 2015", 
-      "in_reply_to_status_id_str": "563463969906499584", 
+      "in_reply_to_user_id_str": "336321630", 
+      "lang": "fr", 
+      "created_at": "Sat Feb 07 21:12:41 +0000 2015", 
+      "in_reply_to_status_id_str": "564169475084541952", 
       "place": null
     }, 
     "563448254835458049": {
@@ -4571,45 +4858,6 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 05:11:23 +0000 2015", 
       "in_reply_to_status_id_str": "562840669744807940", 
-      "place": null
-    }, 
-    "563447314195709953": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@LOG1CALDIVE i'm telling your brother", 
-      "in_reply_to_status_id": 563447162139602944, 
-      "id": 563447314195709953, 
-      "favorite_count": 2, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2298280076, 
-            "indices": [
-              0, 
-              12
-            ], 
-            "id_str": "2298280076", 
-            "screen_name": "LOG1CALDIVE", 
-            "name": "yara"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "LOG1CALDIVE", 
-      "id_str": "563447314195709953", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2298280076, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2298280076", 
-      "lang": "en", 
-      "created_at": "Thu Feb 05 21:21:22 +0000 2015", 
-      "in_reply_to_status_id_str": "563447162139602944", 
       "place": null
     }, 
     "563115018850693120": {
@@ -4757,12 +5005,12 @@
       "in_reply_to_status_id_str": "563100002218962945", 
       "place": null
     }, 
-    "562777492436836352": {
+    "563459718887530496": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@coxytown fucking fight me right now", 
-      "in_reply_to_status_id": 562777120330743808, 
-      "id": 562777492436836352, 
+      "text": "@istaval same", 
+      "in_reply_to_status_id": 563458642603565056, 
+      "id": 563459718887530496, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -4771,29 +5019,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2441313791, 
+            "id": 2582351552, 
             "indices": [
               0, 
-              9
+              8
             ], 
-            "id_str": "2441313791", 
-            "screen_name": "coxytown", 
-            "name": "liv liver"
+            "id_str": "2582351552", 
+            "screen_name": "istaval", 
+            "name": "\u2605"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "coxytown", 
-      "id_str": "562777492436836352", 
+      "in_reply_to_screen_name": "istaval", 
+      "id_str": "563459718887530496", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2441313791, 
+      "in_reply_to_user_id": 2582351552, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2441313791", 
+      "in_reply_to_user_id_str": "2582351552", 
       "lang": "en", 
-      "created_at": "Wed Feb 04 00:59:44 +0000 2015", 
-      "in_reply_to_status_id_str": "562777120330743808", 
+      "created_at": "Thu Feb 05 22:10:40 +0000 2015", 
+      "in_reply_to_status_id_str": "563458642603565056", 
       "place": null
     }, 
     "563439965913497601": {
@@ -4874,51 +5122,12 @@
       "in_reply_to_status_id_str": "563427249329041410", 
       "place": null
     }, 
-    "563421695579815936": {
+    "563440151406608384": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@nanakisensei I WANT FRANCIS TO MANAMI", 
-      "in_reply_to_status_id": 563421149259124737, 
-      "id": 563421695579815936, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 336321630, 
-            "indices": [
-              0, 
-              13
-            ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "563421695579815936", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 336321630, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "336321630", 
-      "lang": "en", 
-      "created_at": "Thu Feb 05 19:39:34 +0000 2015", 
-      "in_reply_to_status_id_str": "563421149259124737", 
-      "place": null
-    }, 
-    "563880213319524352": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@maIaysia32 it, so it's reasonable if you for any reason don't trust it at first, even more so if you can't come up with a \"logical\"", 
-      "in_reply_to_status_id": 563820194028482562, 
-      "id": 563880213319524352, 
+      "text": "@NISHIKIKOUJl SEE YOU IN TEN YEARS ZUCCHINI SAN...............", 
+      "in_reply_to_status_id": 563440038068101122, 
+      "id": 563440151406608384, 
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -4927,29 +5136,68 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2374268090, 
+            "id": 2889400906, 
             "indices": [
               0, 
-              11
+              13
             ], 
-            "id_str": "2374268090", 
-            "screen_name": "maIaysia32", 
-            "name": "\u300e\uff29\uff24\uff25\uff2e\uff34\uff29\uff34\uff39\u3002\u300f"
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "maIaysia32", 
-      "id_str": "563880213319524352", 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563440151406608384", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2374268090, 
+      "in_reply_to_user_id": 2889400906, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2374268090", 
+      "in_reply_to_user_id_str": "2889400906", 
       "lang": "en", 
-      "created_at": "Sat Feb 07 02:01:33 +0000 2015", 
-      "in_reply_to_status_id_str": "563820194028482562", 
+      "created_at": "Thu Feb 05 20:52:54 +0000 2015", 
+      "in_reply_to_status_id_str": "563440038068101122", 
+      "place": null
+    }, 
+    "563090796837363712": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@fIannery i am a simple bully living a simple life. let me bully", 
+      "in_reply_to_status_id": 563089944600928257, 
+      "id": 563090796837363712, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2912875834, 
+            "indices": [
+              0, 
+              9
+            ], 
+            "id_str": "2912875834", 
+            "screen_name": "fIannery", 
+            "name": "\u0667\u200e"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "fIannery", 
+      "id_str": "563090796837363712", 
+      "retweet_count": 1, 
+      "in_reply_to_user_id": 2912875834, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2912875834", 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 21:44:42 +0000 2015", 
+      "in_reply_to_status_id_str": "563089944600928257", 
       "place": null
     }, 
     "563108792058257408": {
@@ -5001,12 +5249,12 @@
       "in_reply_to_status_id_str": "563108644678823936", 
       "place": null
     }, 
-    "563449696837185536": {
+    "563447314195709953": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@LOG1CALDIVE YOU SON OF A........ KRATOS?", 
-      "in_reply_to_status_id": 563448975513366528, 
-      "id": 563449696837185536, 
+      "text": "@LOG1CALDIVE i'm telling your brother", 
+      "in_reply_to_status_id": 563447162139602944, 
+      "id": 563447314195709953, 
       "favorite_count": 2, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -5029,15 +5277,15 @@
         "urls": []
       }, 
       "in_reply_to_screen_name": "LOG1CALDIVE", 
-      "id_str": "563449696837185536", 
+      "id_str": "563447314195709953", 
       "retweet_count": 0, 
       "in_reply_to_user_id": 2298280076, 
       "favorited": false, 
       "geo": null, 
       "in_reply_to_user_id_str": "2298280076", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 21:30:50 +0000 2015", 
-      "in_reply_to_status_id_str": "563448975513366528", 
+      "created_at": "Thu Feb 05 21:21:22 +0000 2015", 
+      "in_reply_to_status_id_str": "563447162139602944", 
       "place": null
     }, 
     "563182388189343745": {
@@ -5105,6 +5353,45 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 22:25:33 +0000 2015", 
       "in_reply_to_status_id_str": "563100924290531328", 
+      "place": null
+    }, 
+    "563880081630957568": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@maIaysia32 and depression mess up with all the functions that aren't tangible or empirical (sensing, extroverted functions), besides all", 
+      "in_reply_to_status_id": 563820194028482562, 
+      "id": 563880081630957568, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2374268090, 
+            "indices": [
+              0, 
+              11
+            ], 
+            "id_str": "2374268090", 
+            "screen_name": "maIaysia32", 
+            "name": "\u300e\uff29\uff24\uff25\uff2e\uff34\uff29\uff34\uff39\u3002\u300f"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "maIaysia32", 
+      "id_str": "563880081630957568", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2374268090, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2374268090", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 02:01:02 +0000 2015", 
+      "in_reply_to_status_id_str": "563820194028482562", 
       "place": null
     }, 
     "562843344750256128": {
@@ -5185,12 +5472,12 @@
       "in_reply_to_status_id_str": "563016679408803840", 
       "place": null
     }, 
-    "563440493166866432": {
+    "563806617100365824": {
       "contributors": null, 
       "truncated": false, 
-      "text": "RT @nanakisensei: (at border services) TOUDOU!!\n\"sir where is your visa\"\n\"TOUDOU\"\n\"sir i need your paperwork\"", 
-      "in_reply_to_status_id": null, 
-      "id": 563440493166866432, 
+      "text": "@maIaysia32 what does this even mean", 
+      "in_reply_to_status_id": 563565598076964864, 
+      "id": 563806617100365824, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -5199,117 +5486,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 336321630, 
+            "id": 2374268090, 
             "indices": [
-              3, 
-              16
+              0, 
+              11
             ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
+            "id_str": "2374268090", 
+            "screen_name": "maIaysia32", 
+            "name": "gaspard de la nuit"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": null, 
-      "id_str": "563440493166866432", 
-      "retweet_count": 2, 
-      "in_reply_to_user_id": null, 
+      "in_reply_to_screen_name": "maIaysia32", 
+      "id_str": "563806617100365824", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2374268090, 
       "favorited": false, 
-      "retweeted_status": {
-        "contributors": null, 
-        "truncated": false, 
-        "text": "(at border services) TOUDOU!!\n\"sir where is your visa\"\n\"TOUDOU\"\n\"sir i need your paperwork\"", 
-        "in_reply_to_status_id": null, 
-        "id": 563440406277677056, 
-        "favorite_count": 1, 
-        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
-        "retweeted": false, 
-        "coordinates": null, 
-        "entities": {
-          "symbols": [], 
-          "user_mentions": [], 
-          "hashtags": [], 
-          "urls": []
-        }, 
-        "in_reply_to_screen_name": null, 
-        "id_str": "563440406277677056", 
-        "retweet_count": 2, 
-        "in_reply_to_user_id": null, 
-        "favorited": false, 
-        "user": {
-          "follow_request_sent": false, 
-          "profile_use_background_image": true, 
-          "profile_text_color": "3C3940", 
-          "default_profile_image": false, 
-          "id": 336321630, 
-          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459870525058064386/8DPK9GJL.png", 
-          "verified": false, 
-          "profile_location": null, 
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/556655375886209024/ZOz7ttcM_normal.png", 
-          "profile_sidebar_fill_color": "95E8EC", 
-          "entities": {
-            "url": {
-              "urls": [
-                {
-                  "url": "http://t.co/eEaJx7AW57", 
-                  "indices": [
-                    0, 
-                    22
-                  ], 
-                  "expanded_url": "http://quailboyfriends.tumblr.com", 
-                  "display_url": "quailboyfriends.tumblr.com"
-                }
-              ]
-            }, 
-            "description": {
-              "urls": []
-            }
-          }, 
-          "followers_count": 103, 
-          "profile_sidebar_border_color": "FFFFFF", 
-          "id_str": "336321630", 
-          "profile_background_color": "642D8B", 
-          "listed_count": 0, 
-          "is_translation_enabled": false, 
-          "utc_offset": -14400, 
-          "statuses_count": 20114, 
-          "description": "[19 \u2022 INFP \u2022 CAN \u2022 fr/en] im miche and i said id never bike but here i am [icon 30 @ pixiv]", 
-          "friends_count": 109, 
-          "location": "canada", 
-          "profile_link_color": "0073FF", 
-          "profile_image_url": "http://pbs.twimg.com/profile_images/556655375886209024/ZOz7ttcM_normal.png", 
-          "following": false, 
-          "geo_enabled": false, 
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/336321630/1422909460", 
-          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459870525058064386/8DPK9GJL.png", 
-          "name": "[SNAPS POWER BAR]", 
-          "lang": "en", 
-          "profile_background_tile": true, 
-          "favourites_count": 23806, 
-          "screen_name": "nanakisensei", 
-          "notifications": false, 
-          "url": "http://t.co/eEaJx7AW57", 
-          "created_at": "Sat Jul 16 03:12:41 +0000 2011", 
-          "contributors_enabled": false, 
-          "time_zone": "Atlantic Time (Canada)", 
-          "protected": false, 
-          "default_profile": false, 
-          "is_translator": false
-        }, 
-        "geo": null, 
-        "in_reply_to_user_id_str": null, 
-        "lang": "en", 
-        "created_at": "Thu Feb 05 20:53:55 +0000 2015", 
-        "in_reply_to_status_id_str": null, 
-        "place": null
-      }, 
       "geo": null, 
-      "in_reply_to_user_id_str": null, 
+      "in_reply_to_user_id_str": "2374268090", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 20:54:16 +0000 2015", 
-      "in_reply_to_status_id_str": null, 
+      "created_at": "Fri Feb 06 21:09:07 +0000 2015", 
+      "in_reply_to_status_id_str": "563565598076964864", 
       "place": null
     }, 
     "563091868683345923": {
@@ -5351,45 +5550,6 @@
       "in_reply_to_status_id_str": "563091232269029377", 
       "place": null
     }, 
-    "562783837969989633": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@sadpresidents \"self diagnosed with obesity\"", 
-      "in_reply_to_status_id": 562783588308250625, 
-      "id": 562783837969989633, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2453295300, 
-            "indices": [
-              0, 
-              14
-            ], 
-            "id_str": "2453295300", 
-            "screen_name": "sadpresidents", 
-            "name": "yes im bishreksual"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "sadpresidents", 
-      "id_str": "562783837969989633", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2453295300, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2453295300", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 01:24:57 +0000 2015", 
-      "in_reply_to_status_id_str": "562783588308250625", 
-      "place": null
-    }, 
     "563088245333168129": {
       "contributors": null, 
       "truncated": false, 
@@ -5427,6 +5587,34 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 21:34:34 +0000 2015", 
       "in_reply_to_status_id_str": "563087387392483330", 
+      "place": null
+    }, 
+    "563427394439360512": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "take a shot every time a fanfic has one of the gays going dokidoki and thinking \"I\u2019m not a goddamn school-girl\" right after", 
+      "in_reply_to_status_id": null, 
+      "id": 563427394439360512, 
+      "favorite_count": 9, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563427394439360512", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 20:02:13 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
       "place": null
     }, 
     "563108521714417664": {
@@ -5818,6 +6006,45 @@
       "in_reply_to_status_id_str": "563446607765864448", 
       "place": null
     }, 
+    "563124242011926528": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@sadpresidents SODOM AND GOMORRAH FOR INSTANCE", 
+      "in_reply_to_status_id": 563123895713021952, 
+      "id": 563124242011926528, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2453295300, 
+            "indices": [
+              0, 
+              14
+            ], 
+            "id_str": "2453295300", 
+            "screen_name": "sadpresidents", 
+            "name": "yes im bishreksual"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "sadpresidents", 
+      "id_str": "563124242011926528", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2453295300, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2453295300", 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 23:57:36 +0000 2015", 
+      "in_reply_to_status_id_str": "563123895713021952", 
+      "place": null
+    }, 
     "563089531961114624": {
       "contributors": null, 
       "truncated": false, 
@@ -5933,6 +6160,55 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 01:38:15 +0000 2015", 
       "in_reply_to_status_id_str": "562786804341145601", 
+      "place": null
+    }, 
+    "563074755520393216": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@nanakisensei @NISHIKIKOUJl FLICKS LIGHTS ON AND OFF", 
+      "in_reply_to_status_id": 563074517833351173, 
+      "id": 563074755520393216, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 336321630, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }, 
+          {
+            "id": 2889400906, 
+            "indices": [
+              14, 
+              27
+            ], 
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "563074755520393216", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 336321630, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "336321630", 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 20:40:57 +0000 2015", 
+      "in_reply_to_status_id_str": "563074517833351173", 
       "place": null
     }, 
     "562815901515665408": {
@@ -6112,45 +6388,6 @@
       "in_reply_to_status_id_str": "562851851591483393", 
       "place": null
     }, 
-    "563880422619504641": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@maIaysia32 justification for that thought since the function that supports your intuition is feeling", 
-      "in_reply_to_status_id": 563820194028482562, 
-      "id": 563880422619504641, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2374268090, 
-            "indices": [
-              0, 
-              11
-            ], 
-            "id_str": "2374268090", 
-            "screen_name": "maIaysia32", 
-            "name": "\u300e\uff29\uff24\uff25\uff2e\uff34\uff29\uff34\uff39\u3002\u300f"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "maIaysia32", 
-      "id_str": "563880422619504641", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2374268090, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2374268090", 
-      "lang": "en", 
-      "created_at": "Sat Feb 07 02:02:23 +0000 2015", 
-      "in_reply_to_status_id_str": "563820194028482562", 
-      "place": null
-    }, 
     "562853472857780226": {
       "contributors": null, 
       "truncated": false, 
@@ -6188,6 +6425,45 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 06:01:39 +0000 2015", 
       "in_reply_to_status_id_str": "562853132599066624", 
+      "place": null
+    }, 
+    "563420879074643968": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@nanakisensei HAKOGAKU IS LITERALLY TWITCREW THOUGH", 
+      "in_reply_to_status_id": 563420273895292930, 
+      "id": 563420879074643968, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 336321630, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "563420879074643968", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 336321630, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "336321630", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 19:36:20 +0000 2015", 
+      "in_reply_to_status_id_str": "563420273895292930", 
       "place": null
     }, 
     "563016494012186625": {
@@ -6317,12 +6593,79 @@
       "in_reply_to_status_id_str": "562844076400443393", 
       "place": null
     }, 
-    "563459718887530496": {
+    "563880422619504641": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@istaval same", 
-      "in_reply_to_status_id": 563458642603565056, 
-      "id": 563459718887530496, 
+      "text": "@maIaysia32 justification for that thought since the function that supports your intuition is feeling", 
+      "in_reply_to_status_id": 563820194028482562, 
+      "id": 563880422619504641, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2374268090, 
+            "indices": [
+              0, 
+              11
+            ], 
+            "id_str": "2374268090", 
+            "screen_name": "maIaysia32", 
+            "name": "\u300e\uff29\uff24\uff25\uff2e\uff34\uff29\uff34\uff39\u3002\u300f"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "maIaysia32", 
+      "id_str": "563880422619504641", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2374268090, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2374268090", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 02:02:23 +0000 2015", 
+      "in_reply_to_status_id_str": "563820194028482562", 
+      "place": null
+    }, 
+    "564002955607953408": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "six paragraphs on why water is important. thanks tumblr i had no idea i couldn't survive without it", 
+      "in_reply_to_status_id": null, 
+      "id": 564002955607953408, 
+      "favorite_count": 5, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "564002955607953408", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 10:09:17 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562852577432596481": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@memesicalPigeon i feel bad):", 
+      "in_reply_to_status_id": 562852471060824064, 
+      "id": 562852577432596481, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -6331,37 +6674,37 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2582351552, 
+            "id": 406478942, 
             "indices": [
               0, 
-              8
+              16
             ], 
-            "id_str": "2582351552", 
-            "screen_name": "istaval", 
-            "name": "\u2605"
+            "id_str": "406478942", 
+            "screen_name": "memesicalPigeon", 
+            "name": "machimichangas"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "istaval", 
-      "id_str": "563459718887530496", 
+      "in_reply_to_screen_name": "memesicalPigeon", 
+      "id_str": "562852577432596481", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2582351552, 
+      "in_reply_to_user_id": 406478942, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2582351552", 
+      "in_reply_to_user_id_str": "406478942", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 22:10:40 +0000 2015", 
-      "in_reply_to_status_id_str": "563458642603565056", 
+      "created_at": "Wed Feb 04 05:58:06 +0000 2015", 
+      "in_reply_to_status_id_str": "562852471060824064", 
       "place": null
     }, 
-    "563074755520393216": {
+    "563436511715401728": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@nanakisensei @NISHIKIKOUJl FLICKS LIGHTS ON AND OFF", 
-      "in_reply_to_status_id": 563074517833351173, 
-      "id": 563074755520393216, 
+      "text": "@NISHIKIKOUJl manami: *breathes*\nkat: manami relatabl", 
+      "in_reply_to_status_id": 563436326092296193, 
+      "id": 563436511715401728, 
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -6370,21 +6713,11 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 336321630, 
+            "id": 2889400906, 
             "indices": [
               0, 
               13
             ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
-          }, 
-          {
-            "id": 2889400906, 
-            "indices": [
-              14, 
-              27
-            ], 
             "id_str": "2889400906", 
             "screen_name": "NISHIKIKOUJl", 
             "name": "the machimiya person"
@@ -6393,65 +6726,16 @@
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "563074755520393216", 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563436511715401728", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 336321630, 
+      "in_reply_to_user_id": 2889400906, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "336321630", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 20:40:57 +0000 2015", 
-      "in_reply_to_status_id_str": "563074517833351173", 
-      "place": null
-    }, 
-    "563989748734500864": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@niinajunpei @NISHIKIKOUJl hah", 
-      "in_reply_to_status_id": 563989568870170624, 
-      "id": 563989748734500864, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 1548993056, 
-            "indices": [
-              0, 
-              12
-            ], 
-            "id_str": "1548993056", 
-            "screen_name": "niinajunpei", 
-            "name": "hannigram season 3"
-          }, 
-          {
-            "id": 2889400906, 
-            "indices": [
-              13, 
-              26
-            ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "niinajunpei", 
-      "id_str": "563989748734500864", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 1548993056, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "1548993056", 
-      "lang": "und", 
-      "created_at": "Sat Feb 07 09:16:49 +0000 2015", 
-      "in_reply_to_status_id_str": "563989568870170624", 
+      "in_reply_to_user_id_str": "2889400906", 
+      "lang": "tl", 
+      "created_at": "Thu Feb 05 20:38:27 +0000 2015", 
+      "in_reply_to_status_id_str": "563436326092296193", 
       "place": null
     }, 
     "562858332944609280": {
@@ -6493,12 +6777,12 @@
       "in_reply_to_status_id_str": "562858238266605568", 
       "place": null
     }, 
-    "563989444278382592": {
+    "563448182584377344": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@niinajunpei @NISHIKIKOUJl YOU TELL US", 
-      "in_reply_to_status_id": 563989368248217600, 
-      "id": 563989444278382592, 
+      "text": "@nanakisensei ME AF", 
+      "in_reply_to_status_id": 563447985770856449, 
+      "id": 563448182584377344, 
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -6507,78 +6791,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 1548993056, 
-            "indices": [
-              0, 
-              12
-            ], 
-            "id_str": "1548993056", 
-            "screen_name": "niinajunpei", 
-            "name": "hannigram season 3"
-          }, 
-          {
-            "id": 2889400906, 
-            "indices": [
-              13, 
-              26
-            ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "niinajunpei", 
-      "id_str": "563989444278382592", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 1548993056, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "1548993056", 
-      "lang": "en", 
-      "created_at": "Sat Feb 07 09:15:36 +0000 2015", 
-      "in_reply_to_status_id_str": "563989368248217600", 
-      "place": null
-    }, 
-    "563439250008702976": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@NISHIKIKOUJl ARE UPSET, ZUCCHINI?", 
-      "in_reply_to_status_id": 563439025361780736, 
-      "id": 563439250008702976, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2889400906, 
+            "id": 336321630, 
             "indices": [
               0, 
               13
             ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563439250008702976", 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "563448182584377344", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
+      "in_reply_to_user_id": 336321630, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
+      "in_reply_to_user_id_str": "336321630", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 20:49:20 +0000 2015", 
-      "in_reply_to_status_id_str": "563439025361780736", 
+      "created_at": "Thu Feb 05 21:24:49 +0000 2015", 
+      "in_reply_to_status_id_str": "563447985770856449", 
       "place": null
     }, 
     "563125681312501761": {
@@ -6628,6 +6863,45 @@
       "lang": "en", 
       "created_at": "Thu Feb 05 00:03:19 +0000 2015", 
       "in_reply_to_status_id_str": "563125080516214786", 
+      "place": null
+    }, 
+    "563448691168911361": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@nanakisensei bpd feels actuallybpd actuallyborderline lms if u read", 
+      "in_reply_to_status_id": 563448414378414080, 
+      "id": 563448691168911361, 
+      "favorite_count": 2, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 336321630, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "563448691168911361", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 336321630, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "336321630", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 21:26:51 +0000 2015", 
+      "in_reply_to_status_id_str": "563448414378414080", 
       "place": null
     }, 
     "562840987043897346": {
@@ -6786,12 +7060,12 @@
       "in_reply_to_status_id_str": "563024513668218881", 
       "place": null
     }, 
-    "563422174175059968": {
+    "563445501790806016": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@nanakisensei BUT INSTEAD OF FEELING THE WAY IN WHICH THE WIND IS BLOWING IT'S \"I JUST HAVE TO TRACK THE FLYING BIRDS\" BUT THERE'S NO BIRDS", 
-      "in_reply_to_status_id": 563421695579815936, 
-      "id": 563422174175059968, 
+      "text": "@NISHIKIKOUJl RUNNING! (Toudou)", 
+      "in_reply_to_status_id": 563445357556678657, 
+      "id": 563445501790806016, 
       "favorite_count": 2, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -6800,29 +7074,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 336321630, 
+            "id": 2889400906, 
             "indices": [
               0, 
               13
             ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "ryouibitani", 
-      "id_str": "563422174175059968", 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563445501790806016", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 1673006876, 
+      "in_reply_to_user_id": 2889400906, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "1673006876", 
+      "in_reply_to_user_id_str": "2889400906", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 19:41:28 +0000 2015", 
-      "in_reply_to_status_id_str": "563421695579815936", 
+      "created_at": "Thu Feb 05 21:14:10 +0000 2015", 
+      "in_reply_to_status_id_str": "563445357556678657", 
       "place": null
     }, 
     "563979562565267456": {
@@ -6931,13 +7205,13 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
-    "563445501790806016": {
+    "563976793464770560": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@NISHIKIKOUJl RUNNING! (Toudou)", 
-      "in_reply_to_status_id": 563445357556678657, 
-      "id": 563445501790806016, 
-      "favorite_count": 2, 
+      "text": "@NISHIKIKOUJl who is", 
+      "in_reply_to_status_id": 563975035401289729, 
+      "id": 563976793464770560, 
+      "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -6959,43 +7233,15 @@
         "urls": []
       }, 
       "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563445501790806016", 
+      "id_str": "563976793464770560", 
       "retweet_count": 0, 
       "in_reply_to_user_id": 2889400906, 
       "favorited": false, 
       "geo": null, 
       "in_reply_to_user_id_str": "2889400906", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 21:14:10 +0000 2015", 
-      "in_reply_to_status_id_str": "563445357556678657", 
-      "place": null
-    }, 
-    "563126919060000768": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "mm being dragged out by an estp i met like 30 min ago........ goodbye twitworld see you in 2 hours or something\ud83d\udc4d", 
-      "in_reply_to_status_id": null, 
-      "id": 563126919060000768, 
-      "favorite_count": 4, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": null, 
-      "id_str": "563126919060000768", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": null, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": null, 
-      "lang": "en", 
-      "created_at": "Thu Feb 05 00:08:14 +0000 2015", 
-      "in_reply_to_status_id_str": null, 
+      "created_at": "Sat Feb 07 08:25:20 +0000 2015", 
+      "in_reply_to_status_id_str": "563975035401289729", 
       "place": null
     }, 
     "563121393857200128": {
@@ -7037,51 +7283,12 @@
       "in_reply_to_status_id_str": "563121224843157504", 
       "place": null
     }, 
-    "563448691168911361": {
+    "563437003233320962": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@nanakisensei bpd feels actuallybpd actuallyborderline lms if u read", 
-      "in_reply_to_status_id": 563448414378414080, 
-      "id": 563448691168911361, 
-      "favorite_count": 2, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 336321630, 
-            "indices": [
-              0, 
-              13
-            ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "563448691168911361", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 336321630, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "336321630", 
-      "lang": "en", 
-      "created_at": "Thu Feb 05 21:26:51 +0000 2015", 
-      "in_reply_to_status_id_str": "563448414378414080", 
-      "place": null
-    }, 
-    "563989670049382400": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@memesicalPigeon BUT WHERE IS PHIL", 
-      "in_reply_to_status_id": 563960665753530368, 
-      "id": 563989670049382400, 
+      "text": "@NISHIKIKOUJl http://t.co/ifr1oxEGOX", 
+      "in_reply_to_status_id": 563436819652837376, 
+      "id": 563437003233320962, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -7090,30 +7297,109 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 406478942, 
+            "id": 2889400906, 
             "indices": [
               0, 
-              16
+              13
             ], 
-            "id_str": "406478942", 
-            "screen_name": "memesicalPigeon", 
-            "name": "machimichangas"
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
           }
         ], 
         "hashtags": [], 
-        "urls": []
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/ryouibitani/status/563437003233320962/photo/1", 
+            "display_url": "pic.twitter.com/ifr1oxEGOX", 
+            "url": "http://t.co/ifr1oxEGOX", 
+            "media_url_https": "https://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg", 
+            "id_str": "563437001761120256", 
+            "sizes": {
+              "small": {
+                "h": 191, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 576, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 337, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              14, 
+              36
+            ], 
+            "type": "photo", 
+            "id": 563437001761120256, 
+            "media_url": "http://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg"
+          }
+        ]
       }, 
-      "in_reply_to_screen_name": "memesicalPigeon", 
-      "id_str": "563989670049382400", 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563437003233320962", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 406478942, 
+      "in_reply_to_user_id": 2889400906, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "406478942", 
-      "lang": "en", 
-      "created_at": "Sat Feb 07 09:16:30 +0000 2015", 
-      "in_reply_to_status_id_str": "563960665753530368", 
-      "place": null
+      "in_reply_to_user_id_str": "2889400906", 
+      "possibly_sensitive": false, 
+      "lang": "und", 
+      "created_at": "Thu Feb 05 20:40:24 +0000 2015", 
+      "in_reply_to_status_id_str": "563436819652837376", 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/ryouibitani/status/563437003233320962/photo/1", 
+            "display_url": "pic.twitter.com/ifr1oxEGOX", 
+            "url": "http://t.co/ifr1oxEGOX", 
+            "media_url_https": "https://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg", 
+            "id_str": "563437001761120256", 
+            "sizes": {
+              "small": {
+                "h": 191, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 576, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 337, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              14, 
+              36
+            ], 
+            "type": "photo", 
+            "id": 563437001761120256, 
+            "media_url": "http://pbs.twimg.com/media/B9G698dIYAA2l3h.jpg"
+          }
+        ]
+      }
     }, 
     "563880173544951809": {
       "contributors": null, 
@@ -7154,13 +7440,13 @@
       "in_reply_to_status_id_str": "563820194028482562", 
       "place": null
     }, 
-    "563449605153914880": {
+    "563989444278382592": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@nanakisensei breaking news tumblr your message won't come across if you show counterproductive behaviour in something as simple as a TAG", 
-      "in_reply_to_status_id": 563448942558724098, 
-      "id": 563449605153914880, 
-      "favorite_count": 2, 
+      "text": "@niinajunpei @NISHIKIKOUJl YOU TELL US", 
+      "in_reply_to_status_id": 563989368248217600, 
+      "id": 563989444278382592, 
+      "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -7168,29 +7454,39 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 336321630, 
+            "id": 1548993056, 
             "indices": [
               0, 
-              13
+              12
             ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
+            "id_str": "1548993056", 
+            "screen_name": "niinajunpei", 
+            "name": "hannigram season 3"
+          }, 
+          {
+            "id": 2889400906, 
+            "indices": [
+              13, 
+              26
+            ], 
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "563449605153914880", 
+      "in_reply_to_screen_name": "niinajunpei", 
+      "id_str": "563989444278382592", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 336321630, 
+      "in_reply_to_user_id": 1548993056, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "336321630", 
+      "in_reply_to_user_id_str": "1548993056", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 21:30:28 +0000 2015", 
-      "in_reply_to_status_id_str": "563448942558724098", 
+      "created_at": "Sat Feb 07 09:15:36 +0000 2015", 
+      "in_reply_to_status_id_str": "563989368248217600", 
       "place": null
     }, 
     "563119701715611648": {
@@ -7260,12 +7556,12 @@
       "in_reply_to_status_id_str": "563094224057692160", 
       "place": null
     }, 
-    "563091998207639552": {
+    "562821350168227840": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@floralhime how", 
-      "in_reply_to_status_id": 563091753876877312, 
-      "id": 563091998207639552, 
+      "text": "@niinajunpei PEEJ mentioned this person ages ago. they're in", 
+      "in_reply_to_status_id": 562821035402461186, 
+      "id": 562821350168227840, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -7274,68 +7570,68 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 1645644486, 
+            "id": 1548993056, 
+            "indices": [
+              0, 
+              12
+            ], 
+            "id_str": "1548993056", 
+            "screen_name": "niinajunpei", 
+            "name": "hannigram season 3"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "niinajunpei", 
+      "id_str": "562821350168227840", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 1548993056, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "1548993056", 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 03:54:01 +0000 2015", 
+      "in_reply_to_status_id_str": "562821035402461186", 
+      "place": null
+    }, 
+    "563880213319524352": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@maIaysia32 it, so it's reasonable if you for any reason don't trust it at first, even more so if you can't come up with a \"logical\"", 
+      "in_reply_to_status_id": 563820194028482562, 
+      "id": 563880213319524352, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2374268090, 
             "indices": [
               0, 
               11
             ], 
-            "id_str": "1645644486", 
-            "screen_name": "floralhime", 
-            "name": "Nii~"
+            "id_str": "2374268090", 
+            "screen_name": "maIaysia32", 
+            "name": "\u300e\uff29\uff24\uff25\uff2e\uff34\uff29\uff34\uff39\u3002\u300f"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "floralhime", 
-      "id_str": "563091998207639552", 
+      "in_reply_to_screen_name": "maIaysia32", 
+      "id_str": "563880213319524352", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 1645644486, 
+      "in_reply_to_user_id": 2374268090, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "1645644486", 
-      "lang": "und", 
-      "created_at": "Wed Feb 04 21:49:28 +0000 2015", 
-      "in_reply_to_status_id_str": "563091753876877312", 
-      "place": null
-    }, 
-    "563997845695766528": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@NISHIKIKOUJl I WAS JUST GONNA MENTION SHE WAS THE MOST RELATABLE KATFER ONE", 
-      "in_reply_to_status_id": 563994597664522240, 
-      "id": 563997845695766528, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2889400906, 
-            "indices": [
-              0, 
-              13
-            ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563997845695766528", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
+      "in_reply_to_user_id_str": "2374268090", 
       "lang": "en", 
-      "created_at": "Sat Feb 07 09:48:59 +0000 2015", 
-      "in_reply_to_status_id_str": "563994597664522240", 
+      "created_at": "Sat Feb 07 02:01:33 +0000 2015", 
+      "in_reply_to_status_id_str": "563820194028482562", 
       "place": null
     }, 
     "562809162867175424": {
@@ -7409,7 +7705,7 @@
       }, 
       "in_reply_to_screen_name": null, 
       "id_str": "562809162867175424", 
-      "retweet_count": 306, 
+      "retweet_count": 305, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
       "retweeted_status": {
@@ -7468,7 +7764,7 @@
         }, 
         "in_reply_to_screen_name": null, 
         "id_str": "452482835094319105", 
-        "retweet_count": 306, 
+        "retweet_count": 305, 
         "in_reply_to_user_id": null, 
         "favorited": false, 
         "user": {
@@ -7517,7 +7813,7 @@
           "name": "\ud558\ub9ac", 
           "lang": "ko", 
           "profile_background_tile": true, 
-          "favourites_count": 2261, 
+          "favourites_count": 2260, 
           "screen_name": "hari_pedal", 
           "notifications": false, 
           "url": null, 
@@ -7815,45 +8111,6 @@
       "in_reply_to_status_id_str": "562843828961673216", 
       "place": null
     }, 
-    "562778130684071936": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@coxytown I CAN'T EXACTLY DENY THAT", 
-      "in_reply_to_status_id": 562777977709400065, 
-      "id": 562778130684071936, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2441313791, 
-            "indices": [
-              0, 
-              9
-            ], 
-            "id_str": "2441313791", 
-            "screen_name": "coxytown", 
-            "name": "liv liver"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "coxytown", 
-      "id_str": "562778130684071936", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2441313791, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2441313791", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 01:02:16 +0000 2015", 
-      "in_reply_to_status_id_str": "562777977709400065", 
-      "place": null
-    }, 
     "563463829926195200": {
       "contributors": null, 
       "truncated": false, 
@@ -7981,12 +8238,12 @@
       "in_reply_to_status_id_str": "562816378613563392", 
       "place": null
     }, 
-    "563806617100365824": {
+    "563091998207639552": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@maIaysia32 what does this even mean", 
-      "in_reply_to_status_id": 563565598076964864, 
-      "id": 563806617100365824, 
+      "text": "@floralhime how", 
+      "in_reply_to_status_id": 563091753876877312, 
+      "id": 563091998207639552, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -7995,29 +8252,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2374268090, 
+            "id": 1645644486, 
             "indices": [
               0, 
               11
             ], 
-            "id_str": "2374268090", 
-            "screen_name": "maIaysia32", 
-            "name": "\u300e\uff29\uff24\uff25\uff2e\uff34\uff29\uff34\uff39\u3002\u300f"
+            "id_str": "1645644486", 
+            "screen_name": "floralhime", 
+            "name": "Nii~"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "maIaysia32", 
-      "id_str": "563806617100365824", 
+      "in_reply_to_screen_name": "floralhime", 
+      "id_str": "563091998207639552", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2374268090, 
+      "in_reply_to_user_id": 1645644486, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2374268090", 
-      "lang": "en", 
-      "created_at": "Fri Feb 06 21:09:07 +0000 2015", 
-      "in_reply_to_status_id_str": "563565598076964864", 
+      "in_reply_to_user_id_str": "1645644486", 
+      "lang": "und", 
+      "created_at": "Wed Feb 04 21:49:28 +0000 2015", 
+      "in_reply_to_status_id_str": "563091753876877312", 
       "place": null
     }, 
     "563123573041430528": {
@@ -8177,13 +8434,13 @@
         ]
       }
     }, 
-    "563440015150419968": {
+    "563440493166866432": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@NISHIKIKOUJl @istaval ROUDOU", 
-      "in_reply_to_status_id": 563439917054042112, 
-      "id": 563440015150419968, 
-      "favorite_count": 2, 
+      "text": "RT @nanakisensei: (at border services) TOUDOU!!\n\"sir where is your visa\"\n\"TOUDOU\"\n\"sir i need your paperwork\"", 
+      "in_reply_to_status_id": null, 
+      "id": 563440493166866432, 
+      "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -8191,39 +8448,117 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2889400906, 
+            "id": 336321630, 
             "indices": [
-              0, 
-              13
+              3, 
+              16
             ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }, 
-          {
-            "id": 2582351552, 
-            "indices": [
-              14, 
-              22
-            ], 
-            "id_str": "2582351552", 
-            "screen_name": "istaval", 
-            "name": "\u2605"
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563440015150419968", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563440493166866432", 
+      "retweet_count": 2, 
+      "in_reply_to_user_id": null, 
       "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "(at border services) TOUDOU!!\n\"sir where is your visa\"\n\"TOUDOU\"\n\"sir i need your paperwork\"", 
+        "in_reply_to_status_id": null, 
+        "id": 563440406277677056, 
+        "favorite_count": 1, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [], 
+          "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "563440406277677056", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "3C3940", 
+          "default_profile_image": false, 
+          "id": 336321630, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459870525058064386/8DPK9GJL.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/556655375886209024/ZOz7ttcM_normal.png", 
+          "profile_sidebar_fill_color": "95E8EC", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/eEaJx7AW57", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://quailboyfriends.tumblr.com", 
+                  "display_url": "quailboyfriends.tumblr.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 103, 
+          "profile_sidebar_border_color": "FFFFFF", 
+          "id_str": "336321630", 
+          "profile_background_color": "642D8B", 
+          "listed_count": 0, 
+          "is_translation_enabled": false, 
+          "utc_offset": -14400, 
+          "statuses_count": 20139, 
+          "description": "[19 \u2022 INFP \u2022 CAN \u2022 fr/en] im miche and i said id never bike but here i am [icon 30 @ pixiv]", 
+          "friends_count": 109, 
+          "location": "canada", 
+          "profile_link_color": "0073FF", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/556655375886209024/ZOz7ttcM_normal.png", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/336321630/1422909460", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459870525058064386/8DPK9GJL.png", 
+          "name": "[SNAPS POWER BAR]", 
+          "lang": "en", 
+          "profile_background_tile": true, 
+          "favourites_count": 23798, 
+          "screen_name": "nanakisensei", 
+          "notifications": false, 
+          "url": "http://t.co/eEaJx7AW57", 
+          "created_at": "Sat Jul 16 03:12:41 +0000 2011", 
+          "contributors_enabled": false, 
+          "time_zone": "Atlantic Time (Canada)", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Feb 05 20:53:55 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+      }, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
-      "lang": "ht", 
-      "created_at": "Thu Feb 05 20:52:22 +0000 2015", 
-      "in_reply_to_status_id_str": "563439917054042112", 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 20:54:16 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
       "place": null
     }, 
     "563169964841259009": {
@@ -8265,32 +8600,53 @@
       "in_reply_to_status_id_str": "563169831776948224", 
       "place": null
     }, 
-    "563427394439360512": {
+    "564171330053238784": {
       "contributors": null, 
       "truncated": false, 
-      "text": "take a shot every time a fanfic has one of the gays going dokidoki and thinking \"I\u2019m not a goddamn school-girl\" right after", 
-      "in_reply_to_status_id": null, 
-      "id": 563427394439360512, 
-      "favorite_count": 9, 
+      "text": "@nanakisensei @istaval okay then\nnice work out there kiddo! *pats your back* *hits you in the head with ice cubes* \n&gt; ???\n&gt; profit", 
+      "in_reply_to_status_id": 564170570737397760, 
+      "id": 564171330053238784, 
+      "favorite_count": 2, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
-        "user_mentions": [], 
+        "user_mentions": [
+          {
+            "id": 336321630, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "336321630", 
+            "screen_name": "nanakisensei", 
+            "name": "[SNAPS POWER BAR]"
+          }, 
+          {
+            "id": 2582351552, 
+            "indices": [
+              14, 
+              22
+            ], 
+            "id_str": "2582351552", 
+            "screen_name": "istaval", 
+            "name": "\u2605"
+          }
+        ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": null, 
-      "id_str": "563427394439360512", 
+      "in_reply_to_screen_name": "nanakisensei", 
+      "id_str": "564171330053238784", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": null, 
+      "in_reply_to_user_id": 336321630, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": null, 
+      "in_reply_to_user_id_str": "336321630", 
       "lang": "en", 
-      "created_at": "Thu Feb 05 20:02:13 +0000 2015", 
-      "in_reply_to_status_id_str": null, 
+      "created_at": "Sat Feb 07 21:18:21 +0000 2015", 
+      "in_reply_to_status_id_str": "564170570737397760", 
       "place": null
     }, 
     "562844081387499520": {
@@ -8391,6 +8747,45 @@
       "in_reply_to_status_id_str": "563463079032135680", 
       "place": null
     }, 
+    "563997845695766528": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@NISHIKIKOUJl I WAS JUST GONNA MENTION SHE WAS THE MOST RELATABLE KATFER ONE", 
+      "in_reply_to_status_id": 563994597664522240, 
+      "id": 563997845695766528, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2889400906, 
+            "indices": [
+              0, 
+              13
+            ], 
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563997845695766528", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2889400906, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2889400906", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:48:59 +0000 2015", 
+      "in_reply_to_status_id_str": "563994597664522240", 
+      "place": null
+    }, 
     "562841124961017857": {
       "contributors": null, 
       "truncated": false, 
@@ -8428,55 +8823,6 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 05:12:35 +0000 2015", 
       "in_reply_to_status_id_str": "562841005830176770", 
-      "place": null
-    }, 
-    "562843758572892160": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@nanakisensei @NISHIKIKOUJl (puts a hand on your shoulder) then don't feel", 
-      "in_reply_to_status_id": 562843658660372481, 
-      "id": 562843758572892160, 
-      "favorite_count": 2, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 336321630, 
-            "indices": [
-              0, 
-              13
-            ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "\u0430\u043f\u0435\u043b\u044c\u0441\u0438\u043d\u043e\u0432\u044b\u0439 \u0441\u043e\u043a"
-          }, 
-          {
-            "id": 2889400906, 
-            "indices": [
-              14, 
-              27
-            ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "nanakisensei", 
-      "id_str": "562843758572892160", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 336321630, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "336321630", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 05:23:03 +0000 2015", 
-      "in_reply_to_status_id_str": "562843658660372481", 
       "place": null
     }, 
     "562844921829527552": {
@@ -8568,45 +8914,6 @@
       "in_reply_to_status_id_str": "563112892023971840", 
       "place": null
     }, 
-    "563879946540814336": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@maIaysia32 what did i tell you about tumblr posts regarding mbti, they're not trustworthy because most people there can't tell the", 
-      "in_reply_to_status_id": 563820194028482562, 
-      "id": 563879946540814336, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2374268090, 
-            "indices": [
-              0, 
-              11
-            ], 
-            "id_str": "2374268090", 
-            "screen_name": "maIaysia32", 
-            "name": "\u300e\uff29\uff24\uff25\uff2e\uff34\uff29\uff34\uff39\u3002\u300f"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "maIaysia32", 
-      "id_str": "563879946540814336", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2374268090, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2374268090", 
-      "lang": "en", 
-      "created_at": "Sat Feb 07 02:00:30 +0000 2015", 
-      "in_reply_to_status_id_str": "563820194028482562", 
-      "place": null
-    }, 
     "563879975506673665": {
       "contributors": null, 
       "truncated": false, 
@@ -8685,43 +8992,32 @@
       "in_reply_to_status_id_str": "563092154739089409", 
       "place": null
     }, 
-    "563439587046223873": {
+    "564170014673367041": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@NISHIKIKOUJl are you going to now? you have an excuse", 
-      "in_reply_to_status_id": 563439492405940224, 
-      "id": 563439587046223873, 
-      "favorite_count": 0, 
+      "text": "hello i arrive from sports hell", 
+      "in_reply_to_status_id": null, 
+      "id": 564170014673367041, 
+      "favorite_count": 7, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2889400906, 
-            "indices": [
-              0, 
-              13
-            ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }
-        ], 
+        "user_mentions": [], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563439587046223873", 
+      "in_reply_to_screen_name": null, 
+      "id_str": "564170014673367041", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
+      "in_reply_to_user_id": null, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
+      "in_reply_to_user_id_str": null, 
       "lang": "en", 
-      "created_at": "Thu Feb 05 20:50:40 +0000 2015", 
-      "in_reply_to_status_id_str": "563439492405940224", 
+      "created_at": "Sat Feb 07 21:13:07 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
       "place": null
     }, 
     "563101877718757376": {
@@ -8763,32 +9059,53 @@
       "in_reply_to_status_id_str": "563101330412425216", 
       "place": null
     }, 
-    "563507680744972288": {
+    "563509323049869312": {
       "contributors": null, 
       "truncated": false, 
-      "text": "gonna make a don't follow me if page and the only thing listed will be \"you have a shitty theme\" to instantly get rid of like 94% of tumblr", 
-      "in_reply_to_status_id": null, 
-      "id": 563507680744972288, 
-      "favorite_count": 9, 
+      "text": "@sadpresidents @NISHIKIKOUJl TAG YOUR TRIGGER WARNINGS!!!!!", 
+      "in_reply_to_status_id": 563509177339768833, 
+      "id": 563509323049869312, 
+      "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
-        "user_mentions": [], 
+        "user_mentions": [
+          {
+            "id": 2453295300, 
+            "indices": [
+              0, 
+              14
+            ], 
+            "id_str": "2453295300", 
+            "screen_name": "sadpresidents", 
+            "name": "yes im bishreksual"
+          }, 
+          {
+            "id": 2889400906, 
+            "indices": [
+              15, 
+              28
+            ], 
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
+          }
+        ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": null, 
-      "id_str": "563507680744972288", 
+      "in_reply_to_screen_name": "sadpresidents", 
+      "id_str": "563509323049869312", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": null, 
+      "in_reply_to_user_id": 2453295300, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": null, 
+      "in_reply_to_user_id_str": "2453295300", 
       "lang": "en", 
-      "created_at": "Fri Feb 06 01:21:15 +0000 2015", 
-      "in_reply_to_status_id_str": null, 
+      "created_at": "Fri Feb 06 01:27:46 +0000 2015", 
+      "in_reply_to_status_id_str": "563509177339768833", 
       "place": null
     }, 
     "563977226669273088": {
@@ -8986,7 +9303,7 @@
           "listed_count": 0, 
           "is_translation_enabled": false, 
           "utc_offset": -18000, 
-          "statuses_count": 10884, 
+          "statuses_count": 10888, 
           "description": "[ 20 | ENTP | ON | snk | ywpd | hatoful | personal ] hey i'm kat, political science major and your unfriendly neighborhood libertine. icon: pixiv user \u6728\u5b9f", 
           "friends_count": 59, 
           "location": "Toronto-ish", 
@@ -8999,7 +9316,7 @@
           "name": "the machimiya person", 
           "lang": "en", 
           "profile_background_tile": false, 
-          "favourites_count": 6355, 
+          "favourites_count": 6358, 
           "screen_name": "NISHIKIKOUJl", 
           "notifications": false, 
           "url": null, 
@@ -9188,6 +9505,45 @@
       "in_reply_to_status_id_str": "562814688590049280", 
       "place": null
     }, 
+    "563100718920650753": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@fIannery all knowing being that can decide if someone\u2019s rice is shit or not. fucking chill and i know that\u2019s what you wanted and you\u2019re", 
+      "in_reply_to_status_id": 563100002218962945, 
+      "id": 563100718920650753, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2912875834, 
+            "indices": [
+              0, 
+              9
+            ], 
+            "id_str": "2912875834", 
+            "screen_name": "fIannery", 
+            "name": "\u0667\u200e"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "fIannery", 
+      "id_str": "563100718920650753", 
+      "retweet_count": 1, 
+      "in_reply_to_user_id": 2912875834, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2912875834", 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 22:24:07 +0000 2015", 
+      "in_reply_to_status_id_str": "563100002218962945", 
+      "place": null
+    }, 
     "562851479292506112": {
       "contributors": null, 
       "truncated": false, 
@@ -9277,7 +9633,7 @@
           "listed_count": 0, 
           "is_translation_enabled": false, 
           "utc_offset": null, 
-          "statuses_count": 34608, 
+          "statuses_count": 34653, 
           "description": "[ Leo | 20 | enfp ]", 
           "friends_count": 73, 
           "location": "", 
@@ -9290,7 +9646,7 @@
           "name": "\u2605", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 11811, 
+          "favourites_count": 11834, 
           "screen_name": "istaval", 
           "notifications": false, 
           "url": "http://t.co/EMdFajxmab", 
@@ -9442,13 +9798,13 @@
       "in_reply_to_status_id_str": "563428544043569154", 
       "place": null
     }, 
-    "563463504225898496": {
+    "563440015150419968": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@xila0 blows a kiss", 
-      "in_reply_to_status_id": 563463378060836864, 
-      "id": 563463504225898496, 
-      "favorite_count": 0, 
+      "text": "@NISHIKIKOUJl @istaval ROUDOU", 
+      "in_reply_to_status_id": 563439917054042112, 
+      "id": 563440015150419968, 
+      "favorite_count": 2, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -9456,29 +9812,39 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 1519573460, 
+            "id": 2889400906, 
             "indices": [
               0, 
-              6
+              13
             ], 
-            "id_str": "1519573460", 
-            "screen_name": "xila0", 
-            "name": "\u5927\u86c7\uff20\u96e2\u8131\u30fb michael"
+            "id_str": "2889400906", 
+            "screen_name": "NISHIKIKOUJl", 
+            "name": "the machimiya person"
+          }, 
+          {
+            "id": 2582351552, 
+            "indices": [
+              14, 
+              22
+            ], 
+            "id_str": "2582351552", 
+            "screen_name": "istaval", 
+            "name": "\u2605"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "xila0", 
-      "id_str": "563463504225898496", 
+      "in_reply_to_screen_name": "NISHIKIKOUJl", 
+      "id_str": "563440015150419968", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 1519573460, 
+      "in_reply_to_user_id": 2889400906, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "1519573460", 
-      "lang": "en", 
-      "created_at": "Thu Feb 05 22:25:42 +0000 2015", 
-      "in_reply_to_status_id_str": "563463378060836864", 
+      "in_reply_to_user_id_str": "2889400906", 
+      "lang": "ht", 
+      "created_at": "Thu Feb 05 20:52:22 +0000 2015", 
+      "in_reply_to_status_id_str": "563439917054042112", 
       "place": null
     }, 
     "563439238956720129": {
@@ -9579,12 +9945,12 @@
       "in_reply_to_status_id_str": "562843370343890944", 
       "place": null
     }, 
-    "563769583145082881": {
+    "563989670049382400": {
       "contributors": null, 
       "truncated": false, 
-      "text": "RT @nekomeuzu: \u4e00\u5e74\u65b0\u958b http://t.co/oREdBX4JkU", 
-      "in_reply_to_status_id": null, 
-      "id": 563769583145082881, 
+      "text": "@memesicalPigeon BUT WHERE IS PHIL", 
+      "in_reply_to_status_id": 563960665753530368, 
+      "id": 563989670049382400, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -9593,281 +9959,30 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 159046636, 
+            "id": 406478942, 
             "indices": [
-              3, 
-              13
+              0, 
+              16
             ], 
-            "id_str": "159046636", 
-            "screen_name": "nekomeuzu", 
-            "name": "\u732b\u76ee"
+            "id_str": "406478942", 
+            "screen_name": "memesicalPigeon", 
+            "name": "machimichangas"
           }
         ], 
         "hashtags": [], 
-        "urls": [], 
-        "media": [
-          {
-            "source_user_id": 159046636, 
-            "source_status_id_str": "527511257960570880", 
-            "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
-            "display_url": "pic.twitter.com/oREdBX4JkU", 
-            "url": "http://t.co/oREdBX4JkU", 
-            "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
-            "source_user_id_str": "159046636", 
-            "source_status_id": 527511257960570880, 
-            "id_str": "527511256740003840", 
-            "sizes": {
-              "small": {
-                "h": 408, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "large": {
-                "h": 720, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "medium": {
-                "h": 720, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              20, 
-              42
-            ], 
-            "type": "photo", 
-            "id": 527511256740003840, 
-            "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
-          }
-        ]
+        "urls": []
       }, 
-      "in_reply_to_screen_name": null, 
-      "id_str": "563769583145082881", 
-      "retweet_count": 8, 
-      "in_reply_to_user_id": null, 
+      "in_reply_to_screen_name": "memesicalPigeon", 
+      "id_str": "563989670049382400", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 406478942, 
       "favorited": false, 
-      "retweeted_status": {
-        "contributors": null, 
-        "truncated": false, 
-        "text": "\u4e00\u5e74\u65b0\u958b http://t.co/oREdBX4JkU", 
-        "in_reply_to_status_id": null, 
-        "id": 527511257960570880, 
-        "favorite_count": 66, 
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-        "retweeted": false, 
-        "coordinates": null, 
-        "entities": {
-          "symbols": [], 
-          "user_mentions": [], 
-          "hashtags": [], 
-          "urls": [], 
-          "media": [
-            {
-              "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
-              "display_url": "pic.twitter.com/oREdBX4JkU", 
-              "url": "http://t.co/oREdBX4JkU", 
-              "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
-              "id_str": "527511256740003840", 
-              "sizes": {
-                "small": {
-                  "h": 408, 
-                  "resize": "fit", 
-                  "w": 340
-                }, 
-                "large": {
-                  "h": 720, 
-                  "resize": "fit", 
-                  "w": 600
-                }, 
-                "medium": {
-                  "h": 720, 
-                  "resize": "fit", 
-                  "w": 600
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "indices": [
-                5, 
-                27
-              ], 
-              "type": "photo", 
-              "id": 527511256740003840, 
-              "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
-            }
-          ]
-        }, 
-        "in_reply_to_screen_name": null, 
-        "id_str": "527511257960570880", 
-        "retweet_count": 8, 
-        "in_reply_to_user_id": null, 
-        "favorited": false, 
-        "user": {
-          "follow_request_sent": false, 
-          "profile_use_background_image": true, 
-          "profile_text_color": "D6186D", 
-          "default_profile_image": false, 
-          "id": 159046636, 
-          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000012042142/aec9c929e12d29342db1214f5e0981e2.png", 
-          "verified": false, 
-          "profile_location": null, 
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/562029134126141440/iHhJjANR_normal.jpeg", 
-          "profile_sidebar_fill_color": "FCFBD3", 
-          "entities": {
-            "description": {
-              "urls": [
-                {
-                  "url": "http://t.co/ZxJ1MI6xdH", 
-                  "indices": [
-                    35, 
-                    57
-                  ], 
-                  "expanded_url": "http://www.pixiv.net/member.php?id=1697147", 
-                  "display_url": "pixiv.net/member.php?id=\u2026"
-                }
-              ]
-            }
-          }, 
-          "followers_count": 2866, 
-          "profile_sidebar_border_color": "FFFFFF", 
-          "id_str": "159046636", 
-          "profile_background_color": "0E8C8F", 
-          "listed_count": 100, 
-          "is_translation_enabled": false, 
-          "utc_offset": 32400, 
-          "statuses_count": 67973, 
-          "description": "\u9b3c\u5fb9\uff08\u9b3c\u767d\u9b3c\uff09\u30fb\u5f31\u30da\u30c0\uff08\u8352\u6771\u4e2d\u5fc3\u306b\u96d1\u98df\uff09\u25a0\u30b8\u30e3\u30f3\u30eb\u96d1\u591a\u3001\u6642\u3005\u30b3\u30b9\n\u25a0 http://t.co/ZxJ1MI6xdH", 
-          "friends_count": 342, 
-          "location": "", 
-          "profile_link_color": "9266CC", 
-          "profile_image_url": "http://pbs.twimg.com/profile_images/562029134126141440/iHhJjANR_normal.jpeg", 
-          "following": false, 
-          "geo_enabled": false, 
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/159046636/1423162555", 
-          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000012042142/aec9c929e12d29342db1214f5e0981e2.png", 
-          "name": "\u732b\u76ee", 
-          "lang": "ja", 
-          "profile_background_tile": true, 
-          "favourites_count": 3107, 
-          "screen_name": "nekomeuzu", 
-          "notifications": false, 
-          "url": null, 
-          "created_at": "Thu Jun 24 09:06:09 +0000 2010", 
-          "contributors_enabled": false, 
-          "time_zone": "Tokyo", 
-          "protected": false, 
-          "default_profile": false, 
-          "is_translator": false
-        }, 
-        "geo": null, 
-        "in_reply_to_user_id_str": null, 
-        "possibly_sensitive": false, 
-        "lang": "ja", 
-        "created_at": "Wed Oct 29 17:24:19 +0000 2014", 
-        "in_reply_to_status_id_str": null, 
-        "place": null, 
-        "extended_entities": {
-          "media": [
-            {
-              "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
-              "display_url": "pic.twitter.com/oREdBX4JkU", 
-              "url": "http://t.co/oREdBX4JkU", 
-              "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
-              "id_str": "527511256740003840", 
-              "sizes": {
-                "small": {
-                  "h": 408, 
-                  "resize": "fit", 
-                  "w": 340
-                }, 
-                "large": {
-                  "h": 720, 
-                  "resize": "fit", 
-                  "w": 600
-                }, 
-                "medium": {
-                  "h": 720, 
-                  "resize": "fit", 
-                  "w": 600
-                }, 
-                "thumb": {
-                  "h": 150, 
-                  "resize": "crop", 
-                  "w": 150
-                }
-              }, 
-              "indices": [
-                5, 
-                27
-              ], 
-              "type": "photo", 
-              "id": 527511256740003840, 
-              "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
-            }
-          ]
-        }
-      }, 
       "geo": null, 
-      "in_reply_to_user_id_str": null, 
-      "possibly_sensitive": false, 
-      "lang": "ja", 
-      "created_at": "Fri Feb 06 18:41:57 +0000 2015", 
-      "in_reply_to_status_id_str": null, 
-      "place": null, 
-      "extended_entities": {
-        "media": [
-          {
-            "source_user_id": 159046636, 
-            "source_status_id_str": "527511257960570880", 
-            "expanded_url": "http://twitter.com/nekomeuzu/status/527511257960570880/photo/1", 
-            "display_url": "pic.twitter.com/oREdBX4JkU", 
-            "url": "http://t.co/oREdBX4JkU", 
-            "media_url_https": "https://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg", 
-            "source_user_id_str": "159046636", 
-            "source_status_id": 527511257960570880, 
-            "id_str": "527511256740003840", 
-            "sizes": {
-              "small": {
-                "h": 408, 
-                "resize": "fit", 
-                "w": 340
-              }, 
-              "large": {
-                "h": 720, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "medium": {
-                "h": 720, 
-                "resize": "fit", 
-                "w": 600
-              }, 
-              "thumb": {
-                "h": 150, 
-                "resize": "crop", 
-                "w": 150
-              }
-            }, 
-            "indices": [
-              20, 
-              42
-            ], 
-            "type": "photo", 
-            "id": 527511256740003840, 
-            "media_url": "http://pbs.twimg.com/media/B1IYsXECAAA-1K-.jpg"
-          }
-        ]
-      }
+      "in_reply_to_user_id_str": "406478942", 
+      "lang": "en", 
+      "created_at": "Sat Feb 07 09:16:30 +0000 2015", 
+      "in_reply_to_status_id_str": "563960665753530368", 
+      "place": null
     }, 
     "563092487120883714": {
       "contributors": null, 
@@ -9937,7 +10052,7 @@
       }, 
       "in_reply_to_screen_name": null, 
       "id_str": "563418221790126080", 
-      "retweet_count": 7507, 
+      "retweet_count": 7510, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
       "retweeted_status": {
@@ -9946,7 +10061,7 @@
         "text": "CONGRATULATIONS!\nYOU'VE COMPLETED LIFE!\nYOU PLAYED AS: white male\nCHOOSE ONE:\nA) PLAY TUTORIAL AGAIN\nB) TRY A HARDER SETTING", 
         "in_reply_to_status_id": null, 
         "id": 527601101194133504, 
-        "favorite_count": 13666, 
+        "favorite_count": 13669, 
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -9958,7 +10073,7 @@
         }, 
         "in_reply_to_screen_name": null, 
         "id_str": "527601101194133504", 
-        "retweet_count": 7507, 
+        "retweet_count": 7510, 
         "in_reply_to_user_id": null, 
         "favorited": false, 
         "user": {
@@ -9990,14 +10105,14 @@
               "urls": []
             }
           }, 
-          "followers_count": 23853, 
+          "followers_count": 23855, 
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "23008342", 
           "profile_background_color": "131516", 
           "listed_count": 711, 
           "is_translation_enabled": false, 
           "utc_offset": -28800, 
-          "statuses_count": 42317, 
+          "statuses_count": 42318, 
           "description": "7 time 5th grade speling champion", 
           "friends_count": 1744, 
           "location": "Los Angeles", 
@@ -10010,7 +10125,7 @@
           "name": "Dave Ditell", 
           "lang": "en", 
           "profile_background_tile": true, 
-          "favourites_count": 128377, 
+          "favourites_count": 128379, 
           "screen_name": "davedittell", 
           "notifications": false, 
           "url": "http://t.co/tI5c4j4EQd", 
@@ -10063,12 +10178,12 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
-    "562821350168227840": {
+    "563463893021110273": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@niinajunpei PEEJ mentioned this person ages ago. they're in", 
-      "in_reply_to_status_id": 562821035402461186, 
-      "id": 562821350168227840, 
+      "text": "@xila0 COME BACK, MIDOUSUJI!!!!!", 
+      "in_reply_to_status_id": 563463764050079744, 
+      "id": 563463893021110273, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -10077,107 +10192,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 1548993056, 
+            "id": 1519573460, 
             "indices": [
               0, 
-              12
+              6
             ], 
-            "id_str": "1548993056", 
-            "screen_name": "niinajunpei", 
-            "name": "hannigram season 3"
+            "id_str": "1519573460", 
+            "screen_name": "xila0", 
+            "name": "\u5927\u86c7\uff20\u96e2\u8131\u30fb michael"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "niinajunpei", 
-      "id_str": "562821350168227840", 
+      "in_reply_to_screen_name": "xila0", 
+      "id_str": "563463893021110273", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 1548993056, 
+      "in_reply_to_user_id": 1519573460, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "1548993056", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 03:54:01 +0000 2015", 
-      "in_reply_to_status_id_str": "562821035402461186", 
-      "place": null
-    }, 
-    "562783531978731520": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@sadpresidents what post", 
-      "in_reply_to_status_id": 562783331532947457, 
-      "id": 562783531978731520, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2453295300, 
-            "indices": [
-              0, 
-              14
-            ], 
-            "id_str": "2453295300", 
-            "screen_name": "sadpresidents", 
-            "name": "yes im bishreksual"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "sadpresidents", 
-      "id_str": "562783531978731520", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2453295300, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2453295300", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 01:23:44 +0000 2015", 
-      "in_reply_to_status_id_str": "562783331532947457", 
-      "place": null
-    }, 
-    "562786738763223042": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@istaval wakeup steakslap", 
-      "in_reply_to_status_id": 562786518218321920, 
-      "id": 562786738763223042, 
-      "favorite_count": 1, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2582351552, 
-            "indices": [
-              0, 
-              8
-            ], 
-            "id_str": "2582351552", 
-            "screen_name": "istaval", 
-            "name": "\u2605"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "istaval", 
-      "id_str": "562786738763223042", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2582351552, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2582351552", 
-      "lang": "nl", 
-      "created_at": "Wed Feb 04 01:36:29 +0000 2015", 
-      "in_reply_to_status_id_str": "562786518218321920", 
+      "in_reply_to_user_id_str": "1519573460", 
+      "lang": "es", 
+      "created_at": "Thu Feb 05 22:27:15 +0000 2015", 
+      "in_reply_to_status_id_str": "563463764050079744", 
       "place": null
     }, 
     "563100748012326912": {
@@ -10297,13 +10334,13 @@
       "in_reply_to_status_id_str": "563462971687313408", 
       "place": null
     }, 
-    "563445263810179072": {
+    "563449696837185536": {
       "contributors": null, 
       "truncated": false, 
-      "text": "@NISHIKIKOUJl @nanakisensei \u25d4_\u25d4", 
-      "in_reply_to_status_id": 563445133887434752, 
-      "id": 563445263810179072, 
-      "favorite_count": 0, 
+      "text": "@LOG1CALDIVE YOU SON OF A........ KRATOS?", 
+      "in_reply_to_status_id": 563448975513366528, 
+      "id": 563449696837185536, 
+      "favorite_count": 2, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
@@ -10311,39 +10348,29 @@
         "symbols": [], 
         "user_mentions": [
           {
-            "id": 2889400906, 
+            "id": 2298280076, 
             "indices": [
               0, 
-              13
+              12
             ], 
-            "id_str": "2889400906", 
-            "screen_name": "NISHIKIKOUJl", 
-            "name": "the machimiya person"
-          }, 
-          {
-            "id": 336321630, 
-            "indices": [
-              14, 
-              27
-            ], 
-            "id_str": "336321630", 
-            "screen_name": "nanakisensei", 
-            "name": "[SNAPS POWER BAR]"
+            "id_str": "2298280076", 
+            "screen_name": "LOG1CALDIVE", 
+            "name": "yara"
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
-      "in_reply_to_screen_name": "NISHIKIKOUJl", 
-      "id_str": "563445263810179072", 
+      "in_reply_to_screen_name": "LOG1CALDIVE", 
+      "id_str": "563449696837185536", 
       "retweet_count": 0, 
-      "in_reply_to_user_id": 2889400906, 
+      "in_reply_to_user_id": 2298280076, 
       "favorited": false, 
       "geo": null, 
-      "in_reply_to_user_id_str": "2889400906", 
-      "lang": "und", 
-      "created_at": "Thu Feb 05 21:13:13 +0000 2015", 
-      "in_reply_to_status_id_str": "563445133887434752", 
+      "in_reply_to_user_id_str": "2298280076", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 21:30:50 +0000 2015", 
+      "in_reply_to_status_id_str": "563448975513366528", 
       "place": null
     }, 
     "563523808980529152": {
@@ -10610,48 +10637,9 @@
       "created_at": "Sat Feb 07 02:01:14 +0000 2015", 
       "in_reply_to_status_id_str": "563820194028482562", 
       "place": null
-    }, 
-    "562786364165734400": {
-      "contributors": null, 
-      "truncated": false, 
-      "text": "@coxytown probably because YOU HAVE NO SHAME just leaving that there", 
-      "in_reply_to_status_id": 562784303105712128, 
-      "id": 562786364165734400, 
-      "favorite_count": 0, 
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-      "retweeted": false, 
-      "coordinates": null, 
-      "entities": {
-        "symbols": [], 
-        "user_mentions": [
-          {
-            "id": 2441313791, 
-            "indices": [
-              0, 
-              9
-            ], 
-            "id_str": "2441313791", 
-            "screen_name": "coxytown", 
-            "name": "liv liver"
-          }
-        ], 
-        "hashtags": [], 
-        "urls": []
-      }, 
-      "in_reply_to_screen_name": "coxytown", 
-      "id_str": "562786364165734400", 
-      "retweet_count": 0, 
-      "in_reply_to_user_id": 2441313791, 
-      "favorited": false, 
-      "geo": null, 
-      "in_reply_to_user_id_str": "2441313791", 
-      "lang": "en", 
-      "created_at": "Wed Feb 04 01:34:59 +0000 2015", 
-      "in_reply_to_status_id_str": "562784303105712128", 
-      "place": null
     }
   }, 
-  "mbti type": "intj", 
+  "mbti type": "INTJ", 
   "user": {
     "follow_request_sent": false, 
     "profile_use_background_image": true, 
@@ -10688,7 +10676,7 @@
     "listed_count": 1, 
     "is_translation_enabled": false, 
     "utc_offset": -10800, 
-    "statuses_count": 11763, 
+    "statuses_count": 11771, 
     "description": "But that is ridiculous, as reptiles have no idea what communism even is || @peejito is my bpd arakita (icon by @ppkpie)", 
     "friends_count": 57, 
     "location": "fer / 17 / entp", 
@@ -10698,10 +10686,10 @@
     "geo_enabled": false, 
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673006876/1417887871", 
     "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/541287489453826050/D8X47Csa.png", 
-    "name": "TOUDOU! (Running)", 
+    "name": "where's phil", 
     "lang": "en-gb", 
     "profile_background_tile": true, 
-    "favourites_count": 9168, 
+    "favourites_count": 9171, 
     "screen_name": "ryouibitani", 
     "notifications": false, 
     "url": "http://t.co/kB2tJYINT0", 
