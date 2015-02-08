@@ -26,7 +26,6 @@ class Sample:
         splitpos = filename.find('_')
         self.type = filename[0:splitpos]
         self.twitName = filename[splitpos+1:-5]
-        print "x"
         with open(file) as json_data:
             try:
                 loaded = json.load(json_data)

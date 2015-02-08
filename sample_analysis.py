@@ -8,8 +8,6 @@ import Sample
 path = "data"
 
 
-
-
 def encode_type(type):
     type = type.lower()
     encoded = []
