@@ -1,24 +1,21 @@
 __author__ = 'calvindudek'
 
-from util import JsonHandler as json
-import document
+import json
 
 class Evaluation():
 
-  def __init__(self, classifier):
-    self.ec_list = list()      # every element is a tuple (sentence, ec)
-    self.classifier = classifier
-    self.labels = self.classifier.trigger_fh.labels
-    self.arg_labels = self.classifier.argument_fh.labels
+  def __init__(self):
+    self.predictions = list()      # every element is a tuple (sentence, ec)
+    self.path = "../accuracy_results.json"
+    self.labels = ['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ','ENFP','ENTJ','ENTP','ESFJ','ESFP','ESTJ','ESTP']
 
 
-  def readResultsFromFile(self, docs):
-    # docs = json.getJsonDocuments(path)
-    for doc in docs:
-      doc_obj = document.Document(doc)
-      for sentence in doc_obj.getSentences():
-        for ec in sentence.getEventCandidates():
-          self.ec_list.append([sentence, ec])
+
+  def readResultsFromFile(self):
+    self.predictions = json.loads(open(self.path).read())
+    print self.predictions
+    # doc_obj = document.Document(doc)
+
 
 
 
@@ -33,9 +30,9 @@ class Evaluation():
       for label_inner in self.labels:
         named_matrix[label][label_inner] = 0.0
 
-    for ec_element in self.ec_list:
-      actual_class = ec_element[1].gold
-      predicted_class = self.classifier.classifyTrigger(ec_element[0], ec_element[1])
+    for element in self.predictions:
+      actual_class = element["type"]
+      predicted_class = element["prediction"]
       named_matrix[actual_class][predicted_class] += 1.0
 
     for label in self.labels:
@@ -60,7 +57,7 @@ class Evaluation():
     return cm
 
 
-  def getResults(self, arg_type):
+  def getResults(self):
 
 
     label_metrics = self.getLabelMetrics()
@@ -68,7 +65,7 @@ class Evaluation():
     # print label_metrics
     # NxN Matrix for Error Analysis
     print "##############################"
-    print "### %s LABEL CONFUSION MATRIX ###" % arg_type.upper()
+    print "### LABEL CONFUSION MATRIX ###"
     print "###############################"
     print label_metrics
 
@@ -76,7 +73,7 @@ class Evaluation():
     recall_sum = 0
     n = 0
     print "##############################"
-    print "### %s MICRO RESULTS ###" % arg_type.upper()
+    print "### MICRO RESULTS ###"
     print "###############################"
     for label in label_metrics:
       if label != "None":
@@ -97,7 +94,7 @@ class Evaluation():
     f1 = self.total_f1measure(precision, recall)
     print "\n"
     print "#############################"
-    print "### %s MACRO RESULTS ###" % arg_type.upper()
+    print "### MACRO RESULTS ###"
     print "#############################"
 
 
