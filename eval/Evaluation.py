@@ -9,8 +9,6 @@ class Evaluation():
     self.labels = ['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ','ENFP','ENTJ','ENTP','ESFJ','ESFP','ESTJ','ESTP']
     self.predictions = self.readResultsFromFile()      # every element is a tuple (sentence, ec)
 
-
-
   def readResultsFromFile(self):
     self.predictions = json.loads(open(self.path).read())
     print self.predictions

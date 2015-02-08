@@ -24,6 +24,6 @@ def account_for_baseline(data):
     for x in distribution_factor:
         distribution_factor[x]=round((count[x] / float(total)) / float(mbti_twitter_baseline[x]), 4)
     print distribution_factor
-    return[distribution_factor]
+    return distribution_factor
 
 account_for_baseline(get_follower_types("bmw"))
