@@ -18,10 +18,6 @@ def main():
             user = User(id, mbti_type)
             n=1+n
 
-    #   Log Linear Model
-    #  LLC = LinearClassifier()
-    #  LLC.trainArguments(docs)
-    #  LLC.perceptron(docs, 10)
 
 if __name__ == '__main__':
   main()

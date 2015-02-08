@@ -3427,7 +3427,11 @@
               "urls": []
             }
           }, 
+<<<<<<< HEAD:data/INFP_essThanVince.json
+          "followers_count": 374691, 
+=======
           "followers_count": 374692, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449:data/INFP_essThanVince.json
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "1019043228", 
           "profile_background_color": "FFFFFF", 
@@ -5414,7 +5418,11 @@
               "urls": []
             }
           }, 
+<<<<<<< HEAD:data/INFP_essThanVince.json
+          "followers_count": 14671420, 
+=======
           "followers_count": 14671423, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449:data/INFP_essThanVince.json
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "115485051", 
           "profile_background_color": "FFFFFF", 
@@ -5679,7 +5687,11 @@
               "urls": []
             }
           }, 
+<<<<<<< HEAD:data/INFP_essThanVince.json
+          "followers_count": 14671420, 
+=======
           "followers_count": 14671423, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449:data/INFP_essThanVince.json
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "115485051", 
           "profile_background_color": "FFFFFF", 
@@ -14421,7 +14433,11 @@
           "name": "Gladstone", 
           "lang": "en", 
           "profile_background_tile": false, 
+<<<<<<< HEAD:data/INFP_essThanVince.json
+          "favourites_count": 16378, 
+=======
           "favourites_count": 16379, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449:data/INFP_essThanVince.json
           "screen_name": "WGladstone", 
           "notifications": false, 
           "url": "http://t.co/LDUeCBhbRz", 

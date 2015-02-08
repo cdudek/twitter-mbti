@@ -2469,7 +2469,11 @@
               ]
             }
           }, 
+<<<<<<< HEAD
+          "followers_count": 42920, 
+=======
           "followers_count": 42922, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "421830010", 
           "profile_background_color": "C0DEED", 

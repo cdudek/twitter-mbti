@@ -28,18 +28,54 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
+<<<<<<< HEAD
+    "564170190271680512": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@soulpnks !!!!!!!!!!!!!!!!!!!!!!!!!!!!!", 
+      "in_reply_to_status_id": 564169891692158976, 
+      "id": 564170190271680512, 
+=======
     "564172583084371969": {
       "contributors": null, 
       "truncated": false, 
       "text": "IT KNOWS THE PLAN", 
       "in_reply_to_status_id": null, 
       "id": 564172583084371969, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
+<<<<<<< HEAD
+        "user_mentions": [
+          {
+            "id": 324111234, 
+            "indices": [
+              0, 
+              9
+            ], 
+            "id_str": "324111234", 
+            "screen_name": "soulpnks", 
+            "name": "avery! at the walnut"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "soulpnks", 
+      "id_str": "564170190271680512", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 324111234, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "324111234", 
+      "lang": "und", 
+      "created_at": "Sat Feb 07 21:13:49 +0000 2015", 
+      "in_reply_to_status_id_str": "564169891692158976", 
+=======
         "user_mentions": [], 
         "hashtags": [], 
         "urls": []
@@ -54,6 +90,7 @@
       "lang": "en", 
       "created_at": "Sat Feb 07 21:23:20 +0000 2015", 
       "in_reply_to_status_id_str": null, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "place": null
     }, 
     "564163782872551426": {
@@ -1023,7 +1060,11 @@
           "profile_sidebar_border_color": "C0DEED", 
           "id_str": "2944796380", 
           "profile_background_color": "C0DEED", 
+<<<<<<< HEAD
+          "listed_count": 141, 
+=======
           "listed_count": 142, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "is_translation_enabled": false, 
           "utc_offset": null, 
           "statuses_count": 1029, 
@@ -1652,7 +1693,11 @@
         "text": "I cut my hair short today. http://t.co/vjQ8nGy7HP", 
         "in_reply_to_status_id": null, 
         "id": 563895809838567425, 
+<<<<<<< HEAD
+        "favorite_count": 82716, 
+=======
         "favorite_count": 82720, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
         "retweeted": false, 
         "coordinates": null, 
@@ -1734,7 +1779,11 @@
               "urls": []
             }
           }, 
+<<<<<<< HEAD
+          "followers_count": 28581238, 
+=======
           "followers_count": 28581250, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "profile_sidebar_border_color": "EEEEEE", 
           "id_str": "25365536", 
           "profile_background_color": "131516", 
@@ -2049,7 +2098,11 @@
           "listed_count": 0, 
           "is_translation_enabled": true, 
           "utc_offset": 0, 
+<<<<<<< HEAD
+          "statuses_count": 2322, 
+=======
           "statuses_count": 2323, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "description": "Intelligent Twitter Bot designed to tweet with the personality of @PatrickStump. Tweet me, I will reply!", 
           "friends_count": 4, 
           "location": "not a real bot", 
@@ -2114,6 +2167,15 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
+<<<<<<< HEAD
+    "563131450501763072": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@patricstumptbot are u happy fall out boy has been back 4 two years", 
+      "in_reply_to_status_id": null, 
+      "id": 563131450501763072, 
+      "favorite_count": 0, 
+=======
     "563589909038895104": {
       "contributors": null, 
       "truncated": false, 
@@ -2121,11 +2183,38 @@
       "in_reply_to_status_id": null, 
       "id": 563589909038895104, 
       "favorite_count": 1, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
+<<<<<<< HEAD
+        "user_mentions": [
+          {
+            "id": 3002499232, 
+            "indices": [
+              0, 
+              16
+            ], 
+            "id_str": "3002499232", 
+            "screen_name": "PatricStumpTBot", 
+            "name": "Patrick Bot"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "PatricStumpTBot", 
+      "id_str": "563131450501763072", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 3002499232, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "3002499232", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 00:26:14 +0000 2015", 
+=======
         "user_mentions": [], 
         "hashtags": [], 
         "urls": []
@@ -2139,6 +2228,7 @@
       "in_reply_to_user_id_str": null, 
       "lang": "en", 
       "created_at": "Fri Feb 06 06:47:59 +0000 2015", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
@@ -2265,6 +2355,58 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
+<<<<<<< HEAD
+    "563384769530957824": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@bitchific @dylanobrien SAME OMG I WAS LIKE YES GO OFF", 
+      "in_reply_to_status_id": 563381444471296000, 
+      "id": 563384769530957824, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2907887270, 
+            "indices": [
+              0, 
+              10
+            ], 
+            "id_str": "2907887270", 
+            "screen_name": "bitchific", 
+            "name": "sc gustin"
+          }, 
+          {
+            "id": 281766200, 
+            "indices": [
+              11, 
+              23
+            ], 
+            "id_str": "281766200", 
+            "screen_name": "dylanobrien", 
+            "name": "Dylan O'Brien"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "bitchific", 
+      "id_str": "563384769530957824", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2907887270, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2907887270", 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 17:12:50 +0000 2015", 
+      "in_reply_to_status_id_str": "563381444471296000", 
+      "place": null
+    }, 
+=======
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
     "563921488810491906": {
       "contributors": null, 
       "truncated": false, 
@@ -3451,6 +3593,8 @@
       "in_reply_to_status_id_str": "563253523286986752", 
       "place": null
     }, 
+<<<<<<< HEAD
+=======
     "563847181199609856": {
       "contributors": null, 
       "truncated": false, 
@@ -3490,6 +3634,7 @@
       "in_reply_to_status_id_str": "563802995209818112", 
       "place": null
     }, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
     "563194389770412032": {
       "contributors": null, 
       "truncated": false, 
@@ -3585,18 +3730,43 @@
       "in_reply_to_status_id_str": "564169942660956160", 
       "place": null
     }, 
+<<<<<<< HEAD
+    "563955361913114624": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "KIM", 
+      "in_reply_to_status_id": null, 
+      "id": 563955361913114624, 
+=======
     "564170190271680512": {
       "contributors": null, 
       "truncated": false, 
       "text": "@soulpnks !!!!!!!!!!!!!!!!!!!!!!!!!!!!!", 
       "in_reply_to_status_id": 564169891692158976, 
       "id": 564170190271680512, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
+<<<<<<< HEAD
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563955361913114624", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "und", 
+      "created_at": "Sat Feb 07 07:00:10 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+=======
         "user_mentions": [
           {
             "id": 324111234, 
@@ -3622,6 +3792,7 @@
       "lang": "und", 
       "created_at": "Sat Feb 07 21:13:49 +0000 2015", 
       "in_reply_to_status_id_str": "564169891692158976", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "place": null
     }, 
     "563501806777421824": {
@@ -3786,7 +3957,11 @@
               "urls": []
             }
           }, 
+<<<<<<< HEAD
+          "followers_count": 3392208, 
+=======
           "followers_count": 3392209, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "profile_sidebar_border_color": "000000", 
           "id_str": "61003804", 
           "profile_background_color": "FFFFFF", 
@@ -4562,7 +4737,11 @@
               "urls": []
             }
           }, 
+<<<<<<< HEAD
+          "followers_count": 3192368, 
+=======
           "followers_count": 3192370, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "16264006", 
           "profile_background_color": "9AE4E8", 
@@ -4713,12 +4892,21 @@
       "in_reply_to_status_id_str": "563307227617198080", 
       "place": null
     }, 
+<<<<<<< HEAD
+    "562882784478658560": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@dickbangarang same lol i wasn't even into them at the time but im still so CRY", 
+      "in_reply_to_status_id": 562881190144016384, 
+      "id": 562882784478658560, 
+=======
     "563045201351311360": {
       "contributors": null, 
       "truncated": false, 
       "text": "@ALLCAPSLYRICS how dare u", 
       "in_reply_to_status_id": 563043953583611905, 
       "id": 563045201351311360, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -4727,19 +4915,41 @@
         "symbols": [], 
         "user_mentions": [
           {
+<<<<<<< HEAD
+            "id": 1617495451, 
+=======
             "id": 2944796380, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
             "indices": [
               0, 
               14
             ], 
+<<<<<<< HEAD
+            "id_str": "1617495451", 
+            "screen_name": "dickbangarang", 
+            "name": "deact(iva)ing"
+=======
             "id_str": "2944796380", 
             "screen_name": "ALLCAPSLYRICS", 
             "name": "ALLCAPSLYRICS"
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
+<<<<<<< HEAD
+      "in_reply_to_screen_name": "dickbangarang", 
+      "id_str": "562882784478658560", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 1617495451, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "1617495451", 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 07:58:08 +0000 2015", 
+      "in_reply_to_status_id_str": "562881190144016384", 
+=======
       "in_reply_to_screen_name": "ALLCAPSLYRICS", 
       "id_str": "563045201351311360", 
       "retweet_count": 0, 
@@ -4750,6 +4960,7 @@
       "lang": "en", 
       "created_at": "Wed Feb 04 18:43:31 +0000 2015", 
       "in_reply_to_status_id_str": "563043953583611905", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "place": null
     }, 
     "563044911671693312": {
@@ -5427,7 +5638,11 @@
               ]
             }
           }, 
+<<<<<<< HEAD
+          "followers_count": 1355942, 
+=======
           "followers_count": 1355943, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "profile_sidebar_border_color": "FFFFFF", 
           "id_str": "16212952", 
           "profile_background_color": "000000", 
@@ -5746,7 +5961,11 @@
           "listed_count": 0, 
           "is_translation_enabled": true, 
           "utc_offset": 0, 
+<<<<<<< HEAD
+          "statuses_count": 2322, 
+=======
           "statuses_count": 2323, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "description": "Intelligent Twitter Bot designed to tweet with the personality of @PatrickStump. Tweet me, I will reply!", 
           "friends_count": 4, 
           "location": "not a real bot", 
@@ -7202,7 +7421,11 @@
               "urls": []
             }
           }, 
+<<<<<<< HEAD
+          "followers_count": 213636, 
+=======
           "followers_count": 213637, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           "profile_sidebar_border_color": "000000", 
           "id_str": "24840127", 
           "profile_background_color": "000000", 
@@ -7286,12 +7509,21 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
+<<<<<<< HEAD
+    "563589909038895104": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "im so tired i think im dead and i have to finish DRAWING THIS WOLF", 
+      "in_reply_to_status_id": null, 
+      "id": 563589909038895104, 
+=======
     "563593839177240576": {
       "contributors": null, 
       "truncated": false, 
       "text": "im so sad im almost caught up on parks and rec i dont want it to be over )):", 
       "in_reply_to_status_id": null, 
       "id": 563593839177240576, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -7303,14 +7535,22 @@
         "urls": []
       }, 
       "in_reply_to_screen_name": null, 
+<<<<<<< HEAD
+      "id_str": "563589909038895104", 
+=======
       "id_str": "563593839177240576", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "retweet_count": 0, 
       "in_reply_to_user_id": null, 
       "favorited": false, 
       "geo": null, 
       "in_reply_to_user_id_str": null, 
       "lang": "en", 
+<<<<<<< HEAD
+      "created_at": "Fri Feb 06 06:47:59 +0000 2015", 
+=======
       "created_at": "Fri Feb 06 07:03:36 +0000 2015", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
@@ -7497,6 +7737,16 @@
       "in_reply_to_status_id_str": "563849886547066880", 
       "place": null
     }, 
+<<<<<<< HEAD
+    "563593839177240576": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "im so sad im almost caught up on parks and rec i dont want it to be over )):", 
+      "in_reply_to_status_id": null, 
+      "id": 563593839177240576, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+=======
     "563384769530957824": {
       "contributors": null, 
       "truncated": false, 
@@ -7505,10 +7755,27 @@
       "id": 563384769530957824, 
       "favorite_count": 1, 
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
+<<<<<<< HEAD
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563593839177240576", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Fri Feb 06 07:03:36 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+=======
         "user_mentions": [
           {
             "id": 2907887270, 
@@ -7544,6 +7811,7 @@
       "lang": "en", 
       "created_at": "Thu Feb 05 17:12:50 +0000 2015", 
       "in_reply_to_status_id_str": "563381444471296000", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "place": null
     }, 
     "563211862645276673": {
@@ -7948,12 +8216,21 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
+<<<<<<< HEAD
+    "563045201351311360": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@ALLCAPSLYRICS how dare u", 
+      "in_reply_to_status_id": 563043953583611905, 
+      "id": 563045201351311360, 
+=======
     "563131450501763072": {
       "contributors": null, 
       "truncated": false, 
       "text": "@patricstumptbot are u happy fall out boy has been back 4 two years", 
       "in_reply_to_status_id": null, 
       "id": 563131450501763072, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
       "retweeted": false, 
@@ -7962,6 +8239,16 @@
         "symbols": [], 
         "user_mentions": [
           {
+<<<<<<< HEAD
+            "id": 2944796380, 
+            "indices": [
+              0, 
+              14
+            ], 
+            "id_str": "2944796380", 
+            "screen_name": "ALLCAPSLYRICS", 
+            "name": "ALLCAPSLYRICS"
+=======
             "id": 3002499232, 
             "indices": [
               0, 
@@ -7970,11 +8257,24 @@
             "id_str": "3002499232", 
             "screen_name": "PatricStumpTBot", 
             "name": "Patrick Bot"
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
           }
         ], 
         "hashtags": [], 
         "urls": []
       }, 
+<<<<<<< HEAD
+      "in_reply_to_screen_name": "ALLCAPSLYRICS", 
+      "id_str": "563045201351311360", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 2944796380, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "2944796380", 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 18:43:31 +0000 2015", 
+      "in_reply_to_status_id_str": "563043953583611905", 
+=======
       "in_reply_to_screen_name": "PatricStumpTBot", 
       "id_str": "563131450501763072", 
       "retweet_count": 0, 
@@ -7985,6 +8285,7 @@
       "lang": "en", 
       "created_at": "Thu Feb 05 00:26:14 +0000 2015", 
       "in_reply_to_status_id_str": null, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "place": null
     }, 
     "563214069130199040": {
@@ -8457,6 +8758,37 @@
         ]
       }
     }, 
+<<<<<<< HEAD
+    "562880826682392576": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "{food}\nLAST YEAR I CELEBRATED BY EATING STRAWBERRY PIE AND LISTENING TO THEIR ENTIRE DISCOG I RMR", 
+      "in_reply_to_status_id": null, 
+      "id": 562880826682392576, 
+      "favorite_count": 2, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562880826682392576", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 07:50:21 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+=======
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
     "563855914499727360": {
       "contributors": null, 
       "truncated": false, 
@@ -8708,6 +9040,8 @@
       "in_reply_to_status_id_str": null, 
       "place": null
     }, 
+<<<<<<< HEAD
+=======
     "562882784478658560": {
       "contributors": null, 
       "truncated": false, 
@@ -8747,6 +9081,7 @@
       "in_reply_to_status_id_str": "562881190144016384", 
       "place": null
     }, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
     "563053813503123457": {
       "contributors": null, 
       "truncated": false, 
@@ -9942,6 +10277,16 @@
       "in_reply_to_status_id_str": "563521144112689152", 
       "place": null
     }, 
+<<<<<<< HEAD
+    "563847181199609856": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "@WeBuiltTheMoon ok what about northern cali/the bay PLEASE", 
+      "in_reply_to_status_id": 563802995209818112, 
+      "id": 563847181199609856, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+=======
     "563955361913114624": {
       "contributors": null, 
       "truncated": false, 
@@ -9950,10 +10295,38 @@
       "id": 563955361913114624, 
       "favorite_count": 0, 
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "retweeted": false, 
       "coordinates": null, 
       "entities": {
         "symbols": [], 
+<<<<<<< HEAD
+        "user_mentions": [
+          {
+            "id": 1710008304, 
+            "indices": [
+              0, 
+              15
+            ], 
+            "id_str": "1710008304", 
+            "screen_name": "WeBuiltTheMoon", 
+            "name": "We Built The Moon"
+          }
+        ], 
+        "hashtags": [], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": "WeBuiltTheMoon", 
+      "id_str": "563847181199609856", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": 1710008304, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": "1710008304", 
+      "lang": "en", 
+      "created_at": "Fri Feb 06 23:50:18 +0000 2015", 
+      "in_reply_to_status_id_str": "563802995209818112", 
+=======
         "user_mentions": [], 
         "hashtags": [], 
         "urls": []
@@ -9968,6 +10341,7 @@
       "lang": "und", 
       "created_at": "Sat Feb 07 07:00:10 +0000 2015", 
       "in_reply_to_status_id_str": null, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
       "place": null
     }, 
     "563615318384189441": {
@@ -12194,7 +12568,11 @@
     "listed_count": 3, 
     "is_translation_enabled": false, 
     "utc_offset": -28800, 
+<<<<<<< HEAD
+    "statuses_count": 10702, 
+=======
     "statuses_count": 10703, 
+>>>>>>> 9a357d577dc80dbe42d2e77853ee40130847a449
     "description": "#BlackLivesMatter  \u2022  #TPOCRightsNow  \u2022 sie/hir pronouns \u2022 i love you be smile please \u2022 the total embodiment of chaos has no gender \u2726\u2726", 
     "friends_count": 287, 
     "location": "starship enterprise", 

@@ -1,0 +1,2380 @@
+{
+  "tweets": {
+    "563801277432614912": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "when people come to me looking for sympathy\n#intj \n#mbti http://t.co/rgnWbGVyPO", 
+      "in_reply_to_status_id": null, 
+      "id": 563801277432614912, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              44, 
+              49
+            ], 
+            "text": "intj"
+          }, 
+          {
+            "indices": [
+              51, 
+              56
+            ], 
+            "text": "mbti"
+          }
+        ], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/Worldof16minds/status/563801277432614912/photo/1", 
+            "display_url": "pic.twitter.com/rgnWbGVyPO", 
+            "url": "http://t.co/rgnWbGVyPO", 
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/B9MGRa1IgAAWEG6.png", 
+            "id_str": "563801274681163776", 
+            "sizes": {
+              "small": {
+                "h": 192, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 212, 
+                "resize": "fit", 
+                "w": 375
+              }, 
+              "medium": {
+                "h": 212, 
+                "resize": "fit", 
+                "w": 375
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              57, 
+              79
+            ], 
+            "type": "photo", 
+            "id": 563801274681163776, 
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/B9MGRa1IgAAWEG6.png"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563801277432614912", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Fri Feb 06 20:47:54 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/Worldof16minds/status/563801277432614912/photo/1", 
+            "display_url": "pic.twitter.com/rgnWbGVyPO", 
+            "url": "http://t.co/rgnWbGVyPO", 
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/B9MGRa1IgAAWEG6.png", 
+            "video_info": {
+              "aspect_ratio": [
+                187, 
+                106
+              ], 
+              "variants": [
+                {
+                  "url": "https://pbs.twimg.com/tweet_video/B9MGRa1IgAAWEG6.mp4", 
+                  "bitrate": 0, 
+                  "content_type": "video/mp4"
+                }
+              ]
+            }, 
+            "id_str": "563801274681163776", 
+            "sizes": {
+              "small": {
+                "h": 192, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 212, 
+                "resize": "fit", 
+                "w": 375
+              }, 
+              "medium": {
+                "h": 212, 
+                "resize": "fit", 
+                "w": 375
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              57, 
+              79
+            ], 
+            "type": "animated_gif", 
+            "id": 563801274681163776, 
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/B9MGRa1IgAAWEG6.png"
+          }
+        ]
+      }
+    }, 
+    "563735958215208961": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @IntrovertDear: So true. #introvert http://t.co/UXJwLsQKj4", 
+      "in_reply_to_status_id": null, 
+      "id": 563735958215208961, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 2203395674, 
+            "indices": [
+              3, 
+              17
+            ], 
+            "id_str": "2203395674", 
+            "screen_name": "IntrovertDear", 
+            "name": "Introvert, Dear"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              28, 
+              38
+            ], 
+            "text": "introvert"
+          }
+        ], 
+        "urls": [], 
+        "media": [
+          {
+            "source_user_id": 2203395674, 
+            "source_status_id_str": "563698796425908225", 
+            "expanded_url": "http://twitter.com/IntrovertDear/status/563698796425908225/photo/1", 
+            "display_url": "pic.twitter.com/UXJwLsQKj4", 
+            "url": "http://t.co/UXJwLsQKj4", 
+            "media_url_https": "https://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg", 
+            "source_user_id_str": "2203395674", 
+            "source_status_id": 563698796425908225, 
+            "id_str": "563698796358815744", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 408, 
+                "resize": "fit", 
+                "w": 408
+              }, 
+              "medium": {
+                "h": 408, 
+                "resize": "fit", 
+                "w": 408
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              39, 
+              61
+            ], 
+            "type": "photo", 
+            "id": 563698796358815744, 
+            "media_url": "http://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563735958215208961", 
+      "retweet_count": 22, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "So true. #introvert http://t.co/UXJwLsQKj4", 
+        "in_reply_to_status_id": null, 
+        "id": 563698796425908225, 
+        "favorite_count": 34, 
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [
+            {
+              "indices": [
+                9, 
+                19
+              ], 
+              "text": "introvert"
+            }
+          ], 
+          "urls": [], 
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/IntrovertDear/status/563698796425908225/photo/1", 
+              "display_url": "pic.twitter.com/UXJwLsQKj4", 
+              "url": "http://t.co/UXJwLsQKj4", 
+              "media_url_https": "https://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg", 
+              "id_str": "563698796358815744", 
+              "sizes": {
+                "small": {
+                  "h": 340, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 408, 
+                  "resize": "fit", 
+                  "w": 408
+                }, 
+                "medium": {
+                  "h": 408, 
+                  "resize": "fit", 
+                  "w": 408
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                20, 
+                42
+              ], 
+              "type": "photo", 
+              "id": 563698796358815744, 
+              "media_url": "http://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "563698796425908225", 
+        "retweet_count": 22, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 2203395674, 
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/487963560895467522/wlYE0ccV_normal.jpeg", 
+          "profile_sidebar_fill_color": "DDEEF6", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/MnkpLJvm8d", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://introvertdear.com/", 
+                  "display_url": "introvertdear.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 4154, 
+          "profile_sidebar_border_color": "C0DEED", 
+          "id_str": "2203395674", 
+          "profile_background_color": "C0DEED", 
+          "listed_count": 106, 
+          "is_translation_enabled": false, 
+          "utc_offset": null, 
+          "statuses_count": 967, 
+          "description": "Home for introverts and highly sensitive people.", 
+          "friends_count": 2507, 
+          "location": "", 
+          "profile_link_color": "0084B4", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/487963560895467522/wlYE0ccV_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2203395674/1419608789", 
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+          "name": "Introvert, Dear", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 1185, 
+          "screen_name": "IntrovertDear", 
+          "notifications": false, 
+          "url": "http://t.co/MnkpLJvm8d", 
+          "created_at": "Tue Nov 19 16:40:26 +0000 2013", 
+          "contributors_enabled": false, 
+          "time_zone": null, 
+          "protected": false, 
+          "default_profile": true, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Feb 06 14:00:40 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/IntrovertDear/status/563698796425908225/photo/1", 
+              "display_url": "pic.twitter.com/UXJwLsQKj4", 
+              "url": "http://t.co/UXJwLsQKj4", 
+              "media_url_https": "https://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg", 
+              "id_str": "563698796358815744", 
+              "sizes": {
+                "small": {
+                  "h": 340, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 408, 
+                  "resize": "fit", 
+                  "w": 408
+                }, 
+                "medium": {
+                  "h": 408, 
+                  "resize": "fit", 
+                  "w": 408
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                20, 
+                42
+              ], 
+              "type": "photo", 
+              "id": 563698796358815744, 
+              "media_url": "http://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg"
+            }
+          ]
+        }
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Fri Feb 06 16:28:20 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 2203395674, 
+            "source_status_id_str": "563698796425908225", 
+            "expanded_url": "http://twitter.com/IntrovertDear/status/563698796425908225/photo/1", 
+            "display_url": "pic.twitter.com/UXJwLsQKj4", 
+            "url": "http://t.co/UXJwLsQKj4", 
+            "media_url_https": "https://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg", 
+            "source_user_id_str": "2203395674", 
+            "source_status_id": 563698796425908225, 
+            "id_str": "563698796358815744", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 408, 
+                "resize": "fit", 
+                "w": 408
+              }, 
+              "medium": {
+                "h": 408, 
+                "resize": "fit", 
+                "w": 408
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              39, 
+              61
+            ], 
+            "type": "photo", 
+            "id": 563698796358815744, 
+            "media_url": "http://pbs.twimg.com/media/B9KpEZVIUAAmxPY.jpg"
+          }
+        ]
+      }
+    }, 
+    "563801633982013442": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Ok so I'm not actually that cold-hearted, I have empathy but I'm completely unable to express sympathy - I need something to fix! #intj", 
+      "in_reply_to_status_id": null, 
+      "id": 563801633982013442, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              130, 
+              135
+            ], 
+            "text": "intj"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563801633982013442", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Fri Feb 06 20:49:19 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562949505507921924": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "A conversation isn't a good conversation unless you're aggressively debating something. #intj #mbti", 
+      "in_reply_to_status_id": null, 
+      "id": 562949505507921924, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              88, 
+              93
+            ], 
+            "text": "intj"
+          }, 
+          {
+            "indices": [
+              94, 
+              99
+            ], 
+            "text": "mbti"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562949505507921924", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Wed Feb 04 12:23:15 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "563411783310778368": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "What's the point in conversation when I could be contemplating the meaning of Life, the Universe and Everything? #intj #MBTI", 
+      "in_reply_to_status_id": null, 
+      "id": 563411783310778368, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              113, 
+              118
+            ], 
+            "text": "intj"
+          }, 
+          {
+            "indices": [
+              119, 
+              124
+            ], 
+            "text": "MBTI"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "563411783310778368", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Thu Feb 05 19:00:11 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562591673000402944": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Having a million and one ideas, but virtually no motivation to follow through with any of them #intj #intjproblems #mbti", 
+      "in_reply_to_status_id": null, 
+      "id": 562591673000402944, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              95, 
+              100
+            ], 
+            "text": "intj"
+          }, 
+          {
+            "indices": [
+              101, 
+              114
+            ], 
+            "text": "intjproblems"
+          }, 
+          {
+            "indices": [
+              115, 
+              120
+            ], 
+            "text": "mbti"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562591673000402944", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Tue Feb 03 12:41:21 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562295144947658752": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @PersonalityGrow: 13 Ways You are an INTJ http://t.co/ME7A5OXVFw #intj #entj #mbti #myersbriggs #intjpersonality http://t.co/AhGpDzCBnk", 
+      "in_reply_to_status_id": null, 
+      "id": 562295144947658752, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 1014900067, 
+            "indices": [
+              3, 
+              19
+            ], 
+            "id_str": "1014900067", 
+            "screen_name": "PersonalityGrow", 
+            "name": "Myers Briggs Things"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              68, 
+              73
+            ], 
+            "text": "intj"
+          }, 
+          {
+            "indices": [
+              74, 
+              79
+            ], 
+            "text": "entj"
+          }, 
+          {
+            "indices": [
+              80, 
+              85
+            ], 
+            "text": "mbti"
+          }, 
+          {
+            "indices": [
+              86, 
+              98
+            ], 
+            "text": "myersbriggs"
+          }, 
+          {
+            "indices": [
+              99, 
+              115
+            ], 
+            "text": "intjpersonality"
+          }
+        ], 
+        "urls": [
+          {
+            "url": "http://t.co/ME7A5OXVFw", 
+            "indices": [
+              45, 
+              67
+            ], 
+            "expanded_url": "http://personalitygrowth.com/13-ways-you-are-an-intj/", 
+            "display_url": "personalitygrowth.com/13-ways-you-ar\u2026"
+          }
+        ], 
+        "media": [
+          {
+            "source_user_id": 1014900067, 
+            "source_status_id_str": "560926878425710593", 
+            "expanded_url": "http://twitter.com/PersonalityGrow/status/560926878425710593/photo/1", 
+            "display_url": "pic.twitter.com/AhGpDzCBnk", 
+            "url": "http://t.co/AhGpDzCBnk", 
+            "media_url_https": "https://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg", 
+            "source_user_id_str": "1014900067", 
+            "source_status_id": 560926878425710593, 
+            "id_str": "560926876362088449", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 800, 
+                "resize": "fit", 
+                "w": 800
+              }, 
+              "medium": {
+                "h": 600, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              116, 
+              138
+            ], 
+            "type": "photo", 
+            "id": 560926876362088449, 
+            "media_url": "http://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562295144947658752", 
+      "retweet_count": 44, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "13 Ways You are an INTJ http://t.co/ME7A5OXVFw #intj #entj #mbti #myersbriggs #intjpersonality http://t.co/AhGpDzCBnk", 
+        "in_reply_to_status_id": null, 
+        "id": 560926878425710593, 
+        "favorite_count": 40, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [
+            {
+              "indices": [
+                47, 
+                52
+              ], 
+              "text": "intj"
+            }, 
+            {
+              "indices": [
+                53, 
+                58
+              ], 
+              "text": "entj"
+            }, 
+            {
+              "indices": [
+                59, 
+                64
+              ], 
+              "text": "mbti"
+            }, 
+            {
+              "indices": [
+                65, 
+                77
+              ], 
+              "text": "myersbriggs"
+            }, 
+            {
+              "indices": [
+                78, 
+                94
+              ], 
+              "text": "intjpersonality"
+            }
+          ], 
+          "urls": [
+            {
+              "url": "http://t.co/ME7A5OXVFw", 
+              "indices": [
+                24, 
+                46
+              ], 
+              "expanded_url": "http://personalitygrowth.com/13-ways-you-are-an-intj/", 
+              "display_url": "personalitygrowth.com/13-ways-you-ar\u2026"
+            }
+          ], 
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/PersonalityGrow/status/560926878425710593/photo/1", 
+              "display_url": "pic.twitter.com/AhGpDzCBnk", 
+              "url": "http://t.co/AhGpDzCBnk", 
+              "media_url_https": "https://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg", 
+              "id_str": "560926876362088449", 
+              "sizes": {
+                "small": {
+                  "h": 340, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 800, 
+                  "resize": "fit", 
+                  "w": 800
+                }, 
+                "medium": {
+                  "h": 600, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                95, 
+                117
+              ], 
+              "type": "photo", 
+              "id": 560926876362088449, 
+              "media_url": "http://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560926878425710593", 
+        "retweet_count": 44, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 1014900067, 
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/537374911455457280/S5BGilHm_normal.png", 
+          "profile_sidebar_fill_color": "DDEEF6", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/3UHyU8MIdL", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://personalitygrowth.com", 
+                  "display_url": "personalitygrowth.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 3511, 
+          "profile_sidebar_border_color": "C0DEED", 
+          "id_str": "1014900067", 
+          "profile_background_color": "C0DEED", 
+          "listed_count": 15, 
+          "is_translation_enabled": false, 
+          "utc_offset": null, 
+          "statuses_count": 67, 
+          "description": "Myers Briggs. And other things.", 
+          "friends_count": 2541, 
+          "location": "", 
+          "profile_link_color": "0084B4", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/537374911455457280/S5BGilHm_normal.png", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1014900067/1416669417", 
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+          "name": "Myers Briggs Things", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 934, 
+          "screen_name": "PersonalityGrow", 
+          "notifications": false, 
+          "url": "http://t.co/3UHyU8MIdL", 
+          "created_at": "Sun Dec 16 10:14:35 +0000 2012", 
+          "contributors_enabled": false, 
+          "time_zone": null, 
+          "protected": false, 
+          "default_profile": true, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Jan 29 22:26:03 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/PersonalityGrow/status/560926878425710593/photo/1", 
+              "display_url": "pic.twitter.com/AhGpDzCBnk", 
+              "url": "http://t.co/AhGpDzCBnk", 
+              "media_url_https": "https://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg", 
+              "id_str": "560926876362088449", 
+              "sizes": {
+                "small": {
+                  "h": 340, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 800, 
+                  "resize": "fit", 
+                  "w": 800
+                }, 
+                "medium": {
+                  "h": 600, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                95, 
+                117
+              ], 
+              "type": "photo", 
+              "id": 560926876362088449, 
+              "media_url": "http://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg"
+            }
+          ]
+        }
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Feb 02 17:03:04 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 1014900067, 
+            "source_status_id_str": "560926878425710593", 
+            "expanded_url": "http://twitter.com/PersonalityGrow/status/560926878425710593/photo/1", 
+            "display_url": "pic.twitter.com/AhGpDzCBnk", 
+            "url": "http://t.co/AhGpDzCBnk", 
+            "media_url_https": "https://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg", 
+            "source_user_id_str": "1014900067", 
+            "source_status_id": 560926878425710593, 
+            "id_str": "560926876362088449", 
+            "sizes": {
+              "small": {
+                "h": 340, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 800, 
+                "resize": "fit", 
+                "w": 800
+              }, 
+              "medium": {
+                "h": 600, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              116, 
+              138
+            ], 
+            "type": "photo", 
+            "id": 560926876362088449, 
+            "media_url": "http://pbs.twimg.com/media/B8jQBaqIIAEHNpF.jpg"
+          }
+        ]
+      }
+    }, 
+    "562294244204101632": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "People trying to get an emotional response from you\n#intj #mbti http://t.co/NoPhlllMcJ", 
+      "in_reply_to_status_id": null, 
+      "id": 562294244204101632, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              52, 
+              57
+            ], 
+            "text": "intj"
+          }, 
+          {
+            "indices": [
+              58, 
+              63
+            ], 
+            "text": "mbti"
+          }
+        ], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/Worldof16minds/status/562294244204101632/photo/1", 
+            "display_url": "pic.twitter.com/NoPhlllMcJ", 
+            "url": "http://t.co/NoPhlllMcJ", 
+            "media_url_https": "https://pbs.twimg.com/media/B82ropnIYAAYGmz.jpg", 
+            "id_str": "562294243344277504", 
+            "sizes": {
+              "small": {
+                "h": 277, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 313, 
+                "resize": "fit", 
+                "w": 384
+              }, 
+              "medium": {
+                "h": 313, 
+                "resize": "fit", 
+                "w": 384
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              64, 
+              86
+            ], 
+            "type": "photo", 
+            "id": 562294243344277504, 
+            "media_url": "http://pbs.twimg.com/media/B82ropnIYAAYGmz.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562294244204101632", 
+      "retweet_count": 1, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Feb 02 16:59:29 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/Worldof16minds/status/562294244204101632/photo/1", 
+            "display_url": "pic.twitter.com/NoPhlllMcJ", 
+            "url": "http://t.co/NoPhlllMcJ", 
+            "media_url_https": "https://pbs.twimg.com/media/B82ropnIYAAYGmz.jpg", 
+            "id_str": "562294243344277504", 
+            "sizes": {
+              "small": {
+                "h": 277, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 313, 
+                "resize": "fit", 
+                "w": 384
+              }, 
+              "medium": {
+                "h": 313, 
+                "resize": "fit", 
+                "w": 384
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              64, 
+              86
+            ], 
+            "type": "photo", 
+            "id": 562294243344277504, 
+            "media_url": "http://pbs.twimg.com/media/B82ropnIYAAYGmz.jpg"
+          }
+        ]
+      }
+    }, 
+    "562293704170676225": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "Never being able to agree with anyone, because there's no way they can be as right as you #intjproblems #mbti", 
+      "in_reply_to_status_id": null, 
+      "id": 562293704170676225, 
+      "favorite_count": 1, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              90, 
+              103
+            ], 
+            "text": "intjproblems"
+          }, 
+          {
+            "indices": [
+              104, 
+              109
+            ], 
+            "text": "mbti"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562293704170676225", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Mon Feb 02 16:57:20 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562305349802532864": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @misspearlpearl: #INTJproblems #INTJ @INTJ_Thoughts @INTJMasterminds http://t.co/VcdQm9fXEE", 
+      "in_reply_to_status_id": null, 
+      "id": 562305349802532864, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 1246949125, 
+            "indices": [
+              3, 
+              18
+            ], 
+            "id_str": "1246949125", 
+            "screen_name": "misspearlpearl", 
+            "name": "Katie Rozell"
+          }, 
+          {
+            "id": 2378204467, 
+            "indices": [
+              40, 
+              54
+            ], 
+            "id_str": "2378204467", 
+            "screen_name": "INTJ_Thoughts", 
+            "name": "Thoughts Of An INTJ"
+          }, 
+          {
+            "id": 1892819694, 
+            "indices": [
+              55, 
+              71
+            ], 
+            "id_str": "1892819694", 
+            "screen_name": "INTJMasterminds", 
+            "name": "INTJ the Mastermind"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              20, 
+              33
+            ], 
+            "text": "INTJproblems"
+          }, 
+          {
+            "indices": [
+              34, 
+              39
+            ], 
+            "text": "INTJ"
+          }
+        ], 
+        "urls": [], 
+        "media": [
+          {
+            "source_user_id": 32688098, 
+            "source_status_id_str": "534057432449044481", 
+            "expanded_url": "http://twitter.com/TheComedyHumor/status/534057432449044481/photo/1", 
+            "display_url": "pic.twitter.com/VcdQm9fXEE", 
+            "url": "http://t.co/VcdQm9fXEE", 
+            "media_url_https": "https://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg", 
+            "source_user_id_str": "32688098", 
+            "source_status_id": 534057432449044481, 
+            "id_str": "534057427394912257", 
+            "sizes": {
+              "large": {
+                "h": 842, 
+                "resize": "fit", 
+                "w": 474
+              }, 
+              "small": {
+                "h": 603, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 842, 
+                "resize": "fit", 
+                "w": 474
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              72, 
+              94
+            ], 
+            "type": "photo", 
+            "id": 534057427394912257, 
+            "media_url": "http://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562305349802532864", 
+      "retweet_count": 1, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "#INTJproblems #INTJ @INTJ_Thoughts @INTJMasterminds http://t.co/VcdQm9fXEE", 
+        "in_reply_to_status_id": null, 
+        "id": 535312935904489472, 
+        "favorite_count": 3, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [
+            {
+              "id": 2378204467, 
+              "indices": [
+                20, 
+                34
+              ], 
+              "id_str": "2378204467", 
+              "screen_name": "INTJ_Thoughts", 
+              "name": "Thoughts Of An INTJ"
+            }, 
+            {
+              "id": 1892819694, 
+              "indices": [
+                35, 
+                51
+              ], 
+              "id_str": "1892819694", 
+              "screen_name": "INTJMasterminds", 
+              "name": "INTJ the Mastermind"
+            }
+          ], 
+          "hashtags": [
+            {
+              "indices": [
+                0, 
+                13
+              ], 
+              "text": "INTJproblems"
+            }, 
+            {
+              "indices": [
+                14, 
+                19
+              ], 
+              "text": "INTJ"
+            }
+          ], 
+          "urls": [], 
+          "media": [
+            {
+              "source_user_id": 32688098, 
+              "source_status_id_str": "534057432449044481", 
+              "expanded_url": "http://twitter.com/TheComedyHumor/status/534057432449044481/photo/1", 
+              "display_url": "pic.twitter.com/VcdQm9fXEE", 
+              "url": "http://t.co/VcdQm9fXEE", 
+              "media_url_https": "https://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg", 
+              "source_user_id_str": "32688098", 
+              "source_status_id": 534057432449044481, 
+              "id_str": "534057427394912257", 
+              "sizes": {
+                "large": {
+                  "h": 842, 
+                  "resize": "fit", 
+                  "w": 474
+                }, 
+                "small": {
+                  "h": 603, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 842, 
+                  "resize": "fit", 
+                  "w": 474
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                52, 
+                74
+              ], 
+              "type": "photo", 
+              "id": 534057427394912257, 
+              "media_url": "http://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "535312935904489472", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 1246949125, 
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/533052713404497920/Y0z39qWd_normal.jpeg", 
+          "profile_sidebar_fill_color": "DDEEF6", 
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 38, 
+          "profile_sidebar_border_color": "C0DEED", 
+          "id_str": "1246949125", 
+          "profile_background_color": "C0DEED", 
+          "listed_count": 1, 
+          "is_translation_enabled": false, 
+          "utc_offset": null, 
+          "statuses_count": 543, 
+          "description": "#INTJ Writer. Reader. Artist. Etc.", 
+          "friends_count": 137, 
+          "location": "", 
+          "profile_link_color": "0084B4", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/533052713404497920/Y0z39qWd_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": true, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246949125/1415924645", 
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+          "name": "Katie Rozell", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 910, 
+          "screen_name": "misspearlpearl", 
+          "notifications": false, 
+          "url": null, 
+          "created_at": "Wed Mar 06 20:08:59 +0000 2013", 
+          "contributors_enabled": false, 
+          "time_zone": null, 
+          "protected": false, 
+          "default_profile": true, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "und", 
+        "created_at": "Thu Nov 20 06:05:24 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "source_user_id": 32688098, 
+              "source_status_id_str": "534057432449044481", 
+              "expanded_url": "http://twitter.com/TheComedyHumor/status/534057432449044481/photo/1", 
+              "display_url": "pic.twitter.com/VcdQm9fXEE", 
+              "url": "http://t.co/VcdQm9fXEE", 
+              "media_url_https": "https://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg", 
+              "source_user_id_str": "32688098", 
+              "source_status_id": 534057432449044481, 
+              "id_str": "534057427394912257", 
+              "sizes": {
+                "large": {
+                  "h": 842, 
+                  "resize": "fit", 
+                  "w": 474
+                }, 
+                "small": {
+                  "h": 603, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 842, 
+                  "resize": "fit", 
+                  "w": 474
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                52, 
+                74
+              ], 
+              "type": "photo", 
+              "id": 534057427394912257, 
+              "media_url": "http://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg"
+            }
+          ]
+        }
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "und", 
+      "created_at": "Mon Feb 02 17:43:37 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 32688098, 
+            "source_status_id_str": "534057432449044481", 
+            "expanded_url": "http://twitter.com/TheComedyHumor/status/534057432449044481/photo/1", 
+            "display_url": "pic.twitter.com/VcdQm9fXEE", 
+            "url": "http://t.co/VcdQm9fXEE", 
+            "media_url_https": "https://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg", 
+            "source_user_id_str": "32688098", 
+            "source_status_id": 534057432449044481, 
+            "id_str": "534057427394912257", 
+            "sizes": {
+              "large": {
+                "h": 842, 
+                "resize": "fit", 
+                "w": 474
+              }, 
+              "small": {
+                "h": 603, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 842, 
+                "resize": "fit", 
+                "w": 474
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              72, 
+              94
+            ], 
+            "type": "photo", 
+            "id": 534057427394912257, 
+            "media_url": "http://pbs.twimg.com/media/B2laZpGIYAE4kne.jpg"
+          }
+        ]
+      }
+    }, 
+    "562353554602864641": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "When you realise you don't know the answer to something - http://t.co/zeldrzUAUJ", 
+      "in_reply_to_status_id": null, 
+      "id": 562353554602864641, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/Worldof16minds/status/562353554602864641/photo/1", 
+            "display_url": "pic.twitter.com/zeldrzUAUJ", 
+            "url": "http://t.co/zeldrzUAUJ", 
+            "media_url_https": "https://pbs.twimg.com/media/B83hk7aCUAAusW_.jpg", 
+            "id_str": "562353553029615616", 
+            "sizes": {
+              "small": {
+                "h": 191, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 576, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 337, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              58, 
+              80
+            ], 
+            "type": "photo", 
+            "id": 562353553029615616, 
+            "media_url": "http://pbs.twimg.com/media/B83hk7aCUAAusW_.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562353554602864641", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Feb 02 20:55:10 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/Worldof16minds/status/562353554602864641/photo/1", 
+            "display_url": "pic.twitter.com/zeldrzUAUJ", 
+            "url": "http://t.co/zeldrzUAUJ", 
+            "media_url_https": "https://pbs.twimg.com/media/B83hk7aCUAAusW_.jpg", 
+            "id_str": "562353553029615616", 
+            "sizes": {
+              "small": {
+                "h": 191, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 576, 
+                "resize": "fit", 
+                "w": 1024
+              }, 
+              "medium": {
+                "h": 337, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              58, 
+              80
+            ], 
+            "type": "photo", 
+            "id": 562353553029615616, 
+            "media_url": "http://pbs.twimg.com/media/B83hk7aCUAAusW_.jpg"
+          }
+        ]
+      }
+    }, 
+    "562304151074660352": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "the unbearable frustration when peasants are computer illiterate and struggle to copy and paste #intjproblems #mbti #intj", 
+      "in_reply_to_status_id": null, 
+      "id": 562304151074660352, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [], 
+        "hashtags": [
+          {
+            "indices": [
+              96, 
+              109
+            ], 
+            "text": "intjproblems"
+          }, 
+          {
+            "indices": [
+              110, 
+              115
+            ], 
+            "text": "mbti"
+          }, 
+          {
+            "indices": [
+              116, 
+              121
+            ], 
+            "text": "intj"
+          }
+        ], 
+        "urls": []
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562304151074660352", 
+      "retweet_count": 0, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "lang": "en", 
+      "created_at": "Mon Feb 02 17:38:51 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null
+    }, 
+    "562295209766428673": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @CGKoens: Rather than embracing &amp; growing my #INTJ tendencies, I want #MoreOfHim in 2015 http://t.co/pfzswcX5zU http://t.co/XY1A69tSiu", 
+      "in_reply_to_status_id": null, 
+      "id": 562295209766428673, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 567279305, 
+            "indices": [
+              3, 
+              11
+            ], 
+            "id_str": "567279305", 
+            "screen_name": "CGKoens", 
+            "name": "C.G.Koens"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              52, 
+              57
+            ], 
+            "text": "INTJ"
+          }, 
+          {
+            "indices": [
+              77, 
+              87
+            ], 
+            "text": "MoreOfHim"
+          }
+        ], 
+        "urls": [
+          {
+            "url": "http://t.co/pfzswcX5zU", 
+            "indices": [
+              96, 
+              118
+            ], 
+            "expanded_url": "http://bit.ly/1AQhwd1", 
+            "display_url": "bit.ly/1AQhwd1"
+          }
+        ], 
+        "media": [
+          {
+            "source_user_id": 567279305, 
+            "source_status_id_str": "553710388928200704", 
+            "expanded_url": "http://twitter.com/CGKoens/status/553710388928200704/photo/1", 
+            "display_url": "pic.twitter.com/XY1A69tSiu", 
+            "url": "http://t.co/XY1A69tSiu", 
+            "media_url_https": "https://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg", 
+            "source_user_id_str": "567279305", 
+            "source_status_id": 553710388928200704, 
+            "id_str": "553551564393025536", 
+            "sizes": {
+              "large": {
+                "h": 325, 
+                "resize": "fit", 
+                "w": 551
+              }, 
+              "small": {
+                "h": 200, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 325, 
+                "resize": "fit", 
+                "w": 551
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              119, 
+              141
+            ], 
+            "type": "photo", 
+            "id": 553551564393025536, 
+            "media_url": "http://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562295209766428673", 
+      "retweet_count": 2, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Rather than embracing &amp; growing my #INTJ tendencies, I want #MoreOfHim in 2015 http://t.co/pfzswcX5zU http://t.co/XY1A69tSiu", 
+        "in_reply_to_status_id": null, 
+        "id": 560786195131543555, 
+        "favorite_count": 4, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [
+            {
+              "indices": [
+                39, 
+                44
+              ], 
+              "text": "INTJ"
+            }, 
+            {
+              "indices": [
+                64, 
+                74
+              ], 
+              "text": "MoreOfHim"
+            }
+          ], 
+          "urls": [
+            {
+              "url": "http://t.co/pfzswcX5zU", 
+              "indices": [
+                83, 
+                105
+              ], 
+              "expanded_url": "http://bit.ly/1AQhwd1", 
+              "display_url": "bit.ly/1AQhwd1"
+            }
+          ], 
+          "media": [
+            {
+              "source_user_id": 567279305, 
+              "source_status_id_str": "553710388928200704", 
+              "expanded_url": "http://twitter.com/CGKoens/status/553710388928200704/photo/1", 
+              "display_url": "pic.twitter.com/XY1A69tSiu", 
+              "url": "http://t.co/XY1A69tSiu", 
+              "media_url_https": "https://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg", 
+              "source_user_id_str": "567279305", 
+              "source_status_id": 553710388928200704, 
+              "id_str": "553551564393025536", 
+              "sizes": {
+                "large": {
+                  "h": 325, 
+                  "resize": "fit", 
+                  "w": 551
+                }, 
+                "small": {
+                  "h": 200, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 325, 
+                  "resize": "fit", 
+                  "w": 551
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                106, 
+                128
+              ], 
+              "type": "photo", 
+              "id": 553551564393025536, 
+              "media_url": "http://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560786195131543555", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": true, 
+          "profile_text_color": "333333", 
+          "default_profile_image": false, 
+          "id": 567279305, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440550122485587968/h-tIK-ro.jpeg", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/476023029131014145/ddpcgUY8_normal.jpeg", 
+          "profile_sidebar_fill_color": "FFFFFF", 
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/deyJRXGVXT", 
+                  "indices": [
+                    0, 
+                    22
+                  ], 
+                  "expanded_url": "http://www.carriesbusynothings.com", 
+                  "display_url": "carriesbusynothings.com"
+                }
+              ]
+            }, 
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 1507, 
+          "profile_sidebar_border_color": "FFFFFF", 
+          "id_str": "567279305", 
+          "profile_background_color": "8B542B", 
+          "listed_count": 45, 
+          "is_translation_enabled": false, 
+          "utc_offset": -18000, 
+          "statuses_count": 10306, 
+          "description": "Book launch PM, #socialmedia adviser, traveler, foodie, #INTJ. I do not serve a dead Christ, but a living Christ. I know why I'm here & I know where I'm going.", 
+          "friends_count": 1988, 
+          "location": "", 
+          "profile_link_color": "9D582E", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/476023029131014145/ddpcgUY8_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/567279305/1398257333", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440550122485587968/h-tIK-ro.jpeg", 
+          "name": "C.G.Koens", 
+          "lang": "en", 
+          "profile_background_tile": true, 
+          "favourites_count": 1764, 
+          "screen_name": "CGKoens", 
+          "notifications": false, 
+          "url": "http://t.co/deyJRXGVXT", 
+          "created_at": "Mon Apr 30 14:50:06 +0000 2012", 
+          "contributors_enabled": false, 
+          "time_zone": "Eastern Time (US & Canada)", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Jan 29 13:07:02 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "source_user_id": 567279305, 
+              "source_status_id_str": "553710388928200704", 
+              "expanded_url": "http://twitter.com/CGKoens/status/553710388928200704/photo/1", 
+              "display_url": "pic.twitter.com/XY1A69tSiu", 
+              "url": "http://t.co/XY1A69tSiu", 
+              "media_url_https": "https://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg", 
+              "source_user_id_str": "567279305", 
+              "source_status_id": 553710388928200704, 
+              "id_str": "553551564393025536", 
+              "sizes": {
+                "large": {
+                  "h": 325, 
+                  "resize": "fit", 
+                  "w": 551
+                }, 
+                "small": {
+                  "h": 200, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "medium": {
+                  "h": 325, 
+                  "resize": "fit", 
+                  "w": 551
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                106, 
+                128
+              ], 
+              "type": "photo", 
+              "id": 553551564393025536, 
+              "media_url": "http://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg"
+            }
+          ]
+        }
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "en", 
+      "created_at": "Mon Feb 02 17:03:19 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 567279305, 
+            "source_status_id_str": "553710388928200704", 
+            "expanded_url": "http://twitter.com/CGKoens/status/553710388928200704/photo/1", 
+            "display_url": "pic.twitter.com/XY1A69tSiu", 
+            "url": "http://t.co/XY1A69tSiu", 
+            "media_url_https": "https://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg", 
+            "source_user_id_str": "567279305", 
+            "source_status_id": 553710388928200704, 
+            "id_str": "553551564393025536", 
+            "sizes": {
+              "large": {
+                "h": 325, 
+                "resize": "fit", 
+                "w": 551
+              }, 
+              "small": {
+                "h": 200, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "medium": {
+                "h": 325, 
+                "resize": "fit", 
+                "w": 551
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              119, 
+              141
+            ], 
+            "type": "photo", 
+            "id": 553551564393025536, 
+            "media_url": "http://pbs.twimg.com/media/B66cNwiCEAAytdc.jpg"
+          }
+        ]
+      }
+    }, 
+    "562305257381068800": {
+      "contributors": null, 
+      "truncated": false, 
+      "text": "RT @BSpinosa: #INTJProblems http://t.co/gvOf2cODS9", 
+      "in_reply_to_status_id": null, 
+      "id": 562305257381068800, 
+      "favorite_count": 0, 
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+      "retweeted": false, 
+      "coordinates": null, 
+      "entities": {
+        "symbols": [], 
+        "user_mentions": [
+          {
+            "id": 21468906, 
+            "indices": [
+              3, 
+              12
+            ], 
+            "id_str": "21468906", 
+            "screen_name": "BSpinosa", 
+            "name": "Bianca Spinosa"
+          }
+        ], 
+        "hashtags": [
+          {
+            "indices": [
+              14, 
+              27
+            ], 
+            "text": "INTJProblems"
+          }
+        ], 
+        "urls": [], 
+        "media": [
+          {
+            "source_user_id": 21468906, 
+            "source_status_id_str": "544952480086654976", 
+            "expanded_url": "http://twitter.com/BSpinosa/status/544952480086654976/photo/1", 
+            "display_url": "pic.twitter.com/gvOf2cODS9", 
+            "url": "http://t.co/gvOf2cODS9", 
+            "media_url_https": "https://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg", 
+            "source_user_id_str": "21468906", 
+            "source_status_id": 544952480086654976, 
+            "id_str": "544952479671410688", 
+            "sizes": {
+              "small": {
+                "h": 350, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 659, 
+                "resize": "fit", 
+                "w": 640
+              }, 
+              "medium": {
+                "h": 617, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              28, 
+              50
+            ], 
+            "type": "photo", 
+            "id": 544952479671410688, 
+            "media_url": "http://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg"
+          }
+        ]
+      }, 
+      "in_reply_to_screen_name": null, 
+      "id_str": "562305257381068800", 
+      "retweet_count": 2, 
+      "in_reply_to_user_id": null, 
+      "favorited": false, 
+      "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "#INTJProblems http://t.co/gvOf2cODS9", 
+        "in_reply_to_status_id": null, 
+        "id": 544952480086654976, 
+        "favorite_count": 7, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [
+            {
+              "indices": [
+                0, 
+                13
+              ], 
+              "text": "INTJProblems"
+            }
+          ], 
+          "urls": [], 
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/BSpinosa/status/544952480086654976/photo/1", 
+              "display_url": "pic.twitter.com/gvOf2cODS9", 
+              "url": "http://t.co/gvOf2cODS9", 
+              "media_url_https": "https://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg", 
+              "id_str": "544952479671410688", 
+              "sizes": {
+                "small": {
+                  "h": 350, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 659, 
+                  "resize": "fit", 
+                  "w": 640
+                }, 
+                "medium": {
+                  "h": 617, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                14, 
+                36
+              ], 
+              "type": "photo", 
+              "id": 544952479671410688, 
+              "media_url": "http://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg"
+            }
+          ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544952480086654976", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+          "follow_request_sent": false, 
+          "profile_use_background_image": false, 
+          "profile_text_color": "666666", 
+          "default_profile_image": false, 
+          "id": 21468906, 
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000147094085/bkW6BstH.jpeg", 
+          "verified": false, 
+          "profile_location": null, 
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/556842732225048576/r77ZB4Rt_normal.jpeg", 
+          "profile_sidebar_fill_color": "252429", 
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          }, 
+          "followers_count": 1655, 
+          "profile_sidebar_border_color": "FFFFFF", 
+          "id_str": "21468906", 
+          "profile_background_color": "1A1B1F", 
+          "listed_count": 51, 
+          "is_translation_enabled": false, 
+          "utc_offset": -18000, 
+          "statuses_count": 5487, 
+          "description": "MFA Creative Writing. TV Reporter. @UVA Wahoo. Optimist. Swimmer.", 
+          "friends_count": 1999, 
+          "location": "Washington, D.C", 
+          "profile_link_color": "2FC2EF", 
+          "profile_image_url": "http://pbs.twimg.com/profile_images/556842732225048576/r77ZB4Rt_normal.jpeg", 
+          "following": false, 
+          "geo_enabled": false, 
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/21468906/1413784234", 
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000147094085/bkW6BstH.jpeg", 
+          "name": "Bianca Spinosa", 
+          "lang": "en", 
+          "profile_background_tile": false, 
+          "favourites_count": 685, 
+          "screen_name": "BSpinosa", 
+          "notifications": false, 
+          "url": null, 
+          "created_at": "Sat Feb 21 06:58:23 +0000 2009", 
+          "contributors_enabled": false, 
+          "time_zone": "Quito", 
+          "protected": false, 
+          "default_profile": false, 
+          "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "und", 
+        "created_at": "Tue Dec 16 20:29:30 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/BSpinosa/status/544952480086654976/photo/1", 
+              "display_url": "pic.twitter.com/gvOf2cODS9", 
+              "url": "http://t.co/gvOf2cODS9", 
+              "media_url_https": "https://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg", 
+              "id_str": "544952479671410688", 
+              "sizes": {
+                "small": {
+                  "h": 350, 
+                  "resize": "fit", 
+                  "w": 340
+                }, 
+                "large": {
+                  "h": 659, 
+                  "resize": "fit", 
+                  "w": 640
+                }, 
+                "medium": {
+                  "h": 617, 
+                  "resize": "fit", 
+                  "w": 600
+                }, 
+                "thumb": {
+                  "h": 150, 
+                  "resize": "crop", 
+                  "w": 150
+                }
+              }, 
+              "indices": [
+                14, 
+                36
+              ], 
+              "type": "photo", 
+              "id": 544952479671410688, 
+              "media_url": "http://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg"
+            }
+          ]
+        }
+      }, 
+      "geo": null, 
+      "in_reply_to_user_id_str": null, 
+      "possibly_sensitive": false, 
+      "lang": "und", 
+      "created_at": "Mon Feb 02 17:43:15 +0000 2015", 
+      "in_reply_to_status_id_str": null, 
+      "place": null, 
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 21468906, 
+            "source_status_id_str": "544952480086654976", 
+            "expanded_url": "http://twitter.com/BSpinosa/status/544952480086654976/photo/1", 
+            "display_url": "pic.twitter.com/gvOf2cODS9", 
+            "url": "http://t.co/gvOf2cODS9", 
+            "media_url_https": "https://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg", 
+            "source_user_id_str": "21468906", 
+            "source_status_id": 544952480086654976, 
+            "id_str": "544952479671410688", 
+            "sizes": {
+              "small": {
+                "h": 350, 
+                "resize": "fit", 
+                "w": 340
+              }, 
+              "large": {
+                "h": 659, 
+                "resize": "fit", 
+                "w": 640
+              }, 
+              "medium": {
+                "h": 617, 
+                "resize": "fit", 
+                "w": 600
+              }, 
+              "thumb": {
+                "h": 150, 
+                "resize": "crop", 
+                "w": 150
+              }
+            }, 
+            "indices": [
+              28, 
+              50
+            ], 
+            "type": "photo", 
+            "id": 544952479671410688, 
+            "media_url": "http://pbs.twimg.com/media/B5APZJpIYAASjBa.jpg"
+          }
+        ]
+      }
+    }
+  }, 
+  "mbti type": "INTJ", 
+  "user": {
+    "follow_request_sent": false, 
+    "profile_use_background_image": false, 
+    "profile_text_color": "000000", 
+    "default_profile_image": false, 
+    "id": 2247871688, 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "verified": false, 
+    "profile_location": null, 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/562249083083948032/L0Jawte6_normal.jpeg", 
+    "profile_sidebar_fill_color": "000000", 
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    }, 
+    "followers_count": 7, 
+    "profile_sidebar_border_color": "000000", 
+    "id_str": "2247871688", 
+    "profile_background_color": "000000", 
+    "listed_count": 0, 
+    "is_translation_enabled": false, 
+    "utc_offset": 0, 
+    "statuses_count": 14, 
+    "description": "INTJ rants, revelations and realisms", 
+    "friends_count": 25, 
+    "location": "", 
+    "profile_link_color": "3B94D9", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/562249083083948032/L0Jawte6_normal.jpeg", 
+    "following": false, 
+    "geo_enabled": false, 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "name": "INTJ", 
+    "lang": "en-gb", 
+    "profile_background_tile": false, 
+    "favourites_count": 2, 
+    "screen_name": "Worldof16minds", 
+    "notifications": false, 
+    "url": null, 
+    "created_at": "Sun Dec 15 23:10:28 +0000 2013", 
+    "contributors_enabled": false, 
+    "time_zone": "London", 
+    "protected": false, 
+    "default_profile": false, 
+    "is_translator": false
+  }
+}
