@@ -16,6 +16,22 @@ class UserController:
     # print users
     return users
 
+  def getFollowers(self, name):
+      users = []
+      follower_ids = self.twitter_handler.getFollowers(name)
+      print len(follower_ids)
+      max_n = 10
+      i = 0
+      for id in follower_ids:
+          name = self.twitter_handler.api.get_user(id).screen_name
+          print name
+          users.append(name)
+          if i < max_n:
+              i += 1
+          else:
+              break
+      return users
+
   def getUsersBySearchTermRules(self, query):
 
 
@@ -52,8 +68,7 @@ class UserController:
   def getUser(self, screen_name):
     pass
 
-  def getUserFilesFromFolder(self, path):
-    for f in os.walk(path):
+  
 
   def getFiles(filepath):
     files = list()

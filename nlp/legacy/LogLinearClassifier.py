@@ -1,7 +1,11 @@
 __author__ = 'calvindudek'
 
 
+<<<<<<< Updated upstream:nlp/legacy/LogLinearClassifier.py
 # import document
+=======
+#import document
+>>>>>>> Stashed changes:nlp/LogLinearClassifier.py
 from FeatureHandler import FeatureHandler
 import operator
 import time

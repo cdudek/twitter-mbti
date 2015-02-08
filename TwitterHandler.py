@@ -6,7 +6,7 @@ import time
 import jsonpickle
 # from models.User import User
 import json
-
+import tweepy
 
 class TwitterHandler:
   def __init__(self):
@@ -25,7 +25,13 @@ class TwitterHandler:
     # print result
     return result
 
-
+  def getFollowers(self, name):
+    ids = []
+    for page in tweepy.Cursor(self.api.followers_ids, screen_name=name).pages():
+            ids.extend(page)
+            #do only one page for now
+            break
+    return ids
 
   def minimizeTweet(self, tweet):
     result = {}

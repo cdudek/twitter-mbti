@@ -1,0 +1,14 @@
+This is a Hackthon project for ef.(http://www.joinef.com/) final round election.
+by members: Calvin Dudek,Jiahao Sun, Quirin, Catalina, Marc
+
+We intend to do a personality prediction by analyzing one's twitter account.
+
+Here are the commly shared info. for group building.
+
+Uni-code label for MBTI:
+0: E N T J
+1: I S F P
+
+Protocal of CSV file for training data:
+_,_,_,_(first 4 digits for label) _,_,_,...... all the rest for sample data
+
