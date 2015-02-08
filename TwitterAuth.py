@@ -10,4 +10,4 @@ class TwitterAuth:
     consumer_secret = "dOuYsm4AE15fETd2FOu6p8YdpedtE2d4kAnGMt0ipM7YV7yCC7"
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
-    return tweepy.API(auth,retry_count=3,retry_delay=5,retry_errors=set([401, 404, 500, 503]),wait_on_rate_limit_notify=True,wait_on_rate_limit=True,timeout=1)
+    return tweepy.API(auth,retry_count=3,retry_delay=5,retry_errors=set([401, 404, 500, 503]),wait_on_rate_limit_notify=True,wait_on_rate_limit=False,timeout=1)

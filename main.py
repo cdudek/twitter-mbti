@@ -16,6 +16,7 @@ def main():
         for id in user_ids:
             print n , " of 100 " , mbti_type, " Users"
             user = User(id, mbti_type)
+            user.writeFile()
             n=1+n
 
 
