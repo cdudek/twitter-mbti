@@ -9,7 +9,7 @@ def process(data):
         for entity in enumerate(tweet['entities']):
             n[entity[0]]=n[entity[0]]+len(tweet['entities'][entity[1]])
     #print n , " " , len(data['tweets'])
-    usr_analysis = [round(x / float(len(data['tweets'])),4) if len(data['tweets']) > 0 else 0 for x in n]
+    usr_analysis = [round(float(len(data['tweets'])) / float(x),4) if x > 0 else 1 for x in n]
 
     nlp = NLP(data)
 
