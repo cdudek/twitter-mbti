@@ -3,7 +3,6 @@ from eval.Evaluation import Evaluation
 
 def main():
   e = Evaluation()
-  e.readResultsFromFile()
   e.getResults()
 
 
