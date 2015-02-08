@@ -3,6 +3,8 @@ from os.path import isfile, join
 import json
 from pprint import pprint
 import csv
+from nlp.TextFeatures import NLP
+
 path = "data"
 
 
@@ -14,7 +16,16 @@ def process(data):
             n[entity[0]]=n[entity[0]]+len(tweet['entities'][entity[1]])
     #print n , " " , len(data['tweets'])
     usr_interactions_per_tweet = [round(x / float(len(data['tweets'])),4) if len(data['tweets']) > 0 else 0 for x in n]
-    return usr_interactions_per_tweet
+    usr_data=usr_interactions_per_tweet
+
+    nlp = NLP(data)
+
+    usr_data.extend(nlp.getPosTweetDist())
+    usr_data.extend(nlp.getPosDescriptionDist())
+
+
+
+    return usr_data
 
 def encode_type(type):
     type = type.lower()
