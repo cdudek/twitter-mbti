@@ -3,19 +3,12 @@ from os.path import isfile, join
 import json
 from pprint import pprint
 import csv
+
 import Sample
 path = "data"
 
 
-def process(data):
-    n=[0,0,0,0,0];
-    #n={'symbols':0,'user_mentions':0,'hashtags':0,'urls':0,'media':0};
-    for tweet in data['tweets'].values():
-        for entity in enumerate(tweet['entities']):
-            n[entity[0]]=n[entity[0]]+len(tweet['entities'][entity[1]])
-    #print n , " " , len(data['tweets'])
-    usr_interactions_per_tweet = [round(x / float(len(data['tweets'])),4) if len(data['tweets']) > 0 else 0 for x in n]
-    return usr_interactions_per_tweet
+
 
 def encode_type(type):
     type = type.lower()

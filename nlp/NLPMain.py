@@ -1,10 +1,10 @@
 __author__ = 'calvindudek'
 
-from nlp.TextFeatures import NLP
-import time
+from TextFeatures import NLP
 from os import listdir
 from os.path import isfile, join
 import json
+import nltk
 
 def getFiles(path):
   # print self.path
@@ -17,19 +17,20 @@ def getFiles(path):
   return results
 
 def main():
-  print time.localtime()
-  start = time.gmtime()
-  users = getFiles("../data/")
-  tags = {}
+  # start = time.gmtime()
+  nltk.download()
+  users = getFiles("./data/")
+
   for user in users:
     nlp = NLP(user)
-    nlp.countWords()
-    print time.gmtime() - start
-    start = time.gmtime()
-  print tags
+
+    pos_words_features = nlp.getPosTweetDist()
+    pos_description_features = nlp.getPosDescriptionDist()
+
+    print pos_words_features
+    print pos_description_features
+
 
 
 if __name__ == '__main__':
   main()
-
-
