@@ -26,4 +26,4 @@ def account_for_baseline(data):
     print distribution_factor
     return[distribution_factor]
 
-account_for_baseline(get_follower_types("bmw"))
+#account_for_baseline(get_follower_types("bmw"))
