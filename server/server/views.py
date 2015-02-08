@@ -21,7 +21,8 @@ def handleProcess(request):
 
 def results(request):
     #names = gh.getPLotFromTypeCounts(handle)
-    names = ["samuel\nAnna", "alexander", "fsdfsd", "dhtyjt", "tjyujyu", "yukyukyu", "tyukr", "ertyeryt", "etyeryre", "ertyry", "fjtj", "rtyutyu", "sfgseg", "segseg", "sgsergs", "dfgserg"]
+    names = ["Samuel\nAnna", "Alexander", "Maria", "Fritz", "Chris", "Elena", "Angus", "Jim", "Stephanie", "Ian",
+             "Fanel", "Mario", "Samantha", "Alice", "Bob", "Charlie"]
     t = loader.get_template(DIR + '/templates/foopage.html')
     c = Context({ "names" : names })
     print "rendering template"
