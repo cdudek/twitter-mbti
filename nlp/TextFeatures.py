@@ -21,48 +21,65 @@ class NLP():
     self.profile_word_count = 0.0
     self.profile_word_count_by_pos = {'PRP$': 0.0, 'VBG': 0.0, 'FW': 0.0, '``': 0.0, 'VBN': 0.0, 'VBP': 0.0, 'WDT': 0.0, 'JJ': 0.0, 'WP': 0.0, 'VBZ': 0.0, 'DT': 0.0, 'RP': 0.0, 'NN': 0.0, 'VBD': 0.0, 'POS': 0.0, '.': 0.0, 'TO': 0.0, 'PRP': 0.0, 'RB': 0.0, ':': 0.0, 'NNS': 0.0, 'LS': 0.0, 'VB': 0.0, 'WRB': 0.0, 'CC': 0.0, 'PDT': 0.0, 'RBS': 0.0, 'RBR': 0.0, 'CD': 0.0, '-NONE-': 0.0, 'EX': 0.0, 'IN': 0.0, 'WP$': 0.0, 'MD': 0.0, 'NNPS': 0.0, 'JJS': 0.0, 'JJR': 0.0, 'SYM': 0.0, 'UH': 0.0, 'NNP': 0.0}
 
-    self.__getPosCount()
-    self.__getProfilePosCount()
+    self.__getPosProfileWordCount()
+    self.__getPosWordCount()
 
 
 
-  def __getProfilePosCount(self):
+  def __getPosProfileWordCount(self):
     # for user in self.__user["user"]:
     # print user
     description = self.__user["user"]["description"]
 
     if description != "":
+      # print description
       tokens = self.__tokenizeTweet(description)
-      self.__addPosToDict(tokens)
+      self.__addPosToDictProfile(tokens)
 
 
-  def __getPosCount(self):
+  def __getPosWordCount(self):
     for tweet in self.__user["tweets"].values():
       tokens = self.__tokenizeTweet(tweet["text"])
       self.__addPosToDict(tokens)
 
+  def getPosDescriptionDist(self):
+    results = list()
+    for val in self.profile_word_count_by_pos.values():
+      # print val
+      try:
+        results.append(val/self.profile_word_count)
+      except:
+        results.append(0.0)
 
+    return results
+
+  def getPosTweetDist(self):
+    results = list()
+    for val in self.tweet_word_count_by_pos.values():
+      results.append(val/self.tweet_word_count)
+    return results
 
   def __addPosToDict(self, tokens):
     tokens = nltk.pos_tag(tokens)
     for token in tokens:
       try:
-        self.tweet_word_count_by_pos[token[1]] += 1
-        self.tweet_word_count  += 1
+        self.tweet_word_count_by_pos[token[1]] += 1.0
+        self.tweet_word_count  += 1.0
       except:
-        self.tweet_word_count_by_pos[token[1]] = 1
-        self.tweet_word_count  += 1
+        self.tweet_word_count_by_pos[token[1]] = 1.0
+        self.tweet_word_count  += 1.0
 
 
   def __addPosToDictProfile(self, tokens):
     tokens = nltk.pos_tag(tokens)
+    # print tokens
     for token in tokens:
       try:
-        self.profile_word_count_by_pos[token[1]] += 1
-        self.profile_word_count += 1
+        self.profile_word_count_by_pos[token[1]] += 1.0
+        self.profile_word_count += 1.0
       except:
-        self.profile_word_count_by_pos[token[1]] = 1
-        self.profile_word_count += 1
+        self.profile_word_count_by_pos[token[1]] = 1.0
+        self.profile_word_count += 1.0
 
 
   def __tokenizeTweet(self, tweet):
