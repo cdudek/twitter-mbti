@@ -9,8 +9,6 @@ class Evaluation():
     self.path = "../accuracy_results.json"
     self.labels = ['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ','ENFP','ENTJ','ENTP','ESFJ','ESFP','ESTJ','ESTP']
 
-
-
   def readResultsFromFile(self):
     self.predictions = json.loads(open(self.path).read())
     print self.predictions
