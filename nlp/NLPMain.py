@@ -17,15 +17,21 @@ def getFiles(path):
   return results
 
 def main():
-  print time.localtime()
-  start = time.gmtime()
+  # start = time.gmtime()
   users = getFiles("../data/")
   tags = {}
   for user in users:
     nlp = NLP(user)
-    nlp.countWords()
-    print time.gmtime() - start
-    start = time.gmtime()
+
+    for key, val in nlp.profile_word_count_by_pos.items():
+      try:
+        print "%s: %.4f" % (key, val/nlp.profile_word_count)
+      except:
+        print "%s: %.4f" % (key, 0.0)
+
+    for key, val in nlp.tweet_word_count_by_pos.items():
+      print "%s: %.4f" % (key, val/nlp.tweet_word_count)
+
   print tags
 
 
