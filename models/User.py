@@ -9,6 +9,7 @@ class User:
     self.tweets = {}
     self.twitter_handler = TwitterHandler()
     self.user_timeline = self.twitter_handler.getUserTimeline(screen_name)
+    self.valid = self.user_timeline
     self.mbti_type = mbti_type
 
     for status in self.user_timeline:
@@ -17,8 +18,6 @@ class User:
         self.setProperties(status["user"])
       status.pop("user")
       self.tweets[status["id"]] = status
-
-    self.writeFile()
 
   def getUserAsJson(self):
     return {"user": self.properties, "tweets": self.tweets, "mbti type": self.mbti_type}
@@ -41,9 +40,6 @@ class User:
 
 
   def writeFile(self):
-    file_name = "data/" + self.mbti_type + "_"+ self.screen_name[1:] + ".json"
+    file_name = "data/" + self.mbti_type + "_"+ self.screen_name[0:] + ".json"
     file = open(file_name, "w")
-    file.write("")
-
-    file = open(file_name, "a")
     json.dump(self.getUserAsJson(), file, indent=2)
