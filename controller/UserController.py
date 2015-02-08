@@ -19,7 +19,7 @@ class UserController:
       users = []
       follower_ids = self.twitter_handler.getFollowers(name)
       print len(follower_ids)
-      max_n = 10
+      max_n = 5
       i = 0
       for id in follower_ids:
           name = self.twitter_handler.api.get_user(id).screen_name

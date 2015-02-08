@@ -45,7 +45,7 @@ def main(name):
         user = User(name, "unknown")
         data = sample_analysis.process(user.getUserAsJson())
         type = predict(data)
-        result[type].append(name)
+        result[decodeType(type)].append(name)
 
     for k, v in result.iteritems():
         print "{}: {}".format(k, v)

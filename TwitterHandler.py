@@ -21,7 +21,11 @@ class TwitterHandler:
     return user
 
   def getUserTimeline(self, screen_name):
-    return self.api.user_timeline(screen_name, count=200)
+    try:
+        return self.api.user_timeline(screen_name, count=200)
+    except Exception:
+        return {}
+
 
   def getFollowers(self, name):
     ids = []
