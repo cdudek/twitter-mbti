@@ -23,6 +23,6 @@ def main():
         eval.append(result)
 
     with open("accuracy_results.json", "w") as f:
-        json.dump(eval, f)
+        json.dump(eval, f, indent=2)
 
 main()

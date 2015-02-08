@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 .idea/*
+
 # C extensions
 *.so
 .idea/
 .idea/workspace.xml
+data/
 
 # Distribution / packaging
 .Python

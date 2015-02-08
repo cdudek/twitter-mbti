@@ -4,7 +4,7 @@ import re
 import os
 import json
 
-loaded_followers = 3
+loaded_followers = 200
 
 class UserController:
   def __init__(self):

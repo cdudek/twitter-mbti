@@ -139,6 +139,11 @@ class NN:
             #print(p[0], '->', self.update(p[0]))
             print(self.label(self.update(p[0])))
 
+            # output part
+            #
+            #
+            #
+            #
 
     #output the MBTI lables
     #make it a string list, not a array
@@ -242,7 +247,9 @@ class NN:
     def train(self, patterns, iterations=1000, N=0.5, M=0.1):
         # N: learning rate
         # M: momentum factor
+        count = 0
         while True :
+            count = count + 1
             error = 0.0
             for p in patterns:
                 inputs = p[0]
@@ -250,30 +257,37 @@ class NN:
                 self.update(inputs)
                 error = error + self.backPropagate(targets, N, M)
                 print('error %-.5f' % error)
-            if error < 0.1:
+            if error < 0.1 or count == iterations:
                 break
-
+            count = count + 1
 
 def demo():
     # assign patterns here.
-    pat = [
-        [[0.7,0.4,1,1], [0,1,1,1]],
-        [[0.9,0.6,1,0.9], [1,1,0,1]],
-        [[0.7,1,1,0.5], [0,1,1,0]],
-        [[1,0.9,0.1,0.2], [0,1,1,1]]
-    ]
-
+    #pat = [
+     #   [[0.7,0.4,1,1], [0,1,1,1]],
+      #  [[0.9,0.6,1,0.9], [1,1,0,1]],
+       # [[0.7,1,1,0.5], [0,1,1,0]],
+        #[[1,0.9,0.1,0.2], [0,1,1,1]]
+    #]
+    pat=[[],[]]
     #import data from raw data
     x=PrepareData()
+    x.runSample()
     pat = x.sample
-
-
+    print(pat[0][0])
+    #print(x.sample[1][1])
+    #print(len(pat[1]))
     # create a network with two input, two hidden, and one output nodes
-    n = NN(4, 4, 4)
+    n = NN(len(pat[0][0]), 4, 4)
     # train it with some patterns
     n.train(pat)
+
+
+    x.runTest()
+    test = x.target
     # test it
-    n.test(pat)
+    n.test(test)
+
 
 
 
