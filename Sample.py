@@ -28,13 +28,9 @@ class Sample:
         self.twitName = filename[splitpos+1:-5]
         print "x"
         with open(file) as json_data:
-            #try:
-                print "a"
+            try:
                 loaded = json.load(json_data)
-                print "b"
                 json_data.close()
-                print "c"
                 self.data = process(loaded)
-                print "processed {}".format(self.data)
-            #except Exception:
-            #    self.data = {}
+            except Exception:
+                self.data = {}
