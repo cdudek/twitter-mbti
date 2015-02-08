@@ -5,9 +5,9 @@ import json
 class Evaluation():
 
   def __init__(self):
-    self.predictions = list()      # every element is a tuple (sentence, ec)
     self.path = "../accuracy_results.json"
     self.labels = ['INFP','INFJ','INTJ','INTP','ISFJ','ISFP','ISTJ','ISTP','ENFJ','ENFP','ENTJ','ENTP','ESFJ','ESFP','ESTJ','ESTP']
+    self.predictions = self.readResultsFromFile()      # every element is a tuple (sentence, ec)
 
 
 
