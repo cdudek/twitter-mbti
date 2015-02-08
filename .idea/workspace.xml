@@ -2,103 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a250f4b3-86e9-4cca-8889-90606bd7214a" name="Default" comment="">
-<<<<<<< HEAD
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluated/follower_types_bmw.json" afterPath="$PROJECT_DIR$/evaluated/follower_types_bmw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/provide_results.py" afterPath="$PROJECT_DIR$/provide_results.py" />
-=======
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENFJ_arshallTanaka.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENFJ_caredlonelyy.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENFP_arshallTanaka.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENFP_caredlonelyy.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENFP_ed_Kay06.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENTJ_arolynVrjk223.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENTJ_ollieColleen.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ENTP_ieterScribante.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ESTJ_hannonLeeBird.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ESTJ_oachMiTweets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bp/HiddenLayer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_arshallTanaka.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_eetfeet.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_hirokacrut.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_oseYourLove88.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_ospelgirl12.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_ugMama4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_uncturedxsoul.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFJ_youibitani.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFP_arshallTanaka.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFP_orsepunk.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INFP_ueermargaery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_LUCARD_N_L_K.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_NTJ_Insights.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_NickMount.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_Ray2018.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_Robles1996.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_adgrammer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_amesIGuess.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_appyhating.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_arasuhoes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_arolynVrjk223.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_elparr1234.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_enane.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_gkamon.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_gungwjs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_hekar0lina.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_hrisCharabaruk.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_ictionFugitive.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_imberlyAndry.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_lleexaavr.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_llidjohnson.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_ochelleUXUI.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_ohn_Sloat.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_ollieColleen.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_ollstonecrafte.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_ose1318believe.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_revor_corpus.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_rewmistak.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_teenaleen.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_uLuFlynn.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_unVioletteRun.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_uthanr.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTJ_ypologyCentral.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTP_kashiseij.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTP_mniUke.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/INTP_raigbob99.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ISFJ_insomnee.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ISTJ_I_to_work.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bp/InputLayer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evaluated/follower_types_bmw.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/templates/foopage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/templates/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/genrate_histogram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/provide_results.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/static/foo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlp/NLPMain.py" afterPath="$PROJECT_DIR$/nlp/NLPMain.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterAuth.py" afterPath="$PROJECT_DIR$/TwitterAuth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/User.py" afterPath="$PROJECT_DIR$/models/User.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/UserController.py" afterPath="$PROJECT_DIR$/controller/UserController.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bp/bpnn.py" afterPath="$PROJECT_DIR$/bp/bpnn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate.py" afterPath="$PROJECT_DIR$/evaluate.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bp/prepareData.py" afterPath="$PROJECT_DIR$/bp/prepareData.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample_analysis.py" afterPath="$PROJECT_DIR$/sample_analysis.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples.csv" afterPath="$PROJECT_DIR$/samples.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server/templates/foopage.html" afterPath="$PROJECT_DIR$/server/server/templates/foopage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server/genrate_histogram.py" afterPath="$PROJECT_DIR$/server/server/genrate_histogram.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/provide_results.py" afterPath="$PROJECT_DIR$/provide_results.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server/settings.py" afterPath="$PROJECT_DIR$/server/server/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/twitter-mbti.iml" afterPath="$PROJECT_DIR$/.idea/twitter-mbti.iml" />
->>>>>>> FETCH_HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server/urls.py" afterPath="$PROJECT_DIR$/server/server/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server/views.py" afterPath="$PROJECT_DIR$/server/server/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="twitter-mbti.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,149 +38,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+      <file leaf-file-name="Evaluation.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eval/Evaluation.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="450">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.35639414" vertical-offset="0" max-vertical-offset="954">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#376#495#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="evaluate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/evaluate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1170">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="follower_types_bmw.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/evaluated/follower_types_bmw.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="71" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
-=======
-            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="493">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
->>>>>>> FETCH_HEAD
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/server/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-=======
-      <file leaf-file-name="NLPMain.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nlp/NLPMain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35789475" vertical-offset="0" max-vertical-offset="950">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="e#431#700#0" expanded="true" />
-              </folding>
->>>>>>> FETCH_HEAD
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample_analysis.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample_analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="-13.8" vertical-offset="0" max-vertical-offset="840">
-=======
-            <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="952">
->>>>>>> FETCH_HEAD
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="Sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="615">
-              <caret line="11" column="105" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="105" />
-=======
-      <file leaf-file-name="samples.csv" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
->>>>>>> FETCH_HEAD
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="genrate_histogram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/server/genrate_histogram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-=======
-      <file leaf-file-name="TextFeatures.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nlp/TextFeatures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="2720">
-              <caret line="31" column="52" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="52" />
-              <folding />
->>>>>>> FETCH_HEAD
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="provide_results.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/provide_results.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32142857" vertical-offset="0" max-vertical-offset="700">
-              <caret line="15" column="189" selection-start-line="15" selection-start-column="186" selection-end-line="15" selection-end-column="189" />
-              <folding>
-                <element signature="e#20#31#0" expanded="true" />
-              </folding>
-=======
-      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nlp/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/User.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="867">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
-              <folding />
->>>>>>> FETCH_HEAD
             </state>
           </provider>
         </entry>
@@ -281,24 +63,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/nlp/LogLinearClassifier.py" />
-        <option value="$PROJECT_DIR$/bp/prepareData.py" />
-        <option value="$PROJECT_DIR$/nlp/TextFeatures.py" />
-        <option value="$PROJECT_DIR$/nlp/NLPMain.py" />
-        <option value="$PROJECT_DIR$/marc.pz.py" />
-        <option value="$PROJECT_DIR$/marc.py" />
-        <option value="$PROJECT_DIR$/samples.csv" />
-        <option value="$PROJECT_DIR$/sample_analysis.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/provide_results.py" />
-        <option value="$PROJECT_DIR$/evaluated/follower_types_bmw.json" />
-=======
-        <option value="$PROJECT_DIR$/nlp/NLPMain.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
->>>>>>> FETCH_HEAD
       </list>
     </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1680" />
@@ -330,7 +100,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,35 +108,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter-mbti" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter-mbti" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter-mbti" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter-mbti" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="evaluated" />
-=======
-              <option name="myItemId" value="bp" />
->>>>>>> FETCH_HEAD
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Default" />
+        <subPane subId="Problems" />
+        <subPane subId="Project Files" />
       </pane>
     </panes>
   </component>
@@ -389,11 +135,8 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/nlp" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bp" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.provide_results">
+  <component name="RunManager" selected="Python.marc">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -453,41 +196,24 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="provide_results" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
->>>>>>> FETCH_HEAD
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-=======
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
->>>>>>> FETCH_HEAD
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="twitter-mbti" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/provide_results.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-=======
       <option name="TARGET" value="" />
       <option name="SETTINGS_FILE" value="" />
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
->>>>>>> FETCH_HEAD
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -554,9 +280,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -578,6 +301,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -620,18 +346,16 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
       <item index="1" class="java.lang.String" itemvalue="Python.sample_analysis" />
       <item index="2" class="java.lang.String" itemvalue="Python.marc" />
-      <item index="3" class="java.lang.String" itemvalue="Python.provide_results" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.provide_results" />
-        <item index="1" class="java.lang.String" itemvalue="Python.marc" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sample_analysis" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.marc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sample_analysis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -648,65 +372,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
-=======
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="false" />
->>>>>>> FETCH_HEAD
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35103786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> FETCH_HEAD
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29083666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29083666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29083666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -732,12 +424,26 @@
           <line>4</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-=======
+    <entry file="file://$PROJECT_DIR$/nlp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="867">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/models/User.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
@@ -754,18 +460,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bp/prepareData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/models/User.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/INFP_ami_Therese.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8460" max-vertical-offset="192840">
-          <caret line="564" column="20" selection-start-line="564" selection-start-column="20" selection-end-line="564" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -822,13 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/INFP_ami_Therese.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="192840">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="975">
@@ -844,7 +544,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> FETCH_HEAD
     <entry file="file://$PROJECT_DIR$/controller/UserController.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1395">
@@ -879,13 +578,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/INFP_ami_Therese.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="35626" max-vertical-offset="192600">
-          <caret line="2415" column="23" selection-start-line="2415" selection-start-column="5" selection-end-line="2415" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -938,6 +631,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="810">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -975,6 +669,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="810">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,92 +717,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/intj_10bomb.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-48.125" vertical-offset="0" max-vertical-offset="501150">
-          <caret line="77" column="18" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/bp/prepareData.py">
-=======
-    <entry file="file://$PROJECT_DIR$/data/INFP_ami_Therese.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="8460" max-vertical-offset="192840">
-          <caret line="564" column="20" selection-start-line="564" selection-start-column="20" selection-end-line="564" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
->>>>>>> FETCH_HEAD
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="420">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="450">
+          <caret line="8" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bp/prepareData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="615">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bp/bpnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/User.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="810">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nlp/NLPMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="e#28#56#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="697">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API.json">
+    <entry file="file://$PROJECT_DIR$/provide_results.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3075">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calvindudek.json">
+    <entry file="file://$PROJECT_DIR$/server/server/genrate_histogram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/samples.csv">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43396226" vertical-offset="113" max-vertical-offset="1088">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nlp/TextFeatures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2400">
+        <state vertical-scroll-proportion="0.23165618" vertical-offset="0" max-vertical-offset="954">
           <caret line="31" column="52" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="52" />
           <folding />
         </state>
@@ -1121,169 +803,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/server/__init__.py">
+    <entry file="file://$PROJECT_DIR$/models/User.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.21383648" vertical-offset="0" max-vertical-offset="954">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/server/server/templates/form.html">
+    <entry file="file://$PROJECT_DIR$/eval/Evaluation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server/templates/foopage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nltk_setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.35639414" vertical-offset="0" max-vertical-offset="954">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/evaluate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1170">
-=======
-    <entry file="file://$PROJECT_DIR$/bp/InputLayer.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
->>>>>>> FETCH_HEAD
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="615">
-          <caret line="11" column="105" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bp/HiddenLayer.csv">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="-13.8" vertical-offset="0" max-vertical-offset="840">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-=======
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="962">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.107368425" vertical-offset="0" max-vertical-offset="1037">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
->>>>>>> FETCH_HEAD
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server/genrate_histogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/evaluated/follower_types_bmw.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="701">
-          <caret line="0" column="71" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provide_results.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32142857" vertical-offset="0" max-vertical-offset="700">
-          <caret line="15" column="189" selection-start-line="15" selection-start-column="186" selection-end-line="15" selection-end-column="189" />
-          <folding>
-            <element signature="e#20#31#0" expanded="true" />
-=======
-        <state vertical-scroll-proportion="0.35789475" vertical-offset="0" max-vertical-offset="950">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#431#700#0" expanded="true" />
->>>>>>> FETCH_HEAD
+            <element signature="e#376#495#0" expanded="true" />
           </folding>
         </state>
       </provider>
